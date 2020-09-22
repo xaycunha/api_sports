@@ -1,0 +1,1660 @@
+{
+    "generated_at": "2020-09-22T19:06:51+00:00",
+    "schema": "http:\/\/schemas.sportradar.com\/bsa\/tennis\/v1\/json\/endpoints\/tennis\/tournament_info.json",
+    "tournament": {
+        "id": "sr:tournament:2781",
+        "name": "ATP Rome, Italy Men Singles",
+        "parent_id": "sr:tournament:2779",
+        "sport": {
+            "id": "sr:sport:5",
+            "name": "Tennis"
+        },
+        "category": {
+            "id": "sr:category:3",
+            "name": "ATP",
+            "level": "atp_1000"
+        },
+        "current_season": {
+            "id": "sr:season:73999",
+            "name": "2020 ATP Rome, Italy Men Singles",
+            "start_date": "2020-09-12",
+            "end_date": "2020-09-21",
+            "year": "2020"
+        },
+        "type": "singles",
+        "gender": "men"
+    },
+    "season": {
+        "id": "sr:season:73999",
+        "name": "2020 ATP Rome, Italy Men Singles",
+        "start_date": "2020-09-12",
+        "end_date": "2020-09-21",
+        "year": "2020",
+        "tournament_id": "sr:tournament:2781"
+    },
+    "tournament_round": {
+        "type": "cup",
+        "name": "final"
+    },
+    "info": {
+        "prize_money": 3465045,
+        "prize_currency": "\u20ac",
+        "surface": "Red clay",
+        "complex": "Foro Italico",
+        "complex_id": "sr:venue:38700",
+        "number_of_competitors": 107,
+        "number_of_qualified_competitors": 52,
+        "number_of_scheduled_matches": 108
+    },
+    "coverage_info": {
+        "live_coverage": "false"
+    },
+    "winner_last_season": {
+        "id": "sr:competitor:14486",
+        "name": "Nadal, Rafael",
+        "abbreviation": "NAD"
+    },
+    "competitors": [{
+        "id": "sr:competitor:44547",
+        "name": "Albot, Radu",
+        "nationality": "Moldova",
+        "country_code": "MDA",
+        "abbreviation": "ALB"
+    }, {
+        "id": "sr:competitor:15561",
+        "name": "Anderson, Kevin",
+        "nationality": "South Africa",
+        "country_code": "ZAF",
+        "abbreviation": "AND"
+    }, {
+        "id": "sr:competitor:195800",
+        "name": "Auger-Aliassime, Felix",
+        "nationality": "Canada",
+        "country_code": "CAN",
+        "abbreviation": "AUG"
+    }, {
+        "id": "sr:competitor:38183",
+        "name": "Bagnis, Facundo",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "BAG"
+    }, {
+        "id": "sr:competitor:26204",
+        "name": "Basilashvili, Nikoloz",
+        "nationality": "Georgia",
+        "country_code": "GEO",
+        "abbreviation": "BAS"
+    }, {
+        "id": "sr:competitor:38022",
+        "name": "Bedene, Aljaz",
+        "nationality": "Slovenia",
+        "country_code": "SVN",
+        "abbreviation": "BED"
+    }, {
+        "id": "sr:competitor:221538",
+        "name": "Berrettini, Jacopo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "BER"
+    }, {
+        "id": "sr:competitor:112783",
+        "name": "Berrettini, Matteo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "BER"
+    }, {
+        "id": "sr:competitor:163480",
+        "name": "Bublik, Alexander",
+        "nationality": "Kazakhstan",
+        "country_code": "KAZ",
+        "abbreviation": "BUB"
+    }, {
+        "id": "sr:competitor:51141",
+        "name": "Carballes Baena, Roberto",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "CAR"
+    }, {
+        "id": "sr:competitor:40800",
+        "name": "Carreno Busta, Pablo",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "CAR"
+    }, {
+        "id": "sr:competitor:59310",
+        "name": "Caruso, Salvatore",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "CAR"
+    }, {
+        "id": "sr:competitor:44549",
+        "name": "Cecchinato, Marco",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "CEC"
+    }, {
+        "id": "sr:competitor:15829",
+        "name": "Chardy, Jeremy",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "CHA"
+    }, {
+        "id": "sr:competitor:15387",
+        "name": "Cilic, Marin",
+        "nationality": "Croatia",
+        "country_code": "HRV",
+        "abbreviation": "CIL"
+    }, {
+        "id": "sr:competitor:399637",
+        "name": "Cobolli, Flavio",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "COB"
+    }, {
+        "id": "sr:competitor:54573",
+        "name": "Coria, Federico",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "COR"
+    }, {
+        "id": "sr:competitor:64580",
+        "name": "Coric, Borna",
+        "nationality": "Croatia",
+        "country_code": "HRV",
+        "abbreviation": "COR"
+    }, {
+        "id": "sr:competitor:48632",
+        "name": "Daniel, Taro",
+        "nationality": "Japan",
+        "country_code": "JPN",
+        "abbreviation": "DAN"
+    }, {
+        "id": "sr:competitor:534043",
+        "name": "Darderi, Luciano",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "DAR"
+    }, {
+        "id": "sr:competitor:157456",
+        "name": "Davidovich Fokina, Alejandro",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "DAV"
+    }, {
+        "id": "sr:competitor:57289",
+        "name": "Dellien, Hugo",
+        "nationality": "Bolivia",
+        "country_code": "BOL",
+        "abbreviation": "DEL"
+    }, {
+        "id": "sr:competitor:36298",
+        "name": "Diez, Steven",
+        "nationality": "Canada",
+        "country_code": "CAN",
+        "abbreviation": "DIE"
+    }, {
+        "id": "sr:competitor:23581",
+        "name": "Dimitrov, Grigor",
+        "nationality": "Bulgaria",
+        "country_code": "BGR",
+        "abbreviation": "DIM"
+    }, {
+        "id": "sr:competitor:14882",
+        "name": "Djokovic, Novak",
+        "nationality": "Serbia",
+        "country_code": "SRB",
+        "abbreviation": "DJO"
+    }, {
+        "id": "sr:competitor:17017",
+        "name": "Donskoy, Evgeny",
+        "nationality": "Russia",
+        "country_code": "RUS",
+        "abbreviation": "DON"
+    }, {
+        "id": "sr:competitor:39711",
+        "name": "Duckworth, James",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "DUC"
+    }, {
+        "id": "sr:competitor:49172",
+        "name": "Dzumhur, Damir",
+        "nationality": "Bosnia & Herzegovina",
+        "country_code": "BIH",
+        "abbreviation": "DZU"
+    }, {
+        "id": "sr:competitor:65382",
+        "name": "Edmund, Kyle",
+        "nationality": "Great Britain",
+        "country_code": "GBR",
+        "abbreviation": "EDM"
+    }, {
+        "id": "sr:competitor:16375",
+        "name": "Evans, Daniel",
+        "nationality": "Great Britain",
+        "country_code": "GBR",
+        "abbreviation": "EVA"
+    }, {
+        "id": "sr:competitor:15434",
+        "name": "Fognini, Fabio",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "FOG"
+    }, {
+        "id": "sr:competitor:252239",
+        "name": "Forti, Francesco",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "FOR"
+    }, {
+        "id": "sr:competitor:136042",
+        "name": "Fritz, Taylor",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "FRI"
+    }, {
+        "id": "sr:competitor:92074",
+        "name": "Galan, Daniel Elahi",
+        "nationality": "Colombia",
+        "country_code": "COL",
+        "abbreviation": "GAL"
+    }, {
+        "id": "sr:competitor:64570",
+        "name": "Garin, Cristian",
+        "nationality": "Chile",
+        "country_code": "CHL",
+        "abbreviation": "GAR"
+    }, {
+        "id": "sr:competitor:49283",
+        "name": "Gerasimov, Egor",
+        "nationality": "Belarus",
+        "country_code": "BLR",
+        "abbreviation": "GER"
+    }, {
+        "id": "sr:competitor:16833",
+        "name": "Giannessi, Alessandro",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "GIA"
+    }, {
+        "id": "sr:competitor:619900",
+        "name": "Gigante, Matteo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "GIG"
+    }, {
+        "id": "sr:competitor:42379",
+        "name": "Giron, Marcos",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "GIR"
+    }, {
+        "id": "sr:competitor:25838",
+        "name": "Goffin, David",
+        "nationality": "Belgium",
+        "country_code": "BEL",
+        "abbreviation": "GOF"
+    }, {
+        "id": "sr:competitor:15725",
+        "name": "Gulbis, Ernests",
+        "nationality": "Latvia",
+        "country_code": "LVA",
+        "abbreviation": "GUL"
+    }, {
+        "id": "sr:competitor:157808",
+        "name": "Harris, Lloyd",
+        "nationality": "South Africa",
+        "country_code": "ZAF",
+        "abbreviation": "HAR"
+    }, {
+        "id": "sr:competitor:38908",
+        "name": "Horansky, Filip",
+        "nationality": "Slovakia",
+        "country_code": "SVK",
+        "abbreviation": "HOR"
+    }, {
+        "id": "sr:competitor:185388",
+        "name": "Humbert, Ugo",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "HUM"
+    }, {
+        "id": "sr:competitor:158896",
+        "name": "Hurkacz, Hubert",
+        "nationality": "Poland",
+        "country_code": "POL",
+        "abbreviation": "HUR"
+    }, {
+        "id": "sr:competitor:89320",
+        "name": "Ivashka, Ilya",
+        "nationality": "Belarus",
+        "country_code": "BLR",
+        "abbreviation": "IVA"
+    }, {
+        "id": "sr:competitor:130398",
+        "name": "Kecmanovic, Miomir",
+        "nationality": "Serbia",
+        "country_code": "SRB",
+        "abbreviation": "KEC"
+    }, {
+        "id": "sr:competitor:90080",
+        "name": "Khachanov, Karen",
+        "nationality": "Russia",
+        "country_code": "RUS",
+        "abbreviation": "KHA"
+    }, {
+        "id": "sr:competitor:38408",
+        "name": "Klahn, Bradley",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "KLA"
+    }, {
+        "id": "sr:competitor:129368",
+        "name": "Koepfer, Dominik",
+        "nationality": "Germany",
+        "country_code": "DEU",
+        "abbreviation": "KOE"
+    }, {
+        "id": "sr:competitor:57021",
+        "name": "Kovalik, Jozef",
+        "nationality": "Slovakia",
+        "country_code": "SVK",
+        "abbreviation": "KOV"
+    }, {
+        "id": "sr:competitor:22970",
+        "name": "Krajinovic, Filip",
+        "nationality": "Serbia",
+        "country_code": "SRB",
+        "abbreviation": "KRA"
+    }, {
+        "id": "sr:competitor:16683",
+        "name": "Kukushkin, Mikhail",
+        "nationality": "Kazakhstan",
+        "country_code": "KAZ",
+        "abbreviation": "KUK"
+    }, {
+        "id": "sr:competitor:97647",
+        "name": "Kwon, Soonwoo",
+        "nationality": "Republic of Korea",
+        "country_code": "KOR",
+        "abbreviation": "KWON"
+    }, {
+        "id": "sr:competitor:39234",
+        "name": "Lajovic, Dusan",
+        "nationality": "Serbia",
+        "country_code": "SRB",
+        "abbreviation": "LAJ"
+    }, {
+        "id": "sr:competitor:47297",
+        "name": "Londero, Juan Ignacio",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "LJI"
+    }, {
+        "id": "sr:competitor:14914",
+        "name": "Lorenzi, Paolo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "LOR"
+    }, {
+        "id": "sr:competitor:69500",
+        "name": "Mager, Gianluca",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "MAG"
+    }, {
+        "id": "sr:competitor:15894",
+        "name": "Mannarino, Adrian",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "MAN"
+    }, {
+        "id": "sr:competitor:23598",
+        "name": "Marcora, Roberto",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "MAR"
+    }, {
+        "id": "sr:competitor:24415",
+        "name": "Martin, Andrej",
+        "nationality": "Slovakia",
+        "country_code": "SVK",
+        "abbreviation": "MAR"
+    }, {
+        "id": "sr:competitor:77223",
+        "name": "Martinez, Pedro",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "MAR"
+    }, {
+        "id": "sr:competitor:15565",
+        "name": "Mayer, Leonardo",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "MAY"
+    }, {
+        "id": "sr:competitor:33115",
+        "name": "Millman, John",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "MIL"
+    }, {
+        "id": "sr:competitor:14844",
+        "name": "Monfils, Gael",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "MON"
+    }, {
+        "id": "sr:competitor:47603",
+        "name": "Monteiro, Thiago",
+        "nationality": "Brazil",
+        "country_code": "BRA",
+        "abbreviation": "MON"
+    }, {
+        "id": "sr:competitor:100097",
+        "name": "Moroni, Gian Marco",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "MOR"
+    }, {
+        "id": "sr:competitor:175014",
+        "name": "Moutet, Corentin",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "MOU"
+    }, {
+        "id": "sr:competitor:359602",
+        "name": "Musetti, Lorenzo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "MUS"
+    }, {
+        "id": "sr:competitor:14486",
+        "name": "Nadal, Rafael",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "NAD"
+    }, {
+        "id": "sr:competitor:15733",
+        "name": "Nishikori, Kei",
+        "nationality": "Japan",
+        "country_code": "JPN",
+        "abbreviation": "NIS"
+    }, {
+        "id": "sr:competitor:59281",
+        "name": "Nishioka, Yoshihito",
+        "nationality": "Japan",
+        "country_code": "JPN",
+        "abbreviation": "NIS"
+    }, {
+        "id": "sr:competitor:95935",
+        "name": "Norrie, Cameron",
+        "nationality": "Great Britain",
+        "country_code": "GBR",
+        "abbreviation": "NOR"
+    }, {
+        "id": "sr:competitor:22218",
+        "name": "Paire, Benoit",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "PAI"
+    }, {
+        "id": "sr:competitor:138546",
+        "name": "Paul, Tommy",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "PAU"
+    }, {
+        "id": "sr:competitor:24418",
+        "name": "Pella, Guido",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "PEL"
+    }, {
+        "id": "sr:competitor:80665",
+        "name": "Polmans, Marc",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "POL"
+    }, {
+        "id": "sr:competitor:128552",
+        "name": "Popyrin, Alexei",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "POP"
+    }, {
+        "id": "sr:competitor:15301",
+        "name": "Querrey, Sam",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "QUE"
+    }, {
+        "id": "sr:competitor:16822",
+        "name": "Ramos-Vinolas, Albert",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "RAM"
+    }, {
+        "id": "sr:competitor:18111",
+        "name": "Raonic, Milos",
+        "nationality": "Canada",
+        "country_code": "CAN",
+        "abbreviation": "RAO"
+    }, {
+        "id": "sr:competitor:14335",
+        "name": "Robredo, Tommy",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "ROB"
+    }, {
+        "id": "sr:competitor:106755",
+        "name": "Rublev, Andrey",
+        "nationality": "Russia",
+        "country_code": "RUS",
+        "abbreviation": "RUB"
+    }, {
+        "id": "sr:competitor:119248",
+        "name": "Ruud, Casper",
+        "nationality": "Norway",
+        "country_code": "NOR",
+        "abbreviation": "RUU"
+    }, {
+        "id": "sr:competitor:36678",
+        "name": "Sandgren, Tennys",
+        "nationality": "USA",
+        "country_code": "USA",
+        "abbreviation": "SAN"
+    }, {
+        "id": "sr:competitor:39712",
+        "name": "Saville, Luke",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "SAV"
+    }, {
+        "id": "sr:competitor:48599",
+        "name": "Schwartzman, Diego",
+        "nationality": "Argentina",
+        "country_code": "ARG",
+        "abbreviation": "SWM"
+    }, {
+        "id": "sr:competitor:14773",
+        "name": "Seppi, Andreas",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "SEP"
+    }, {
+        "id": "sr:competitor:117916",
+        "name": "Shapovalov, Denis",
+        "nationality": "Canada",
+        "country_code": "CAN",
+        "abbreviation": "SHA"
+    }, {
+        "id": "sr:competitor:14736",
+        "name": "Simon, Gilles",
+        "nationality": "France",
+        "country_code": "FRA",
+        "abbreviation": "SIM"
+    }, {
+        "id": "sr:competitor:225050",
+        "name": "Sinner, Jannik",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "SIN"
+    }, {
+        "id": "sr:competitor:104847",
+        "name": "Sonego, Lorenzo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "SON"
+    }, {
+        "id": "sr:competitor:37785",
+        "name": "Sousa, Joao",
+        "nationality": "Portugal",
+        "country_code": "PRT",
+        "abbreviation": "SOU"
+    }, {
+        "id": "sr:competitor:46391",
+        "name": "Struff, Jan-Lennard",
+        "nationality": "Germany",
+        "country_code": "DEU",
+        "abbreviation": "STR"
+    }, {
+        "id": "sr:competitor:16507",
+        "name": "Sugita, Yuichi",
+        "nationality": "Japan",
+        "country_code": "JPN",
+        "abbreviation": "SUG"
+    }, {
+        "id": "sr:competitor:36300",
+        "name": "Travaglia, Stefano",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "TRA"
+    }, {
+        "id": "sr:competitor:122366",
+        "name": "Tsitsipas, Stefanos",
+        "nationality": "Greece",
+        "country_code": "GRC",
+        "abbreviation": "TSI"
+    }, {
+        "id": "sr:competitor:46390",
+        "name": "Uchiyama, Yasutaka",
+        "nationality": "Japan",
+        "country_code": "JPN",
+        "abbreviation": "UCH"
+    }, {
+        "id": "sr:competitor:16151",
+        "name": "Venus, Michael",
+        "nationality": "New Zealand",
+        "country_code": "NZL",
+        "abbreviation": "VEN"
+    }, {
+        "id": "sr:competitor:14488",
+        "name": "Verdasco, Fernando",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "VER"
+    }, {
+        "id": "sr:competitor:24003",
+        "name": "Viola, Matteo",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "VIO"
+    }, {
+        "id": "sr:competitor:14548",
+        "name": "Wawrinka, Stan",
+        "nationality": "Switzerland",
+        "country_code": "CHE",
+        "abbreviation": "WAW"
+    }, {
+        "id": "sr:competitor:83661",
+        "name": "Ymer, Elias",
+        "nationality": "Sweden",
+        "country_code": "SWE",
+        "abbreviation": "YME"
+    }, {
+        "id": "sr:competitor:152048",
+        "name": "Ymer, Mikael",
+        "nationality": "Sweden",
+        "country_code": "SWE",
+        "abbreviation": "YME"
+    }, {
+        "id": "sr:competitor:108565",
+        "name": "Zapata Miralles, Bernabe",
+        "nationality": "Spain",
+        "country_code": "ESP",
+        "abbreviation": "ZAP"
+    }, {
+        "id": "sr:competitor:298122",
+        "name": "Zeppieri, Giulio",
+        "nationality": "Italy",
+        "country_code": "ITA",
+        "abbreviation": "ZEP"
+    }, {
+        "id": "sr:competitor:214182",
+        "name": "de Minaur, Alex",
+        "nationality": "Australia",
+        "country_code": "AUS",
+        "abbreviation": "DEM"
+    }],
+    "stages": [{
+        "type": "qualification",
+        "competitors": [{
+            "id": "sr:competitor:44547",
+            "name": "Albot, Radu",
+            "nationality": "Moldova",
+            "country_code": "MDA",
+            "abbreviation": "ALB",
+            "seed": 10,
+            "qualification_path": "seeded",
+            "bracket_number": 40
+        }, {
+            "id": "sr:competitor:38183",
+            "name": "Bagnis, Facundo",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "BAG",
+            "bracket_number": 42
+        }, {
+            "id": "sr:competitor:38022",
+            "name": "Bedene, Aljaz",
+            "nationality": "Slovenia",
+            "country_code": "SVN",
+            "abbreviation": "BED",
+            "seed": 3,
+            "qualification_path": "seeded",
+            "bracket_number": 17
+        }, {
+            "id": "sr:competitor:221538",
+            "name": "Berrettini, Jacopo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "BER",
+            "qualification_path": "alternative",
+            "bracket_number": 25
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 18
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 10
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 2
+        }, {
+            "id": "sr:competitor:51141",
+            "name": "Carballes Baena, Roberto",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "CAR",
+            "bracket_number": 63
+        }, {
+            "id": "sr:competitor:44549",
+            "name": "Cecchinato, Marco",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "CEC",
+            "bracket_number": 23
+        }, {
+            "id": "sr:competitor:15829",
+            "name": "Chardy, Jeremy",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "CHA",
+            "seed": 7,
+            "qualification_path": "seeded",
+            "bracket_number": 49
+        }, {
+            "id": "sr:competitor:399637",
+            "name": "Cobolli, Flavio",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "COB",
+            "bracket_number": 11
+        }, {
+            "id": "sr:competitor:54573",
+            "name": "Coria, Federico",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "COR",
+            "bracket_number": 38
+        }, {
+            "id": "sr:competitor:48632",
+            "name": "Daniel, Taro",
+            "nationality": "Japan",
+            "country_code": "JPN",
+            "abbreviation": "DAN",
+            "bracket_number": 15
+        }, {
+            "id": "sr:competitor:534043",
+            "name": "Darderi, Luciano",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "DAR",
+            "qualification_path": "wildcard",
+            "bracket_number": 7
+        }, {
+            "id": "sr:competitor:157456",
+            "name": "Davidovich Fokina, Alejandro",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "DAV",
+            "bracket_number": 58
+        }, {
+            "id": "sr:competitor:57289",
+            "name": "Dellien, Hugo",
+            "nationality": "Bolivia",
+            "country_code": "BOL",
+            "abbreviation": "DEL",
+            "bracket_number": 29
+        }, {
+            "id": "sr:competitor:36298",
+            "name": "Diez, Steven",
+            "nationality": "Canada",
+            "country_code": "CAN",
+            "abbreviation": "DIE",
+            "bracket_number": 39
+        }, {
+            "id": "sr:competitor:17017",
+            "name": "Donskoy, Evgeny",
+            "nationality": "Russia",
+            "country_code": "RUS",
+            "abbreviation": "DON",
+            "bracket_number": 19
+        }, {
+            "id": "sr:competitor:39711",
+            "name": "Duckworth, James",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "DUC",
+            "bracket_number": 43
+        }, {
+            "id": "sr:competitor:49172",
+            "name": "Dzumhur, Damir",
+            "nationality": "Bosnia & Herzegovina",
+            "country_code": "BIH",
+            "abbreviation": "DZU",
+            "bracket_number": 34
+        }, {
+            "id": "sr:competitor:252239",
+            "name": "Forti, Francesco",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "FOR",
+            "qualification_path": "wildcard",
+            "bracket_number": 53
+        }, {
+            "id": "sr:competitor:92074",
+            "name": "Galan, Daniel Elahi",
+            "nationality": "Colombia",
+            "country_code": "COL",
+            "abbreviation": "GAL",
+            "bracket_number": 52
+        }, {
+            "id": "sr:competitor:49283",
+            "name": "Gerasimov, Egor",
+            "nationality": "Belarus",
+            "country_code": "BLR",
+            "abbreviation": "GER",
+            "seed": 12,
+            "qualification_path": "seeded",
+            "bracket_number": 24
+        }, {
+            "id": "sr:competitor:16833",
+            "name": "Giannessi, Alessandro",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "GIA",
+            "bracket_number": 30
+        }, {
+            "id": "sr:competitor:619900",
+            "name": "Gigante, Matteo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "GIG",
+            "bracket_number": 5
+        }, {
+            "id": "sr:competitor:42379",
+            "name": "Giron, Marcos",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "GIR",
+            "bracket_number": 47
+        }, {
+            "id": "sr:competitor:15725",
+            "name": "Gulbis, Ernests",
+            "nationality": "Latvia",
+            "country_code": "LVA",
+            "abbreviation": "GUL",
+            "bracket_number": 45
+        }, {
+            "id": "sr:competitor:157808",
+            "name": "Harris, Lloyd",
+            "nationality": "South Africa",
+            "country_code": "ZAF",
+            "abbreviation": "HAR",
+            "bracket_number": 60
+        }, {
+            "id": "sr:competitor:38908",
+            "name": "Horansky, Filip",
+            "nationality": "Slovakia",
+            "country_code": "SVK",
+            "abbreviation": "HOR",
+            "bracket_number": 61
+        }, {
+            "id": "sr:competitor:89320",
+            "name": "Ivashka, Ilya",
+            "nationality": "Belarus",
+            "country_code": "BLR",
+            "abbreviation": "IVA",
+            "bracket_number": 6
+        }, {
+            "id": "sr:competitor:38408",
+            "name": "Klahn, Bradley",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "KLA",
+            "bracket_number": 22
+        }, {
+            "id": "sr:competitor:129368",
+            "name": "Koepfer, Dominik",
+            "nationality": "Germany",
+            "country_code": "DEU",
+            "abbreviation": "KOE",
+            "bracket_number": 12
+        }, {
+            "id": "sr:competitor:57021",
+            "name": "Kovalik, Jozef",
+            "nationality": "Slovakia",
+            "country_code": "SVK",
+            "abbreviation": "KOV",
+            "bracket_number": 20
+        }, {
+            "id": "sr:competitor:16683",
+            "name": "Kukushkin, Mikhail",
+            "nationality": "Kazakhstan",
+            "country_code": "KAZ",
+            "abbreviation": "KUK",
+            "bracket_number": 13
+        }, {
+            "id": "sr:competitor:97647",
+            "name": "Kwon, Soonwoo",
+            "nationality": "Republic of Korea",
+            "country_code": "KOR",
+            "abbreviation": "KWON",
+            "seed": 13,
+            "qualification_path": "seeded",
+            "bracket_number": 56
+        }, {
+            "id": "sr:competitor:47297",
+            "name": "Londero, Juan Ignacio",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "LJI",
+            "seed": 8,
+            "qualification_path": "seeded",
+            "bracket_number": 57
+        }, {
+            "id": "sr:competitor:14914",
+            "name": "Lorenzi, Paolo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "LOR",
+            "bracket_number": 37
+        }, {
+            "id": "sr:competitor:23598",
+            "name": "Marcora, Roberto",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "MAR",
+            "bracket_number": 62
+        }, {
+            "id": "sr:competitor:24415",
+            "name": "Martin, Andrej",
+            "nationality": "Slovakia",
+            "country_code": "SVK",
+            "abbreviation": "MAR",
+            "bracket_number": 51
+        }, {
+            "id": "sr:competitor:77223",
+            "name": "Martinez, Pedro",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "MAR",
+            "bracket_number": 54
+        }, {
+            "id": "sr:competitor:15565",
+            "name": "Mayer, Leonardo",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "MAY",
+            "bracket_number": 26
+        }, {
+            "id": "sr:competitor:47603",
+            "name": "Monteiro, Thiago",
+            "nationality": "Brazil",
+            "country_code": "BRA",
+            "abbreviation": "MON",
+            "seed": 16,
+            "qualification_path": "seeded",
+            "bracket_number": 16
+        }, {
+            "id": "sr:competitor:100097",
+            "name": "Moroni, Gian Marco",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "MOR",
+            "bracket_number": 36
+        }, {
+            "id": "sr:competitor:175014",
+            "name": "Moutet, Corentin",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "MOU",
+            "seed": 15,
+            "qualification_path": "seeded",
+            "bracket_number": 64
+        }, {
+            "id": "sr:competitor:359602",
+            "name": "Musetti, Lorenzo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "MUS",
+            "qualification_path": "wildcard",
+            "bracket_number": 28
+        }, {
+            "id": "sr:competitor:95935",
+            "name": "Norrie, Cameron",
+            "nationality": "Great Britain",
+            "country_code": "GBR",
+            "abbreviation": "NOR",
+            "seed": 14,
+            "qualification_path": "seeded",
+            "bracket_number": 32
+        }, {
+            "id": "sr:competitor:138546",
+            "name": "Paul, Tommy",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "PAU",
+            "seed": 6,
+            "qualification_path": "seeded",
+            "bracket_number": 41
+        }, {
+            "id": "sr:competitor:80665",
+            "name": "Polmans, Marc",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "POL",
+            "bracket_number": 46
+        }, {
+            "id": "sr:competitor:128552",
+            "name": "Popyrin, Alexei",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "POP",
+            "bracket_number": 3
+        }, {
+            "id": "sr:competitor:14335",
+            "name": "Robredo, Tommy",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "ROB",
+            "bracket_number": 35
+        }, {
+            "id": "sr:competitor:36678",
+            "name": "Sandgren, Tennys",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "SAN",
+            "seed": 1,
+            "qualification_path": "seeded",
+            "bracket_number": 1
+        }, {
+            "id": "sr:competitor:39712",
+            "name": "Saville, Luke",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "SAV",
+            "bracket_number": 4
+        }, {
+            "id": "sr:competitor:14773",
+            "name": "Seppi, Andreas",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "SEP",
+            "bracket_number": 21
+        }, {
+            "id": "sr:competitor:14736",
+            "name": "Simon, Gilles",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "SIM",
+            "seed": 2,
+            "qualification_path": "seeded",
+            "bracket_number": 9
+        }, {
+            "id": "sr:competitor:37785",
+            "name": "Sousa, Joao",
+            "nationality": "Portugal",
+            "country_code": "PRT",
+            "abbreviation": "SOU",
+            "seed": 9,
+            "qualification_path": "seeded",
+            "bracket_number": 8
+        }, {
+            "id": "sr:competitor:16507",
+            "name": "Sugita, Yuichi",
+            "nationality": "Japan",
+            "country_code": "JPN",
+            "abbreviation": "SUG",
+            "bracket_number": 59
+        }, {
+            "id": "sr:competitor:46390",
+            "name": "Uchiyama, Yasutaka",
+            "nationality": "Japan",
+            "country_code": "JPN",
+            "abbreviation": "UCH",
+            "bracket_number": 44
+        }, {
+            "id": "sr:competitor:16151",
+            "name": "Venus, Michael",
+            "nationality": "New Zealand",
+            "country_code": "NZL",
+            "abbreviation": "VEN",
+            "qualification_path": "alternative",
+            "bracket_number": 50
+        }, {
+            "id": "sr:competitor:14488",
+            "name": "Verdasco, Fernando",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "VER",
+            "seed": 5,
+            "qualification_path": "seeded",
+            "bracket_number": 33
+        }, {
+            "id": "sr:competitor:24003",
+            "name": "Viola, Matteo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "VIO",
+            "bracket_number": 55
+        }, {
+            "id": "sr:competitor:83661",
+            "name": "Ymer, Elias",
+            "nationality": "Sweden",
+            "country_code": "SWE",
+            "abbreviation": "YME",
+            "bracket_number": 14
+        }, {
+            "id": "sr:competitor:152048",
+            "name": "Ymer, Mikael",
+            "nationality": "Sweden",
+            "country_code": "SWE",
+            "abbreviation": "YME",
+            "seed": 11,
+            "qualification_path": "seeded",
+            "bracket_number": 48
+        }, {
+            "id": "sr:competitor:108565",
+            "name": "Zapata Miralles, Bernabe",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "ZAP",
+            "bracket_number": 27
+        }, {
+            "id": "sr:competitor:298122",
+            "name": "Zeppieri, Giulio",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "ZEP",
+            "bracket_number": 31
+        }]
+    }, {
+        "type": "cup",
+        "competitors": [{
+            "id": "sr:competitor:15561",
+            "name": "Anderson, Kevin",
+            "nationality": "South Africa",
+            "country_code": "ZAF",
+            "abbreviation": "AND",
+            "bracket_number": 35
+        }, {
+            "id": "sr:competitor:195800",
+            "name": "Auger-Aliassime, Felix",
+            "nationality": "Canada",
+            "country_code": "CAN",
+            "abbreviation": "AUG",
+            "seed": 16,
+            "qualification_path": "seeded",
+            "bracket_number": 8
+        }, {
+            "id": "sr:competitor:38183",
+            "name": "Bagnis, Facundo",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "BAG",
+            "qualification_path": "qualified",
+            "bracket_number": 55
+        }, {
+            "id": "sr:competitor:26204",
+            "name": "Basilashvili, Nikoloz",
+            "nationality": "Georgia",
+            "country_code": "GEO",
+            "abbreviation": "BAS",
+            "bracket_number": 28
+        }, {
+            "id": "sr:competitor:112783",
+            "name": "Berrettini, Matteo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "BER",
+            "seed": 4,
+            "qualification_path": "seeded",
+            "bracket_number": 17
+        }, {
+            "id": "sr:competitor:163480",
+            "name": "Bublik, Alexander",
+            "nationality": "Kazakhstan",
+            "country_code": "KAZ",
+            "abbreviation": "BUB",
+            "bracket_number": 30
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 15
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 2
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 47
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 18
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 63
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 31
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 34
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 61
+        }, {
+            "id": "sr:competitor:439636",
+            "name": "Bye",
+            "abbreviation": "BYE",
+            "bracket_number": 50
+        }, {
+            "id": "sr:competitor:40800",
+            "name": "Carreno Busta, Pablo",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "CAR",
+            "bracket_number": 62
+        }, {
+            "id": "sr:competitor:59310",
+            "name": "Caruso, Salvatore",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "CAR",
+            "qualification_path": "wildcard",
+            "bracket_number": 4
+        }, {
+            "id": "sr:competitor:44549",
+            "name": "Cecchinato, Marco",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "CEC",
+            "qualification_path": "qualified",
+            "bracket_number": 5
+        }, {
+            "id": "sr:competitor:15387",
+            "name": "Cilic, Marin",
+            "nationality": "Croatia",
+            "country_code": "HRV",
+            "abbreviation": "CIL",
+            "bracket_number": 29
+        }, {
+            "id": "sr:competitor:54573",
+            "name": "Coria, Federico",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "COR",
+            "qualification_path": "qualified",
+            "bracket_number": 20
+        }, {
+            "id": "sr:competitor:64580",
+            "name": "Coric, Borna",
+            "nationality": "Croatia",
+            "country_code": "HRV",
+            "abbreviation": "COR",
+            "bracket_number": 23
+        }, {
+            "id": "sr:competitor:157456",
+            "name": "Davidovich Fokina, Alejandro",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "DAV",
+            "qualification_path": "qualified",
+            "bracket_number": 59
+        }, {
+            "id": "sr:competitor:23581",
+            "name": "Dimitrov, Grigor",
+            "nationality": "Bulgaria",
+            "country_code": "BGR",
+            "abbreviation": "DIM",
+            "seed": 15,
+            "qualification_path": "seeded",
+            "bracket_number": 41
+        }, {
+            "id": "sr:competitor:14882",
+            "name": "Djokovic, Novak",
+            "nationality": "Serbia",
+            "country_code": "SRB",
+            "abbreviation": "DJO",
+            "seed": 1,
+            "qualification_path": "seeded",
+            "bracket_number": 1
+        }, {
+            "id": "sr:competitor:65382",
+            "name": "Edmund, Kyle",
+            "nationality": "Great Britain",
+            "country_code": "GBR",
+            "abbreviation": "EDM",
+            "bracket_number": 6
+        }, {
+            "id": "sr:competitor:16375",
+            "name": "Evans, Daniel",
+            "nationality": "Great Britain",
+            "country_code": "GBR",
+            "abbreviation": "EVA",
+            "bracket_number": 53
+        }, {
+            "id": "sr:competitor:15434",
+            "name": "Fognini, Fabio",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "FOG",
+            "seed": 7,
+            "qualification_path": "seeded",
+            "bracket_number": 33
+        }, {
+            "id": "sr:competitor:136042",
+            "name": "Fritz, Taylor",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "FRI",
+            "bracket_number": 21
+        }, {
+            "id": "sr:competitor:64570",
+            "name": "Garin, Cristian",
+            "nationality": "Chile",
+            "country_code": "CHL",
+            "abbreviation": "GAR",
+            "seed": 14,
+            "qualification_path": "seeded",
+            "bracket_number": 24
+        }, {
+            "id": "sr:competitor:25838",
+            "name": "Goffin, David",
+            "nationality": "Belgium",
+            "country_code": "BEL",
+            "abbreviation": "GOF",
+            "seed": 6,
+            "qualification_path": "seeded",
+            "bracket_number": 32
+        }, {
+            "id": "sr:competitor:185388",
+            "name": "Humbert, Ugo",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "HUM",
+            "bracket_number": 36
+        }, {
+            "id": "sr:competitor:158896",
+            "name": "Hurkacz, Hubert",
+            "nationality": "Poland",
+            "country_code": "POL",
+            "abbreviation": "HUR",
+            "bracket_number": 54
+        }, {
+            "id": "sr:competitor:130398",
+            "name": "Kecmanovic, Miomir",
+            "nationality": "Serbia",
+            "country_code": "SRB",
+            "abbreviation": "KEC",
+            "bracket_number": 44
+        }, {
+            "id": "sr:competitor:90080",
+            "name": "Khachanov, Karen",
+            "nationality": "Russia",
+            "country_code": "RUS",
+            "abbreviation": "KHA",
+            "seed": 11,
+            "qualification_path": "seeded",
+            "bracket_number": 25
+        }, {
+            "id": "sr:competitor:129368",
+            "name": "Koepfer, Dominik",
+            "nationality": "Germany",
+            "country_code": "DEU",
+            "abbreviation": "KOE",
+            "qualification_path": "qualified",
+            "bracket_number": 13
+        }, {
+            "id": "sr:competitor:22970",
+            "name": "Krajinovic, Filip",
+            "nationality": "Serbia",
+            "country_code": "SRB",
+            "abbreviation": "KRA",
+            "bracket_number": 7
+        }, {
+            "id": "sr:competitor:39234",
+            "name": "Lajovic, Dusan",
+            "nationality": "Serbia",
+            "country_code": "SRB",
+            "abbreviation": "LAJ",
+            "bracket_number": 60
+        }, {
+            "id": "sr:competitor:69500",
+            "name": "Mager, Gianluca",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "MAG",
+            "qualification_path": "wildcard",
+            "bracket_number": 42
+        }, {
+            "id": "sr:competitor:15894",
+            "name": "Mannarino, Adrian",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "MAN",
+            "bracket_number": 58
+        }, {
+            "id": "sr:competitor:77223",
+            "name": "Martinez, Pedro",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "MAR",
+            "qualification_path": "qualified",
+            "bracket_number": 38
+        }, {
+            "id": "sr:competitor:33115",
+            "name": "Millman, John",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "MIL",
+            "bracket_number": 52
+        }, {
+            "id": "sr:competitor:14844",
+            "name": "Monfils, Gael",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "MON",
+            "seed": 5,
+            "qualification_path": "seeded",
+            "bracket_number": 16
+        }, {
+            "id": "sr:competitor:359602",
+            "name": "Musetti, Lorenzo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "MUS",
+            "qualification_path": "qualified",
+            "bracket_number": 10
+        }, {
+            "id": "sr:competitor:14486",
+            "name": "Nadal, Rafael",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "NAD",
+            "seed": 2,
+            "qualification_path": "seeded",
+            "bracket_number": 64
+        }, {
+            "id": "sr:competitor:15733",
+            "name": "Nishikori, Kei",
+            "nationality": "Japan",
+            "country_code": "JPN",
+            "abbreviation": "NIS",
+            "bracket_number": 11
+        }, {
+            "id": "sr:competitor:59281",
+            "name": "Nishioka, Yoshihito",
+            "nationality": "Japan",
+            "country_code": "JPN",
+            "abbreviation": "NIS",
+            "bracket_number": 43
+        }, {
+            "id": "sr:competitor:22218",
+            "name": "Paire, Benoit",
+            "nationality": "France",
+            "country_code": "FRA",
+            "abbreviation": "PAI",
+            "bracket_number": 45
+        }, {
+            "id": "sr:competitor:24418",
+            "name": "Pella, Guido",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "PEL",
+            "bracket_number": 39
+        }, {
+            "id": "sr:competitor:15301",
+            "name": "Querrey, Sam",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "QUE",
+            "bracket_number": 37
+        }, {
+            "id": "sr:competitor:16822",
+            "name": "Ramos-Vinolas, Albert",
+            "nationality": "Spain",
+            "country_code": "ESP",
+            "abbreviation": "RAM",
+            "bracket_number": 12
+        }, {
+            "id": "sr:competitor:18111",
+            "name": "Raonic, Milos",
+            "nationality": "Canada",
+            "country_code": "CAN",
+            "abbreviation": "RAO",
+            "seed": 13,
+            "qualification_path": "seeded",
+            "bracket_number": 57
+        }, {
+            "id": "sr:competitor:106755",
+            "name": "Rublev, Andrey",
+            "nationality": "Russia",
+            "country_code": "RUS",
+            "abbreviation": "RUB",
+            "seed": 9,
+            "qualification_path": "seeded",
+            "bracket_number": 56
+        }, {
+            "id": "sr:competitor:119248",
+            "name": "Ruud, Casper",
+            "nationality": "Norway",
+            "country_code": "NOR",
+            "abbreviation": "RUU",
+            "bracket_number": 26
+        }, {
+            "id": "sr:competitor:36678",
+            "name": "Sandgren, Tennys",
+            "nationality": "USA",
+            "country_code": "USA",
+            "abbreviation": "SAN",
+            "qualification_path": "qualified",
+            "bracket_number": 3
+        }, {
+            "id": "sr:competitor:48599",
+            "name": "Schwartzman, Diego",
+            "nationality": "Argentina",
+            "country_code": "ARG",
+            "abbreviation": "SWM",
+            "seed": 8,
+            "qualification_path": "seeded",
+            "bracket_number": 49
+        }, {
+            "id": "sr:competitor:117916",
+            "name": "Shapovalov, Denis",
+            "nationality": "Canada",
+            "country_code": "CAN",
+            "abbreviation": "SHA",
+            "seed": 12,
+            "qualification_path": "seeded",
+            "bracket_number": 40
+        }, {
+            "id": "sr:competitor:225050",
+            "name": "Sinner, Jannik",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "SIN",
+            "qualification_path": "wildcard",
+            "bracket_number": 46
+        }, {
+            "id": "sr:competitor:104847",
+            "name": "Sonego, Lorenzo",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "SON",
+            "bracket_number": 27
+        }, {
+            "id": "sr:competitor:37785",
+            "name": "Sousa, Joao",
+            "nationality": "Portugal",
+            "country_code": "PRT",
+            "abbreviation": "SOU",
+            "qualification_path": "luckyloser",
+            "bracket_number": 51
+        }, {
+            "id": "sr:competitor:46391",
+            "name": "Struff, Jan-Lennard",
+            "nationality": "Germany",
+            "country_code": "DEU",
+            "abbreviation": "STR",
+            "bracket_number": 19
+        }, {
+            "id": "sr:competitor:36300",
+            "name": "Travaglia, Stefano",
+            "nationality": "Italy",
+            "country_code": "ITA",
+            "abbreviation": "TRA",
+            "qualification_path": "wildcard",
+            "bracket_number": 22
+        }, {
+            "id": "sr:competitor:122366",
+            "name": "Tsitsipas, Stefanos",
+            "nationality": "Greece",
+            "country_code": "GRC",
+            "abbreviation": "TSI",
+            "seed": 3,
+            "qualification_path": "seeded",
+            "bracket_number": 48
+        }, {
+            "id": "sr:competitor:14548",
+            "name": "Wawrinka, Stan",
+            "nationality": "Switzerland",
+            "country_code": "CHE",
+            "abbreviation": "WAW",
+            "seed": 10,
+            "qualification_path": "seeded",
+            "bracket_number": 9
+        }, {
+            "id": "sr:competitor:214182",
+            "name": "de Minaur, Alex",
+            "nationality": "Australia",
+            "country_code": "AUS",
+            "abbreviation": "DEM",
+            "bracket_number": 14
+        }],
+        "number_of_scheduled_matches": 51
+    }]
+}
