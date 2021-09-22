@@ -1,0 +1,2934 @@
+{
+    "get": "teams",
+    "parameters":
+    {
+        "search": "SCOTLAND"
+    },
+    "errors": [],
+    "results": 139,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "team":
+        {
+            "id": 247,
+            "name": "Celtic",
+            "country": "Scotland",
+            "founded": 1888,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/247.png"
+        },
+        "venue":
+        {
+            "id": 1386,
+            "name": "Celtic Park",
+            "address": "18 Kerrydale Street",
+            "city": "Glasgow",
+            "capacity": 60832,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1386.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 248,
+            "name": "Hamilton Academical",
+            "country": "Scotland",
+            "founded": 1874,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/248.png"
+        },
+        "venue":
+        {
+            "id": 1392,
+            "name": "Fountain of Youth Stadium",
+            "address": "Cadzow Avenue",
+            "city": "Hamilton",
+            "capacity": 6078,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1392.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 249,
+            "name": "Hibernian",
+            "country": "Scotland",
+            "founded": 1875,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/249.png"
+        },
+        "venue":
+        {
+            "id": 1394,
+            "name": "Easter Road Stadium",
+            "address": "12 Albion Place",
+            "city": "Edinburgh",
+            "capacity": 20421,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1394.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 250,
+            "name": "Kilmarnock",
+            "country": "Scotland",
+            "founded": 1869,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/250.png"
+        },
+        "venue":
+        {
+            "id": 10492,
+            "name": "BBSP Stadium Rugby Park",
+            "address": "Rugby Road",
+            "city": "Kilmarnock",
+            "capacity": 18128,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/10492.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 251,
+            "name": "ST Mirren",
+            "country": "Scotland",
+            "founded": 1877,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/251.png"
+        },
+        "venue":
+        {
+            "id": 11913,
+            "name": "The SMISA Stadium",
+            "address": "Greenhill Road",
+            "city": "Paisley",
+            "capacity": 8016,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11913.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 252,
+            "name": "Aberdeen",
+            "country": "Scotland",
+            "founded": 1903,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/252.png"
+        },
+        "venue":
+        {
+            "id": 1383,
+            "name": "Pittodrie Stadium",
+            "address": "Pittodrie Street",
+            "city": "Aberdeen",
+            "capacity": 22199,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1383.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 253,
+            "name": "Dundee",
+            "country": "Scotland",
+            "founded": 1893,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/253.png"
+        },
+        "venue":
+        {
+            "id": 1387,
+            "name": "Kilmac Stadium at Dens Park",
+            "address": "Sandeman Street",
+            "city": "Dundee",
+            "capacity": 12085,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1387.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 254,
+            "name": "Heart OF Midlothian",
+            "country": "Scotland",
+            "founded": 1874,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/254.png"
+        },
+        "venue":
+        {
+            "id": 1393,
+            "name": "Tynecastle Park",
+            "address": "Gorgie Road",
+            "city": "Edinburgh",
+            "capacity": 20099,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1393.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 255,
+            "name": "Livingston",
+            "country": "Scotland",
+            "founded": 1943,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/255.png"
+        },
+        "venue":
+        {
+            "id": 1397,
+            "name": "Tony Macaroni Arena",
+            "address": "Almondvale Stadium Road",
+            "city": "Livingston",
+            "capacity": 9521,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1397.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 256,
+            "name": "Motherwell",
+            "country": "Scotland",
+            "founded": 1886,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/256.png"
+        },
+        "venue":
+        {
+            "id": 1398,
+            "name": "Fir Park",
+            "address": "Fir Park Street",
+            "city": "Motherwell",
+            "capacity": 13742,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1398.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 257,
+            "name": "Rangers",
+            "country": "Scotland",
+            "founded": 1873,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/257.png"
+        },
+        "venue":
+        {
+            "id": 1401,
+            "name": "Ibrox Stadium",
+            "address": "150 Edmiston Drive",
+            "city": "Glasgow",
+            "capacity": 51082,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1401.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 258,
+            "name": "ST Johnstone",
+            "country": "Scotland",
+            "founded": 1885,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/258.png"
+        },
+        "venue":
+        {
+            "id": 1403,
+            "name": "McDiarmid Park",
+            "address": "Crieff Road",
+            "city": "Perth",
+            "capacity": 10673,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1403.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 901,
+            "name": "Partick",
+            "country": "Scotland",
+            "founded": 1876,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/901.png"
+        },
+        "venue":
+        {
+            "id": 11912,
+            "name": "Firhill Stadium",
+            "address": "80 Firhill Road",
+            "city": "Glasgow",
+            "capacity": 13079,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11912.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 902,
+            "name": "Ross County",
+            "country": "Scotland",
+            "founded": 1929,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/902.png"
+        },
+        "venue":
+        {
+            "id": 1402,
+            "name": "Global Energy Stadium",
+            "address": "Jubilee Road",
+            "city": "Dingwall",
+            "capacity": 6590,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1402.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 903,
+            "name": "Inverness CT",
+            "country": "Scotland",
+            "founded": 1994,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/903.png"
+        },
+        "venue":
+        {
+            "id": 1395,
+            "name": "Tulloch Caledonian Stadium",
+            "address": "East Longman",
+            "city": "Inverness",
+            "capacity": 7918,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1395.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1108,
+            "name": "Scotland",
+            "country": "Scotland",
+            "founded": 1873,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1108.png"
+        },
+        "venue":
+        {
+            "id": 2617,
+            "name": "Hampden Park",
+            "address": "Letherby Drive",
+            "city": "Glasgow",
+            "capacity": 52500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2617.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1382,
+            "name": "Dumbarton",
+            "country": "Scotland",
+            "founded": 1872,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1382.png"
+        },
+        "venue":
+        {
+            "id": 2905,
+            "name": "The C&G Systems Stadium",
+            "address": "Castle Road",
+            "city": "Dumbarton",
+            "capacity": 2025,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2905.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1383,
+            "name": "Morton",
+            "country": "Scotland",
+            "founded": 1874,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1383.png"
+        },
+        "venue":
+        {
+            "id": 1391,
+            "name": "Cappielow Park",
+            "address": "Sinclair Street",
+            "city": "Greenock",
+            "capacity": 11612,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1391.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1384,
+            "name": "Queen of the South",
+            "country": "Scotland",
+            "founded": 1919,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1384.png"
+        },
+        "venue":
+        {
+            "id": 1400,
+            "name": "Palmerston Park",
+            "address": "Terregles Street",
+            "city": "Dumfries",
+            "capacity": 8690,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1400.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1385,
+            "name": "Raith Rovers",
+            "country": "Scotland",
+            "founded": 1883,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1385.png"
+        },
+        "venue":
+        {
+            "id": 2907,
+            "name": "Stark's Park",
+            "address": "Pratt Street",
+            "city": "Kirkcaldy",
+            "capacity": 10104,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2907.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1386,
+            "name": "Dundee Utd",
+            "country": "Scotland",
+            "founded": 1909,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1386.png"
+        },
+        "venue":
+        {
+            "id": 1388,
+            "name": "Tannadice Park",
+            "address": "Tannadice Street",
+            "city": "Dundee",
+            "capacity": 14209,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1388.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1387,
+            "name": "Ayr Utd",
+            "country": "Scotland",
+            "founded": 1910,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1387.png"
+        },
+        "venue":
+        {
+            "id": 1385,
+            "name": "Somerset Park",
+            "address": "Somerset Road",
+            "city": "Ayr",
+            "capacity": 10128,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1385.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1388,
+            "name": "Dunfermline",
+            "country": "Scotland",
+            "founded": 1885,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1388.png"
+        },
+        "venue":
+        {
+            "id": 1389,
+            "name": "East End Park",
+            "address": "Halbeath Road",
+            "city": "Dunfermline",
+            "capacity": 11998,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1389.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1389,
+            "name": "Falkirk",
+            "country": "Scotland",
+            "founded": 1876,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1389.png"
+        },
+        "venue":
+        {
+            "id": 1390,
+            "name": "Falkirk Community Stadium",
+            "address": "Westfield",
+            "city": "Falkirk",
+            "capacity": 9008,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1390.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1390,
+            "name": "Brechin",
+            "country": "Scotland",
+            "founded": 1906,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1390.png"
+        },
+        "venue":
+        {
+            "id": 2906,
+            "name": "Glebe Park",
+            "address": "Trinity Road",
+            "city": "Brechin",
+            "capacity": 4070,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2906.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1391,
+            "name": "Alloa Athletic",
+            "country": "Scotland",
+            "founded": 1878,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1391.png"
+        },
+        "venue":
+        {
+            "id": 1384,
+            "name": "Indodrill Stadium",
+            "address": "Clackmannan Road",
+            "city": "Alloa",
+            "capacity": 3100,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1384.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1775,
+            "name": "Scotland W",
+            "country": "Scotland",
+            "founded": 1873,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1775.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4249,
+            "name": "Arbroath",
+            "country": "Scotland",
+            "founded": 1878,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4249.png"
+        },
+        "venue":
+        {
+            "id": 3244,
+            "name": "Gayfield Park",
+            "address": "Queens Drive",
+            "city": "Arbroath",
+            "capacity": 5985,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3244.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4250,
+            "name": "Forfar Athletic",
+            "country": "Scotland",
+            "founded": 1885,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4250.png"
+        },
+        "venue":
+        {
+            "id": 3245,
+            "name": "Station Park",
+            "address": "Carseview Road",
+            "city": "Forfar",
+            "capacity": 4602,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3245.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4251,
+            "name": "Montrose",
+            "country": "Scotland",
+            "founded": 1879,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4251.png"
+        },
+        "venue":
+        {
+            "id": 3246,
+            "name": "Links Park",
+            "address": "Wellington Street",
+            "city": "Montrose",
+            "capacity": 4686,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3246.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4667,
+            "name": "Cowdenbeath",
+            "country": "Scotland",
+            "founded": 1881,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4667.png"
+        },
+        "venue":
+        {
+            "id": 3518,
+            "name": "Central Park",
+            "address": "Hall Street",
+            "city": "Cowdenbeath",
+            "capacity": 5268,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3518.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4668,
+            "name": "Airdrie United",
+            "country": "Scotland",
+            "founded": 2002,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4668.png"
+        },
+        "venue":
+        {
+            "id": 3519,
+            "name": "Penny Cars Stadium",
+            "address": "Craigneuk Avenue",
+            "city": "Airdrie",
+            "capacity": 10171,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3519.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4669,
+            "name": "Stirling Albion",
+            "country": "Scotland",
+            "founded": 1945,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4669.png"
+        },
+        "venue":
+        {
+            "id": 3520,
+            "name": "Forthbank Stadium",
+            "address": "Springkerse",
+            "city": "Stirling",
+            "capacity": 3808,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3520.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6728,
+            "name": "Auchinleck Talbot",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6728.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6729,
+            "name": "Banks O' Dee",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6729.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6730,
+            "name": "Blackburn United",
+            "country": "Scotland",
+            "founded": 1978,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6730.png"
+        },
+        "venue":
+        {
+            "id": 11092,
+            "name": "Purdie Worldwide Community Stadium",
+            "address": "Ash Grove",
+            "city": "Blackburn",
+            "capacity": 1500,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11092.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6731,
+            "name": "Broxburn Athletic",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6731.png"
+        },
+        "venue":
+        {
+            "id": 4916,
+            "name": "Albyn Park",
+            "address": "Greendykes Road \/ Albyn Place",
+            "city": "Broxburn",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4916.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6732,
+            "name": "Burntisland Shipyard",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6732.png"
+        },
+        "venue":
+        {
+            "id": 4917,
+            "name": "Recreation Park",
+            "address": "Glebe Place",
+            "city": "Burntisland",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4917.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6733,
+            "name": "Camelon Juniors",
+            "country": "Scotland",
+            "founded": 1920,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6733.png"
+        },
+        "venue":
+        {
+            "id": 4918,
+            "name": "Carmuirs Park",
+            "address": "Carmuirs Drive",
+            "city": "Camelon",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4918.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6734,
+            "name": "Coldstream",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6734.png"
+        },
+        "venue":
+        {
+            "id": 4919,
+            "name": "Home Park",
+            "address": "Sem dados",
+            "city": "Coldstream",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4919.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6735,
+            "name": "Colville Park",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6735.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6736,
+            "name": "Dundonald Bluebell",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6736.png"
+        },
+        "venue":
+        {
+            "id": 4920,
+            "name": "Moorside Park",
+            "address": "Dundonald Park",
+            "city": "Cardenden",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4920.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6737,
+            "name": "Easthouses Lily",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6737.png"
+        },
+        "venue":
+        {
+            "id": 4921,
+            "name": "Newbattle Complex",
+            "address": "Sem dados",
+            "city": "Easthouses",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4921.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6738,
+            "name": "Girvan",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6738.png"
+        },
+        "venue":
+        {
+            "id": 4922,
+            "name": "Hamilton Park, Girvan",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4922.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6739,
+            "name": "Glasgow University",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6739.png"
+        },
+        "venue":
+        {
+            "id": 4923,
+            "name": "Garscube Sports Complex - Field 3",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4923.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6740,
+            "name": "Golspie Sutherland",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6740.png"
+        },
+        "venue":
+        {
+            "id": 4924,
+            "name": "King George V Park, Golspie",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4924.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6741,
+            "name": "Hawick Royal Albert",
+            "country": "Scotland",
+            "founded": 1947,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6741.png"
+        },
+        "venue":
+        {
+            "id": 4925,
+            "name": "Albert Park",
+            "address": "Mansfield Road",
+            "city": "Hawick",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4925.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6742,
+            "name": "Hill Of Beath Hawthorn",
+            "country": "Scotland",
+            "founded": 1975,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6742.png"
+        },
+        "venue":
+        {
+            "id": 4926,
+            "name": "Keirs Park",
+            "address": "Hawthorn Crescent",
+            "city": "Hill of Beath",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4926.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6743,
+            "name": "Jeanfield Swifts",
+            "country": "Scotland",
+            "founded": 1928,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6743.png"
+        },
+        "venue":
+        {
+            "id": 4927,
+            "name": "Riverside Stadium",
+            "address": "Bute Drive",
+            "city": "Perth",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4927.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6744,
+            "name": "Linlithgow Rose",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6744.png"
+        },
+        "venue":
+        {
+            "id": 4928,
+            "name": "Prestonfield",
+            "address": "Braehead Road",
+            "city": "Linlithgow",
+            "capacity": 2500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4928.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6745,
+            "name": "Lochee United",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6745.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6746,
+            "name": "Lothian Hutchison",
+            "country": "Scotland",
+            "founded": 1969,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6746.png"
+        },
+        "venue":
+        {
+            "id": 4946,
+            "name": "Ainslie Park Stadium",
+            "address": "94 Pilton Drive",
+            "city": "Edinburgh",
+            "capacity": 2504,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4946.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6747,
+            "name": "Newton Stewart",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6747.png"
+        },
+        "venue":
+        {
+            "id": 4930,
+            "name": "Blairmount Park",
+            "address": "Corsbie Road",
+            "city": "Newton Stewart",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4930.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6748,
+            "name": "Penicuik Athletic",
+            "country": "Scotland",
+            "founded": 1888,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6748.png"
+        },
+        "venue":
+        {
+            "id": 4931,
+            "name": "Penicuik Park",
+            "address": "114-116 John Street",
+            "city": "Penicuik",
+            "capacity": 1372,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4931.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6749,
+            "name": "Preston Athletic",
+            "country": "Scotland",
+            "founded": 1945,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6749.png"
+        },
+        "venue":
+        {
+            "id": 4932,
+            "name": "Pennypit Park",
+            "address": "Rope Walk",
+            "city": "Prestonpans",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4932.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6750,
+            "name": "St. Cuthbert Wanderers",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6750.png"
+        },
+        "venue":
+        {
+            "id": 4933,
+            "name": "St Mary\u2019s Park",
+            "address": "Castledykes Road",
+            "city": "Kirkcudbright, Kirkcudbrightshire",
+            "capacity": 1500,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4933.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6751,
+            "name": "Threave Rovers",
+            "country": "Scotland",
+            "founded": 1953,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6751.png"
+        },
+        "venue":
+        {
+            "id": 4934,
+            "name": "Meadow Park",
+            "address": "Blackpark Road",
+            "city": "Castle Douglas",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4934.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6752,
+            "name": "Tynecastle",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6752.png"
+        },
+        "venue":
+        {
+            "id": 4935,
+            "name": "Meggetland Sport Complex",
+            "address": "Colinton Road",
+            "city": "Edinburgh",
+            "capacity": 4388,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4935.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6753,
+            "name": "Whitehill Welfare",
+            "country": "Scotland",
+            "founded": 1953,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6753.png"
+        },
+        "venue":
+        {
+            "id": 4936,
+            "name": "Ferguson Park",
+            "address": "Carnethie Street",
+            "city": "Rosewell",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4936.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6754,
+            "name": "Wigtown & Bladnoch",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6754.png"
+        },
+        "venue":
+        {
+            "id": 4937,
+            "name": "Trammondford Park",
+            "address": "Sem dados",
+            "city": "Wigtown",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4937.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6755,
+            "name": "Aberdeen U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6755.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6756,
+            "name": "Albion Rovers",
+            "country": "Scotland",
+            "founded": 1882,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6756.png"
+        },
+        "venue":
+        {
+            "id": 4938,
+            "name": "The Reigart Stadium",
+            "address": "Main Street",
+            "city": "Coatbridge",
+            "capacity": 2496,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4938.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6757,
+            "name": "Annan Athletic",
+            "country": "Scotland",
+            "founded": 1942,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6757.png"
+        },
+        "venue":
+        {
+            "id": 4939,
+            "name": "Galabank",
+            "address": "North Street",
+            "city": "Annan",
+            "capacity": 3000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4939.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6758,
+            "name": "BSC Glasgow",
+            "country": "Scotland",
+            "founded": 2004,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6758.png"
+        },
+        "venue":
+        {
+            "id": 1384,
+            "name": "Indodrill Stadium",
+            "address": "Clackmannan Road",
+            "city": "Alloa",
+            "capacity": 3100,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1384.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6760,
+            "name": "Brora Rangers",
+            "country": "Scotland",
+            "founded": 1879,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6760.png"
+        },
+        "venue":
+        {
+            "id": 4941,
+            "name": "Dudgeon Park",
+            "address": "Dudgeon Park Road",
+            "city": "Brora",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4941.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6761,
+            "name": "Celtic U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6761.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6762,
+            "name": "Clyde",
+            "country": "Scotland",
+            "founded": 1877,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6762.png"
+        },
+        "venue":
+        {
+            "id": 4942,
+            "name": "Broadwood Stadium",
+            "address": "Ardgoil Drive",
+            "city": "Cumbernauld",
+            "capacity": 8029,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4942.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6763,
+            "name": "Cove Rangers",
+            "country": "Scotland",
+            "founded": 1922,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6763.png"
+        },
+        "venue":
+        {
+            "id": 4943,
+            "name": "Balmoral Stadium",
+            "address": "Avc Wellington Circle, Cove",
+            "city": "Aberdeen",
+            "capacity": 2602,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4943.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6764,
+            "name": "East Fife",
+            "country": "Scotland",
+            "founded": 1903,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6764.png"
+        },
+        "venue":
+        {
+            "id": 4944,
+            "name": "Bayview Stadium",
+            "address": "Harbour View",
+            "city": "Methil",
+            "capacity": 4700,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4944.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6765,
+            "name": "East Kilbride",
+            "country": "Scotland",
+            "founded": 2010,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6765.png"
+        },
+        "venue":
+        {
+            "id": 4945,
+            "name": "K Park Training Academy",
+            "address": "St Leonards",
+            "city": "East Kilbride",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4945.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6766,
+            "name": "Edinburgh City",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6766.png"
+        },
+        "venue":
+        {
+            "id": 4946,
+            "name": "Ainslie Park Stadium",
+            "address": "94 Pilton Drive",
+            "city": "Edinburgh",
+            "capacity": 2504,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4946.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6767,
+            "name": "Elgin City",
+            "country": "Scotland",
+            "founded": 1893,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6767.png"
+        },
+        "venue":
+        {
+            "id": 4947,
+            "name": "Borough Briggs",
+            "address": "Boroughbriggs Road",
+            "city": "Elgin",
+            "capacity": 3927,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4947.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6768,
+            "name": "Formartine United",
+            "country": "Scotland",
+            "founded": 1946,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6768.png"
+        },
+        "venue":
+        {
+            "id": 4948,
+            "name": "North Lodge Park",
+            "address": "North Lodge Park",
+            "city": "Pitmedden",
+            "capacity": 1800,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4948.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6769,
+            "name": "Fraserburgh",
+            "country": "Scotland",
+            "founded": 1910,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6769.png"
+        },
+        "venue":
+        {
+            "id": 4949,
+            "name": "Bellslea Park",
+            "address": "Seaforth Street",
+            "city": "Fraserburgh",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4949.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6770,
+            "name": "Hamilton Academical U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6770.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6771,
+            "name": "Hearts U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6771.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6772,
+            "name": "Hibernian U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6772.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6773,
+            "name": "Kelty Hearts",
+            "country": "Scotland",
+            "founded": 1975,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6773.png"
+        },
+        "venue":
+        {
+            "id": 4950,
+            "name": "New Central Park",
+            "address": "Bath Street",
+            "city": "Kelty",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4950.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6774,
+            "name": "Kilmarnock U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6774.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6775,
+            "name": "Livingston U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6775.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6776,
+            "name": "Motherwell U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6776.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6777,
+            "name": "Peterhead",
+            "country": "Scotland",
+            "founded": 1890,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6777.png"
+        },
+        "venue":
+        {
+            "id": 4951,
+            "name": "Balmoor Stadium",
+            "address": "Balmoor Terrace",
+            "city": "Peterhead",
+            "capacity": 4855,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4951.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6778,
+            "name": "Queen's Park",
+            "country": "Scotland",
+            "founded": 1867,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6778.png"
+        },
+        "venue":
+        {
+            "id": 2617,
+            "name": "Hampden Park",
+            "address": "Letherby Drive",
+            "city": "Glasgow",
+            "capacity": 52500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2617.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6779,
+            "name": "Rangers U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6779.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6780,
+            "name": "Ross County U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6780.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6781,
+            "name": "Spartans",
+            "country": "Scotland",
+            "founded": 1951,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6781.png"
+        },
+        "venue":
+        {
+            "id": 4946,
+            "name": "Ainslie Park Stadium",
+            "address": "94 Pilton Drive",
+            "city": "Edinburgh",
+            "capacity": 2504,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4946.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6782,
+            "name": "St. Johnstone U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6782.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6783,
+            "name": "St. Mirren U21",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6783.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6784,
+            "name": "Stenhousemuir",
+            "country": "Scotland",
+            "founded": 1884,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6784.png"
+        },
+        "venue":
+        {
+            "id": 4952,
+            "name": "Ochilview Park",
+            "address": "Gladstone Road",
+            "city": "Stenhousemuir",
+            "capacity": 5267,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4952.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 6785,
+            "name": "Stranraer",
+            "country": "Scotland",
+            "founded": 1870,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/6785.png"
+        },
+        "venue":
+        {
+            "id": 4953,
+            "name": "Stair Park",
+            "address": "London Road",
+            "city": "Stranraer",
+            "capacity": 6250,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4953.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7431,
+            "name": "Bonnyrigg Rose Athletic",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7431.png"
+        },
+        "venue":
+        {
+            "id": 5412,
+            "name": "New Dundas Park",
+            "address": "Dundas Street",
+            "city": "Bonnyrigg",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5412.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7432,
+            "name": "Buckie Thistle",
+            "country": "Scotland",
+            "founded": 1889,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7432.png"
+        },
+        "venue":
+        {
+            "id": 5413,
+            "name": "Victoria Park",
+            "address": "Midmar Street",
+            "city": "Buckie",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5413.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7433,
+            "name": "Caledonian Braves",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7433.png"
+        },
+        "venue":
+        {
+            "id": 11093,
+            "name": "Alliance Park",
+            "address": "Hamilton Road, Strathclyde Country Park",
+            "city": "Motherwell",
+            "capacity": 1000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11093.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7434,
+            "name": "Civil Service Strollers",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7434.png"
+        },
+        "venue":
+        {
+            "id": 5415,
+            "name": "Civil Service Sports Ground",
+            "address": "25 Marine Drive, Muirhouse",
+            "city": "Edinburgh",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5415.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7435,
+            "name": "Clachnacuddin",
+            "country": "Scotland",
+            "founded": 1886,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7435.png"
+        },
+        "venue":
+        {
+            "id": 5416,
+            "name": "Grant Street Park",
+            "address": "Wyvis Place",
+            "city": "Inverness",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5416.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7436,
+            "name": "Cumbernauld Colts",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7436.png"
+        },
+        "venue":
+        {
+            "id": 4942,
+            "name": "Broadwood Stadium",
+            "address": "Ardgoil Drive",
+            "city": "Cumbernauld",
+            "capacity": 8029,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/4942.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7437,
+            "name": "Dalbeattie Star",
+            "country": "Scotland",
+            "founded": 1905,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7437.png"
+        },
+        "venue":
+        {
+            "id": 5417,
+            "name": "Islecroft Stadium",
+            "address": "Barrhill Road",
+            "city": "Dalbeattie",
+            "capacity": 3500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5417.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7438,
+            "name": "Deveronvale",
+            "country": "Scotland",
+            "founded": 1938,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7438.png"
+        },
+        "venue":
+        {
+            "id": 5418,
+            "name": "Princess Royal Park",
+            "address": "Bridge Street",
+            "city": "Banff",
+            "capacity": 2651,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5418.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7439,
+            "name": "East Stirlingshire",
+            "country": "Scotland",
+            "founded": 1881,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7439.png"
+        },
+        "venue":
+        {
+            "id": 1390,
+            "name": "Falkirk Community Stadium",
+            "address": "Westfield",
+            "city": "Falkirk",
+            "capacity": 9008,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1390.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7440,
+            "name": "Edinburgh University",
+            "country": "Scotland",
+            "founded": 1878,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7440.png"
+        },
+        "venue":
+        {
+            "id": 5419,
+            "name": "East Peffermill",
+            "address": "Peffermill Road",
+            "city": "Edinburgh",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5419.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7441,
+            "name": "Forres Mechanics",
+            "country": "Scotland",
+            "founded": 1884,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7441.png"
+        },
+        "venue":
+        {
+            "id": 5420,
+            "name": "Mosset Park",
+            "address": "Lea Road",
+            "city": "Forres",
+            "capacity": 4500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5420.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7442,
+            "name": "Fort William",
+            "country": "Scotland",
+            "founded": 1984,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7442.png"
+        },
+        "venue":
+        {
+            "id": 5421,
+            "name": "Claggan Park",
+            "address": "Claggan Road",
+            "city": "Fort William",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5421.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7443,
+            "name": "Gala Fairydean Rovers",
+            "country": "Scotland",
+            "founded": 1908,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7443.png"
+        },
+        "venue":
+        {
+            "id": 5422,
+            "name": "Netherdale Football Ground",
+            "address": "Nether Road, Netherdale",
+            "city": "Galashiels",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5422.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7444,
+            "name": "Gretna 2008",
+            "country": "Scotland",
+            "founded": 2008,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7444.png"
+        },
+        "venue":
+        {
+            "id": 5423,
+            "name": "Raydale Park",
+            "address": "Dominion Road",
+            "city": "Gretna",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5423.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7445,
+            "name": "Inverurie Loco Works",
+            "country": "Scotland",
+            "founded": 1903,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7445.png"
+        },
+        "venue":
+        {
+            "id": 5424,
+            "name": "Harlaw Park",
+            "address": "Harlaw Drive",
+            "city": "Inverurie",
+            "capacity": 2500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5424.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7446,
+            "name": "Keith",
+            "country": "Scotland",
+            "founded": 1919,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7446.png"
+        },
+        "venue":
+        {
+            "id": 5425,
+            "name": "Kynoch Park",
+            "address": "Balloch Road",
+            "city": "Keith",
+            "capacity": 4450,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5425.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7447,
+            "name": "Lossiemouth",
+            "country": "Scotland",
+            "founded": 1945,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7447.png"
+        },
+        "venue":
+        {
+            "id": 5426,
+            "name": "Grant Park",
+            "address": "Kellas Avenue",
+            "city": "Lossiemouth",
+            "capacity": 3250,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5426.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7448,
+            "name": "Nairn County",
+            "country": "Scotland",
+            "founded": 1914,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7448.png"
+        },
+        "venue":
+        {
+            "id": 5427,
+            "name": "Station Park",
+            "address": "Balblair Road",
+            "city": "Nairn",
+            "capacity": 2250,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5427.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7449,
+            "name": "Rothes",
+            "country": "Scotland",
+            "founded": 1938,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7449.png"
+        },
+        "venue":
+        {
+            "id": 5428,
+            "name": "MacKessack Park",
+            "address": "Station Street",
+            "city": "Rothes",
+            "capacity": 2700,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5428.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7450,
+            "name": "Stirling University",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7450.png"
+        },
+        "venue":
+        {
+            "id": 3520,
+            "name": "Forthbank Stadium",
+            "address": "Springkerse",
+            "city": "Stirling",
+            "capacity": 3808,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3520.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7451,
+            "name": "Strathspey Thistle",
+            "country": "Scotland",
+            "founded": 1993,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7451.png"
+        },
+        "venue":
+        {
+            "id": 5429,
+            "name": "Seafield Park",
+            "address": "Golfcourse Road",
+            "city": "Grantown-on-Spey",
+            "capacity": 1600,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5429.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7452,
+            "name": "Turriff United",
+            "country": "Scotland",
+            "founded": 1954,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7452.png"
+        },
+        "venue":
+        {
+            "id": 5430,
+            "name": "The Haughs",
+            "address": "The Haughs",
+            "city": "Turriff",
+            "capacity": 2135,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5430.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7453,
+            "name": "Vale of Leithen",
+            "country": "Scotland",
+            "founded": 1891,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7453.png"
+        },
+        "venue":
+        {
+            "id": 5431,
+            "name": "Victoria Park",
+            "address": "Hall Street",
+            "city": "Innerleithen",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5431.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7454,
+            "name": "Wick Academy",
+            "country": "Scotland",
+            "founded": 1893,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7454.png"
+        },
+        "venue":
+        {
+            "id": 5432,
+            "name": "Harmsworth Park",
+            "address": "South Road",
+            "city": "Wick",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5432.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7521,
+            "name": "Huntly",
+            "country": "Scotland",
+            "founded": 1928,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7521.png"
+        },
+        "venue":
+        {
+            "id": 5458,
+            "name": "Christie Park",
+            "address": "East Park Street",
+            "city": "Huntly",
+            "capacity": 1800,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5458.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7925,
+            "name": "Rangers U19",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7925.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 7953,
+            "name": "Hamilton Academical U19",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/7953.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 8221,
+            "name": "Scotland U21",
+            "country": "Scotland",
+            "founded": 1873,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/8221.png"
+        },
+        "venue":
+        {
+            "id": 2617,
+            "name": "Hampden Park",
+            "address": "Letherby Drive",
+            "city": "Glasgow",
+            "capacity": 52500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2617.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10146,
+            "name": "Connah's Quay",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10146.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10345,
+            "name": "Scotland U19",
+            "country": "Scotland",
+            "founded": 1873,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10345.png"
+        },
+        "venue":
+        {
+            "id": 2617,
+            "name": "Hampden Park",
+            "address": "Letherby Drive",
+            "city": "Glasgow",
+            "capacity": 52500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2617.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10892,
+            "name": "Glasgow City",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10892.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10917,
+            "name": "Hibernian W",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10917.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15597,
+            "name": "Bo'ness United",
+            "country": "Scotland",
+            "founded": 1945,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15597.png"
+        },
+        "venue":
+        {
+            "id": 11094,
+            "name": "Newtown Park",
+            "address": "Jamieson Avenue",
+            "city": "Bo&apos;ness",
+            "capacity": 1800,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11094.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15598,
+            "name": "Dunipace",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15598.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15599,
+            "name": "Haddington Athletic",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15599.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15600,
+            "name": "Musselburgh Athletic",
+            "country": "Scotland",
+            "founded": 1934,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15600.png"
+        },
+        "venue":
+        {
+            "id": 11095,
+            "name": "Olivebank Stadium",
+            "address": "33 Campie Gardens",
+            "city": "Musselburgh",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11095.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15601,
+            "name": "Newtongrange Star",
+            "country": "Scotland",
+            "founded": 1890,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15601.png"
+        },
+        "venue":
+        {
+            "id": 11096,
+            "name": "New Victoria Park",
+            "address": "14 Dalhousie Road",
+            "city": "Newtongrange",
+            "capacity": 1500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11096.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 15602,
+            "name": "Tranent Juniors",
+            "country": "Scotland",
+            "founded": 1911,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/15602.png"
+        },
+        "venue":
+        {
+            "id": 11097,
+            "name": "Foresters Park",
+            "address": "Lindores Drive",
+            "city": "Tranent",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11097.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16843,
+            "name": "Celtic W",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16843.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16845,
+            "name": "Celtic II",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16845.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16851,
+            "name": "Dundee II",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16851.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16852,
+            "name": "Dundee United II",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16852.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17024,
+            "name": "Clydebank",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17024.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17768,
+            "name": "Cumnock Juniors",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17768.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17769,
+            "name": "Dalkeith Thistle",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17769.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17770,
+            "name": "Darvel",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17770.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17771,
+            "name": "Dunbar United",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17771.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17772,
+            "name": "Irvine Meadow",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17772.png"
+        },
+        "venue":
+        {
+            "id": 12440,
+            "name": "Meadow Park, Irvine",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 2500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/12440.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17773,
+            "name": "Sauchie Juniors",
+            "country": "Scotland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17773.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    }]
+}
