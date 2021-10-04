@@ -1,0 +1,205 @@
+{
+    "get": "venues",
+    "parameters":
+    {
+        "search": "BOLIVIA"
+    },
+    "errors": [],
+    "results": 19,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "id": 198,
+        "name": "Estadio Hernando Siles",
+        "address": "Avenida Saavedra, Miraflores",
+        "city": "La Paz",
+        "country": "Bolivia",
+        "capacity": 45000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/198.png"
+    },
+    {
+        "id": 2438,
+        "name": "Estadio F\u00e9lix Capriles",
+        "address": "Avenida Juan de La Rosa",
+        "city": "Cochabamba",
+        "country": "Bolivia",
+        "capacity": 38530,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2438.png"
+    },
+    {
+        "id": 2486,
+        "name": "Estadio Samuel Vaca Jimenez",
+        "address": "Sem dados",
+        "city": "Warnes",
+        "country": "Bolivia",
+        "capacity": 18000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2486.png"
+    },
+    {
+        "id": 2487,
+        "name": "Estadio Municipal El Alto",
+        "address": "Magdalena Rocha",
+        "city": "El Alto",
+        "country": "Bolivia",
+        "capacity": 25000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2487.png"
+    },
+    {
+        "id": 2488,
+        "name": "Estadio Ram\u00f3n Aguilera Costas",
+        "address": "Avenida San Aurelio, Soliz de Olguin",
+        "city": "Santa Cruz de la Sierra",
+        "country": "Bolivia",
+        "capacity": 38000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2488.png"
+    },
+    {
+        "id": 2489,
+        "name": "Estadio Gilberto Parada",
+        "address": "Calle Ballivian",
+        "city": "Montero",
+        "country": "Bolivia",
+        "capacity": 18000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2489.png"
+    },
+    {
+        "id": 2490,
+        "name": "Estadio Victor Agust\u00edn Ugarte",
+        "address": "Calle Sucre esq. Lucas Jaimes",
+        "city": "Potos\u00ed",
+        "country": "Bolivia",
+        "capacity": 35000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2490.png"
+    },
+    {
+        "id": 2491,
+        "name": "Estadio Jes\u00fas Berm\u00fadez",
+        "address": "Avenida Barrientos y Tte. Leon",
+        "city": "Oruro",
+        "country": "Bolivia",
+        "capacity": 39000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2491.png"
+    },
+    {
+        "id": 2655,
+        "name": "Estadio Ol\u00edmpico Patria",
+        "address": "Avenida German Mendoza",
+        "city": "Sucre",
+        "country": "Bolivia",
+        "capacity": 32000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2655.png"
+    },
+    {
+        "id": 11123,
+        "name": "Estadium Fabian Tintilay",
+        "address": "Sem dados",
+        "city": "Bermejo",
+        "country": "Bolivia",
+        "capacity": 1000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11123.png"
+    },
+    {
+        "id": 11124,
+        "name": "Estadio Jos\u00e9 Lorgio Zambrano",
+        "address": "Calle Kurt Schoenfel",
+        "city": "Trinidad",
+        "country": "Bolivia",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11124.png"
+    },
+    {
+        "id": 11125,
+        "name": "Estadio Manuel Flores",
+        "address": "Sem dados",
+        "city": "Huanuni",
+        "country": "Bolivia",
+        "capacity": 10000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11125.png"
+    },
+    {
+        "id": 11126,
+        "name": "Estadio Municipal de Shinahota",
+        "address": "Sem dados",
+        "city": "Shinaota",
+        "country": "Bolivia",
+        "capacity": 10500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11126.png"
+    },
+    {
+        "id": 11127,
+        "name": "Estadio La Bombonera",
+        "address": "Sem dados",
+        "city": "Tarija",
+        "country": "Bolivia",
+        "capacity": 10000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11127.png"
+    },
+    {
+        "id": 11128,
+        "name": "Estadio Roberto Jordan Cuell\u00e1r",
+        "address": "Sem dados",
+        "city": "Cobija",
+        "country": "Bolivia",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11128.png"
+    },
+    {
+        "id": 11129,
+        "name": "Estadio Bernardino Bilbao Rioja",
+        "address": "Av El Algarrobo",
+        "city": "Villamontes",
+        "country": "Bolivia",
+        "capacity": 2500,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11129.png"
+    },
+    {
+        "id": 11130,
+        "name": "Estadio IV Centenario",
+        "address": "Sem dados",
+        "city": "Tarija",
+        "country": "Bolivia",
+        "capacity": 15000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11130.png"
+    },
+    {
+        "id": 11131,
+        "name": "Estadio Seraf\u00edn Ferreira",
+        "address": "Catavi",
+        "city": "Llallagua",
+        "country": "Bolivia",
+        "capacity": 3000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11131.png"
+    },
+    {
+        "id": 11132,
+        "name": "Estadio Villa 1 De Mayo",
+        "address": "Calle 8 Este",
+        "city": "Santa Cruz de la Sierra",
+        "country": "Bolivia",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11132.png"
+    }]
+}

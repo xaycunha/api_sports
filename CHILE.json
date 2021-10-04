@@ -1,0 +1,495 @@
+{
+    "get": "venues",
+    "parameters":
+    {
+        "search": "CHILE"
+    },
+    "errors": [],
+    "results": 48,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "id": 319,
+        "name": "Estadio Monumental David Arellano",
+        "address": "Avenida Marathon 5300, Macul",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 47017,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/319.png"
+    },
+    {
+        "id": 326,
+        "name": "Estadio Bicentenario La Granja",
+        "address": "Avenida Alesandri con Calle El Boldo",
+        "city": "Curic\u00f3",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/326.png"
+    },
+    {
+        "id": 331,
+        "name": "Estadio Municipal Bicentenario Germ\u00e1n Becker",
+        "address": "Calle Municipal",
+        "city": "Temuco",
+        "country": "Chile",
+        "capacity": 18413,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/331.png"
+    },
+    {
+        "id": 338,
+        "name": "Estadio Municipal de La Cisterna",
+        "address": "Avenida El Parr\u00f3n 999, La Cisterna",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/338.png"
+    },
+    {
+        "id": 336,
+        "name": "Estadio Tierra de Campeones",
+        "address": "Avenida Soldado Pedro Prado con Avenida Tadeo Haenke",
+        "city": "Iquique",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/336.png"
+    },
+    {
+        "id": 337,
+        "name": "Estadio El Teniente",
+        "address": "Avenida Capit\u00e1n Ram\u00f3n Freire",
+        "city": "Rancagua",
+        "country": "Chile",
+        "capacity": 14450,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/337.png"
+    },
+    {
+        "id": 342,
+        "name": "Estadio Santa Laura-Universidad SEK",
+        "address": "Avenida Huanuco esq. Santa Laura",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 28500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/342.png"
+    },
+    {
+        "id": 340,
+        "name": "Estadio Bicentenario Lucio Fari\u00f1a",
+        "address": "Calle Anibal Pinto",
+        "city": "Quillota",
+        "country": "Chile",
+        "capacity": 7703,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/340.png"
+    },
+    {
+        "id": 316,
+        "name": "Estadio Nacional Julio Mart\u00ednez Pr\u00e1danos",
+        "address": "Avenida Grecia 2001, \u00d1u\u00f1oa",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 48665,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/316.png"
+    },
+    {
+        "id": 346,
+        "name": "Estadio Municipal Alcaldesa Ester Roa Rebolledo",
+        "address": "Avenida Ignacio Collao esq. Calle Tegualda",
+        "city": "Concepci\u00f3n",
+        "country": "Chile",
+        "capacity": 33000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/346.png"
+    },
+    {
+        "id": 334,
+        "name": "Estadio Sausalito",
+        "address": "Calle Padre Alberto Hurtado",
+        "city": "Vi\u00f1a del Mar",
+        "country": "Chile",
+        "capacity": 23360,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/334.png"
+    },
+    {
+        "id": 343,
+        "name": "Estadio Municipal Nicol\u00e1s Chahu\u00e1n Nazar",
+        "address": "Calle General Esmeralda esq. Calle Baquedano",
+        "city": "La Calera",
+        "country": "Chile",
+        "capacity": 15000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/343.png"
+    },
+    {
+        "id": 318,
+        "name": "Estadio Regional Calvo y Bascu\u00f1\u00e1n",
+        "address": "Avenida Angamos",
+        "city": "Antofagasta",
+        "country": "Chile",
+        "capacity": 21178,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/318.png"
+    },
+    {
+        "id": 320,
+        "name": "Estadio CAP",
+        "address": "Avenida Desiderio Garc\u00eda 909, Las Higueras",
+        "city": "Talcahuano",
+        "country": "Chile",
+        "capacity": 10579,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/320.png"
+    },
+    {
+        "id": 317,
+        "name": "Estadio Bicentenario Municipal de La Florida",
+        "address": "Calle Enrique Olivares 1003, La Florida",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/317.png"
+    },
+    {
+        "id": 324,
+        "name": "Estadio Bicentenario Francisco S\u00e1nchez Rumoroso",
+        "address": "Calle Pedro de Valdivia",
+        "city": "Coquimbo",
+        "country": "Chile",
+        "capacity": 18750,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/324.png"
+    },
+    {
+        "id": 323,
+        "name": "Estadio El Cobre",
+        "address": "Avenida Arqueros 2500",
+        "city": "El Salvador, Diego de Almagro",
+        "country": "Chile",
+        "capacity": 20752,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/323.png"
+    },
+    {
+        "id": 322,
+        "name": "Estadio Zorros del Desierto",
+        "address": "Avenida Bilbao",
+        "city": "Calama",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/322.png"
+    },
+    {
+        "id": 341,
+        "name": "Estadio El\u00edas Figueroa Brander",
+        "address": "Avenida Guillermo Gonz\u00e1lez de Hontaneda, Playa Ancha",
+        "city": "Valpara\u00edso",
+        "country": "Chile",
+        "capacity": 21113,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/341.png"
+    },
+    {
+        "id": 332,
+        "name": "Estadio El Parque Municipal",
+        "address": "Avenida Pedro Montt esq. Err\u00e1zuriz",
+        "city": "Valdivia",
+        "country": "Chile",
+        "capacity": 4500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/332.png"
+    },
+    {
+        "id": 328,
+        "name": "Estadio Municipal de La Pintana",
+        "address": "Calle Tala y Calle Ciudad de M\u00e9xico 1589, La Pintana",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 6000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/328.png"
+    },
+    {
+        "id": 335,
+        "name": "Estadio Municipal",
+        "address": "Avenida Colon Sur",
+        "city": "San Bernardo",
+        "country": "Chile",
+        "capacity": 3500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/335.png"
+    },
+    {
+        "id": 333,
+        "name": "Estadio Bicentenario Municipal Nelson Oyarz\u00fan",
+        "address": "Avenida Manuel Plaza",
+        "city": "Chill\u00e1n",
+        "country": "Chile",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/333.png"
+    },
+    {
+        "id": 325,
+        "name": "Estadio Municipal de Lo Barnechea",
+        "address": "Cerro 18, Lo Barnechea",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/325.png"
+    },
+    {
+        "id": 344,
+        "name": "Estadio Municipal de San Felipe",
+        "address": "Avenida Maip\u00fa",
+        "city": "San Felipe",
+        "country": "Chile",
+        "capacity": 13162,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/344.png"
+    },
+    {
+        "id": 321,
+        "name": "Estadio La Portada de La Serena",
+        "address": "Avenida Amun\u00e1tegui y Avenida Jos\u00e9 Manuel Balmaceda",
+        "city": "La Serena",
+        "country": "Chile",
+        "capacity": 18500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/321.png"
+    },
+    {
+        "id": 329,
+        "name": "Estadio Bicentenario de Chinquihue",
+        "address": "Avenida Pacheco Altamirano",
+        "city": "Puerto Montt",
+        "country": "Chile",
+        "capacity": 11300,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/329.png"
+    },
+    {
+        "id": 327,
+        "name": "Estadio Luis Valenzuela Hermosilla",
+        "address": "Calle Conrado Araya",
+        "city": "Copiap\u00f3",
+        "country": "Chile",
+        "capacity": 10000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/327.png"
+    },
+    {
+        "id": 339,
+        "name": "Estadio Fiscal de Talca",
+        "address": "Avenida Libertador Bernardo O\u00b4Higgins 251",
+        "city": "Talca",
+        "country": "Chile",
+        "capacity": 17020,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/339.png"
+    },
+    {
+        "id": 2672,
+        "name": "Estadio Carlos Dittborn",
+        "address": "Avenida 18 de Septembre 2000",
+        "city": "Arica",
+        "country": "Chile",
+        "capacity": 17786,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2672.png"
+    },
+    {
+        "id": 330,
+        "name": "Estadio Municipal Joaqu\u00edn Mu\u00f1oz Garc\u00eda",
+        "address": "Paniahue",
+        "city": "Santa Cruz",
+        "country": "Chile",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/330.png"
+    },
+    {
+        "id": 345,
+        "name": "Estadio San Carlos de Apoquindo",
+        "address": "Camino Las Flores 13000, sector San Carlos de Apoquindo, Las Condes",
+        "city": "Santiago de Chile",
+        "country": "Chile",
+        "capacity": 18044,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/345.png"
+    },
+    {
+        "id": 4215,
+        "name": "Estadio Municipal Jorge Silva Valenzuela",
+        "address": "Avenida Manso de Velasco",
+        "city": "San Fernando",
+        "country": "Chile",
+        "capacity": 5900,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4215.png"
+    },
+    {
+        "id": 4216,
+        "name": "Estadio Municipal de Colina",
+        "address": "Aconcagua (e\/ Nu\u00f1ez de Balboa y Nasa)",
+        "city": "Colina",
+        "country": "Chile",
+        "capacity": 6000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4216.png"
+    },
+    {
+        "id": 4217,
+        "name": "Estadio Municipal Guillermo Guzm\u00e1n D\u00edaz",
+        "address": "Avenida San Martin",
+        "city": "Rengo",
+        "country": "Chile",
+        "capacity": 2000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4217.png"
+    },
+    {
+        "id": 4218,
+        "name": "Estadio Municipal Nelson Rojas",
+        "address": "Calle Talca",
+        "city": "Vallenar",
+        "country": "Chile",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4218.png"
+    },
+    {
+        "id": 4219,
+        "name": "Estadio Municipal de San Vicente",
+        "address": "Horacio Aranguiz S\/N",
+        "city": "San Vicente de Tagua Tagua",
+        "country": "Chile",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4219.png"
+    },
+    {
+        "id": 4220,
+        "name": "Estadio Municipal de Los \u00c1ngeles",
+        "address": "Sem dados",
+        "city": "Los \u00c1ngeles",
+        "country": "Chile",
+        "capacity": 5100,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4220.png"
+    },
+    {
+        "id": 4221,
+        "name": "Estadio Lautaro",
+        "address": "Sem dados",
+        "city": "Bu\u00edn",
+        "country": "Chile",
+        "capacity": 1100,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4221.png"
+    },
+    {
+        "id": 4222,
+        "name": "Estadio Municipal Mat\u00edas Vidal P\u00e9rez",
+        "address": "Camino Villarrica - Puc\u00f3n 1301",
+        "city": "Villarrica",
+        "country": "Chile",
+        "capacity": 4000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4222.png"
+    },
+    {
+        "id": 4223,
+        "name": "Estadio Municipal Rub\u00e9n Marcos Peralta",
+        "address": "Calle Pilmaiquen",
+        "city": "Osorno",
+        "country": "Chile",
+        "capacity": 11800,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4223.png"
+    },
+    {
+        "id": 4224,
+        "name": "Estadio Chacabuco",
+        "address": "Avenia Diego Silva Henriquez",
+        "city": "Santiago",
+        "country": "Chile",
+        "capacity": 3000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4224.png"
+    },
+    {
+        "id": 4225,
+        "name": "Estadio Municipal Doctor Olegario Henr\u00edquez Escalante",
+        "address": "Avenida Ramon Barros Luco 2595",
+        "city": "San Antonio",
+        "country": "Chile",
+        "capacity": 2025,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4225.png"
+    },
+    {
+        "id": 4226,
+        "name": "Estadio Regional de Los Andes",
+        "address": "Avenida Per\u00fa, Trasandino",
+        "city": "Los Andes",
+        "country": "Chile",
+        "capacity": 3313,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/4226.png"
+    },
+    {
+        "id": 11597,
+        "name": "Estadio Fiscal Manuel Moya Medel",
+        "address": "Sem dados",
+        "city": "Cauquenes",
+        "country": "Chile",
+        "capacity": 4000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11597.png"
+    },
+    {
+        "id": 11133,
+        "name": "Estadio Tucapel Bustamante",
+        "address": "Avenida Rengo",
+        "city": "Linares",
+        "country": "Chile",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11133.png"
+    },
+    {
+        "id": 11598,
+        "name": "Estadio Gustavo Ocaranza",
+        "address": "Yerbas Buenas",
+        "city": "Limache",
+        "country": "Chile",
+        "capacity": 2000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11598.png"
+    },
+    {
+        "id": 12306,
+        "name": "Estadio Ram\u00f3n Unzaga Asla",
+        "address": "Avenida Jordan Valdivieso",
+        "city": "Talcahuano",
+        "country": "Chile",
+        "capacity": 7142,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/12306.png"
+    }]
+}

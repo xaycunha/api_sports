@@ -1,0 +1,415 @@
+{
+    "get": "venues",
+    "parameters":
+    {
+        "search": "PARAGUAY"
+    },
+    "errors": [],
+    "results": 40,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "id": 1218,
+        "name": "Estadio Rogelio Lorenzo Livieres",
+        "address": "Avenida Artigas, Barrio Dos Bocas",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1218.png"
+    },
+    {
+        "id": 1220,
+        "name": "Estadio Arsenio Erico",
+        "address": "Avenida Pedro Juan Caballero y Batallon 40",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1220.png"
+    },
+    {
+        "id": 1214,
+        "name": "Estadio General Pablo Rojas",
+        "address": "Avenida Cerro Le\u00f3n, Bairro Obrero",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 45000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1214.png"
+    },
+    {
+        "id": 1224,
+        "name": "Estadio Lu\u00eds Alfonso Giagni",
+        "address": "Avenida Enrique Von Poleski, Bairro Villa Elisa",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1224.png"
+    },
+    {
+        "id": 1217,
+        "name": "Estadio General Adri\u00e1n Jara",
+        "address": "Avenida General Elizardo Aquino y General Jara",
+        "city": "Luque",
+        "country": "Paraguay",
+        "capacity": 3300,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1217.png"
+    },
+    {
+        "id": 1219,
+        "name": "Estadio Dr. Nicol\u00e1s Leoz",
+        "address": "Avenida Artigas N\u00ba 1.030 esq. Cusmanich",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1219.png"
+    },
+    {
+        "id": 1706,
+        "name": "Estadio Lic. Erico Galeano Segovia",
+        "address": "Calle La Candelaria",
+        "city": "Capiat\u00e1",
+        "country": "Paraguay",
+        "capacity": 15000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1706.png"
+    },
+    {
+        "id": 2799,
+        "name": "Estadio Hugo Bogado Vaceque",
+        "address": "Tte. Claudio Acosta y Calle 26 de Febrero, Barrio Zeballos Cu\u00e9",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2799.png"
+    },
+    {
+        "id": 1221,
+        "name": "Estadio Manuel Ferreira",
+        "address": "Avenida Mariscal L\u00f3pez 1499, Bairro Las Mercedes",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 22000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1221.png"
+    },
+    {
+        "id": 1226,
+        "name": "Estadio Feliciano C\u00e1ceres",
+        "address": "Avenida Sportivo Luque\u00f1o y Gaspar R. de Francia, Bairro Tercer",
+        "city": "Luque",
+        "country": "Paraguay",
+        "capacity": 24000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1226.png"
+    },
+    {
+        "id": 1881,
+        "name": "Estadio River Plate",
+        "address": "Avenida Jose Tlsasi y Dominguez, Barrio Mburica\u00f3",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1881.png"
+    },
+    {
+        "id": 1222,
+        "name": "Estadio Don Eduardo Acosta Caballero",
+        "address": "Calle Juana P. Carillo, Sant\u00edsima Trinidad",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 4500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1222.png"
+    },
+    {
+        "id": 1974,
+        "name": "Estadio Ricardo Gregor",
+        "address": "Avenida Sant\u00edsima Trinidad y Salvador del Mundo, Campo Grande",
+        "city": "Luque",
+        "country": "Paraguay",
+        "capacity": 4000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1974.png"
+    },
+    {
+        "id": 1227,
+        "name": "Estadio Mart\u00edn Torres",
+        "address": "Avenida Molas L\u00f3pez, Barrio Sant\u00edsima Trinidad",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1227.png"
+    },
+    {
+        "id": 1213,
+        "name": "Estadio Antonio Aranda",
+        "address": "Avenida General Bernardino Caballero",
+        "city": "Ciudad del Este",
+        "country": "Paraguay",
+        "capacity": 28000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1213.png"
+    },
+    {
+        "id": 1747,
+        "name": "Estadio Juan Jos\u00e9 V\u00e1zquez",
+        "address": "Sem dados",
+        "city": "San Estanislao",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1747.png"
+    },
+    {
+        "id": 1223,
+        "name": "Estadio Gunther Vogel",
+        "address": "Rua Artigas, Barrio Fatima",
+        "city": "San Lorenzo",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1223.png"
+    },
+    {
+        "id": 1215,
+        "name": "Estadio Municipal Federico Llamosas",
+        "address": "Sem dados",
+        "city": "Caaguaz\u00fa",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1215.png"
+    },
+    {
+        "id": 2803,
+        "name": "Estadio Presb\u00edtero Manuel Gamarra",
+        "address": "Calle Sgto. Silva \/ Teniente Valdovinos",
+        "city": "It\u00e1",
+        "country": "Paraguay",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2803.png"
+    },
+    {
+        "id": 1871,
+        "name": "Estadio Ovetenses Unidos",
+        "address": "Ruta 8 Blas Garay",
+        "city": "Coronel Oviedo",
+        "country": "Paraguay",
+        "capacity": 10000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1871.png"
+    },
+    {
+        "id": 2805,
+        "name": "Estadio Alfonso Colm\u00e1n",
+        "address": "Avenida Concepcion",
+        "city": "Fernando de la Mora",
+        "country": "Paraguay",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2805.png"
+    },
+    {
+        "id": 1216,
+        "name": "Estadio Emiliano Ghezzi",
+        "address": "Avenida Bruno Guggiari y Sajonia, Vista Alegre",
+        "city": "Fernando de la Mora",
+        "country": "Paraguay",
+        "capacity": 5500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1216.png"
+    },
+    {
+        "id": 2802,
+        "name": "Estadio Teniente Fari\u00f1a",
+        "address": "Avenida Miriscal Jose F. Estigarribia, Barrio Yboty",
+        "city": "Caacup\u00e9",
+        "country": "Paraguay",
+        "capacity": 2000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2802.png"
+    },
+    {
+        "id": 2804,
+        "name": "Estadio Pablo Patricio Bogar\u00edn",
+        "address": "Crist\u00f3bal Col\u00f3n",
+        "city": "\u00d1emby",
+        "country": "Paraguay",
+        "capacity": 2000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2804.png"
+    },
+    {
+        "id": 1872,
+        "name": "Estadio Parque Fulgencio Yegros",
+        "address": "Avenida Santa Librada, Pa&apos;i \u00d1u",
+        "city": "\u00d1emby",
+        "country": "Paraguay",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1872.png"
+    },
+    {
+        "id": 1752,
+        "name": "Estadio Tom\u00e1s Beggan Correa",
+        "address": "Ferando de Mompox y Zayas",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 5700,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1752.png"
+    },
+    {
+        "id": 1225,
+        "name": "Estadio Salvador Morga",
+        "address": "Calle Domingo Mart\u00ednez de Irala esq. Calle General D\u00edaz",
+        "city": "It\u00e1",
+        "country": "Paraguay",
+        "capacity": 4000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1225.png"
+    },
+    {
+        "id": 2801,
+        "name": "Estadio Club 22 de Setiembre",
+        "address": "Sem dados",
+        "city": "Encarnaci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2801.png"
+    },
+    {
+        "id": 1900,
+        "name": "Estadio Parque del Guair\u00e1",
+        "address": "Ruta 8 Dr. Blas Garay",
+        "city": "Villarrica",
+        "country": "Paraguay",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1900.png"
+    },
+    {
+        "id": 2800,
+        "name": "Estadio Enrique Soler",
+        "address": "Sem dados",
+        "city": "Capiat\u00e1",
+        "country": "Paraguay",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2800.png"
+    },
+    {
+        "id": 1212,
+        "name": "Estadio Monumental R\u00edo Parapit\u00ed",
+        "address": "Avenida 12 de Junio y Alberdi",
+        "city": "Pedro Juan Caballero",
+        "country": "Paraguay",
+        "capacity": 22000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1212.png"
+    },
+    {
+        "id": 1923,
+        "name": "Complejo Deportivo Virgen Mar\u00eda Auxiliadora",
+        "address": "Km 30",
+        "city": "Minga Guaz\u00fa",
+        "country": "Paraguay",
+        "capacity": 10000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1923.png"
+    },
+    {
+        "id": 11622,
+        "name": "Estadio Defensores del Chaco",
+        "address": "Avenida Martinez y Juan Diaz De Solis, Barrio Sajonia",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 40760,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/11622.png"
+    },
+    {
+        "id": 2604,
+        "name": "Estadio Luis Alberto Salinas Tanasio",
+        "address": "Pan American Highway",
+        "city": "Itaugu\u00e1",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2604.png"
+    },
+    {
+        "id": 2605,
+        "name": "Estadio San Francisco de Asis",
+        "address": "Barrio Las Mercedes",
+        "city": "Atyr\u00e4",
+        "country": "Paraguay",
+        "capacity": 15000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2605.png"
+    },
+    {
+        "id": 7214,
+        "name": "Estadio Prof. Luciano Zacar\u00edas",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Paraguay",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7214.png"
+    },
+    {
+        "id": 7215,
+        "name": "Estadio Jos\u00e9 Tom\u00e1s Silva",
+        "address": "Virgen del Huerto",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 800,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7215.png"
+    },
+    {
+        "id": 7216,
+        "name": "Estadio Toribio Vargas",
+        "address": "Libertad, Barrio Jara",
+        "city": "Asunci\u00f3n",
+        "country": "Paraguay",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7216.png"
+    },
+    {
+        "id": 7316,
+        "name": "Estadio Club Guaran\u00ed",
+        "address": "Sem dados",
+        "city": "Trinidad",
+        "country": "Paraguay",
+        "capacity": 1000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7316.png"
+    },
+    {
+        "id": 12072,
+        "name": "Estadio Molino",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Paraguay",
+        "capacity": 1000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/12072.png"
+    }]
+}

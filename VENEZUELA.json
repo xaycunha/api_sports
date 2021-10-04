@@ -1,0 +1,405 @@
+{
+    "get": "venues",
+    "parameters":
+    {
+        "search": "VENEZUELA"
+    },
+    "errors": [],
+    "results": 39,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "id": 1649,
+        "name": "Estadio Polideportivo de Pueblo Nuevo",
+        "address": "Avenida Espa\u00f1a",
+        "city": "San Crist\u00f3bal",
+        "country": "Venezuela",
+        "capacity": 40000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1649.png"
+    },
+    {
+        "id": 1665,
+        "name": "Estadio Ol\u00edmpico Jos\u00e9 Encarnaci\u00f3n Pachencho Romero",
+        "address": "Circunvalaci\u00f3n No. 2, Sector Grano de Oro",
+        "city": "Maracaibo",
+        "country": "Venezuela",
+        "capacity": 32472,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1665.png"
+    },
+    {
+        "id": 1664,
+        "name": "Estadio Rafael Agust\u00edn Tovar",
+        "address": "Avenida Cruz Paredes \/ Avenida Andres Varela, La Carolina",
+        "city": "Barinas",
+        "country": "Venezuela",
+        "capacity": 29800,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1664.png"
+    },
+    {
+        "id": 1653,
+        "name": "Estadio Ol\u00edmpico de la UCV",
+        "address": "Avenida Los Mangos, Los Chaguaramos",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "capacity": 23940,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1653.png"
+    },
+    {
+        "id": 9909,
+        "name": "Estadio Polideportivo Misael Delgado",
+        "address": "Avenida Bol\u00edvar Norte, Urbanizaci\u00f3n la Alegr\u00eda",
+        "city": "Valencia",
+        "country": "Venezuela",
+        "capacity": 12000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/9909.png"
+    },
+    {
+        "id": 1660,
+        "name": "Estadio Monumental de Matur\u00edn",
+        "address": "Avenida Ra\u00fal Leoni",
+        "city": "Matur\u00edn",
+        "country": "Venezuela",
+        "capacity": 51796,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1660.png"
+    },
+    {
+        "id": 1656,
+        "name": "Estadio Farid Richa",
+        "address": "Avenida Libertador con Calle 37",
+        "city": "Barquisimeto",
+        "country": "Venezuela",
+        "capacity": 12480,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1656.png"
+    },
+    {
+        "id": 1661,
+        "name": "Estadio General Jos\u00e9 Antonio P\u00e1ez",
+        "address": "Sem dados",
+        "city": "Acarigua-Araure",
+        "country": "Venezuela",
+        "capacity": 18000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1661.png"
+    },
+    {
+        "id": 1662,
+        "name": "Estadio Jos\u00e9 Alberto P\u00e9rez",
+        "address": "Avenida Las Ferias, El Valle de San Luis",
+        "city": "Valera",
+        "country": "Venezuela",
+        "capacity": 12765,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1662.png"
+    },
+    {
+        "id": 1710,
+        "name": "Estadio Bicentenario de Ure\u00f1a (Nueva Arcadia)",
+        "address": "Calle 4, Junta Parroquial, Aguas Calientes",
+        "city": "Ure\u00f1a",
+        "country": "Venezuela",
+        "capacity": 4500,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1710.png"
+    },
+    {
+        "id": 1651,
+        "name": "Estadio Ol\u00edmpico Hermanos Ghersi P\u00e1ez",
+        "address": "Calle Campo El\u00edas, Barrio La Democracia",
+        "city": "Maracay",
+        "country": "Venezuela",
+        "capacity": 20000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1651.png"
+    },
+    {
+        "id": 9386,
+        "name": "Estadio Ol\u00edmpico Metropolitano de M\u00e9rida",
+        "address": "Complejo 5 \u00c1gulas Blancas, Urbanizaci\u00f3n Hacienda",
+        "city": "M\u00e9rida",
+        "country": "Venezuela",
+        "capacity": 42700,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/9386.png"
+    },
+    {
+        "id": 1655,
+        "name": "Estadio Ol\u00edmpico General Jos\u00e9 Antonio Anzo\u00e1tegui",
+        "address": "Avenida Intercomunal",
+        "city": "Puerto la Cruz",
+        "country": "Venezuela",
+        "capacity": 37485,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1655.png"
+    },
+    {
+        "id": 1831,
+        "name": "Estadio Giuseppe Antonelli",
+        "address": "Sector La Morita",
+        "city": "Turmero",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1831.png"
+    },
+    {
+        "id": 1658,
+        "name": "Estadio Ol\u00edmpico Rafael Calles Pinto",
+        "address": "Complejo Ferial Jos\u00e9 Antonio P\u00e1ez, Urbanizaci\u00f3n Hato Modelo",
+        "city": "Guanare",
+        "country": "Venezuela",
+        "capacity": 13000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1658.png"
+    },
+    {
+        "id": 1659,
+        "name": "CTE Cachamay",
+        "address": "Avenida Guayana, Puerto Ordaz",
+        "city": "Ciudad Guayana",
+        "country": "Venezuela",
+        "capacity": 45600,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1659.png"
+    },
+    {
+        "id": 2850,
+        "name": "Estadio Rogelio Matos",
+        "address": "Sem dados",
+        "city": "Socop\u00f3",
+        "country": "Venezuela",
+        "capacity": 7500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2850.png"
+    },
+    {
+        "id": 1848,
+        "name": "Complejo Deportivo Socialista",
+        "address": "Avenida Andres Eloy Blanco",
+        "city": "Puerto Cabello",
+        "country": "Venezuela",
+        "capacity": 7500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1848.png"
+    },
+    {
+        "id": 1663,
+        "name": "Estadio Ol\u00edmpico Florentino Oropeza",
+        "address": "Avenida Alberto Ravell",
+        "city": "San Felipe",
+        "country": "Venezuela",
+        "capacity": 10000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1663.png"
+    },
+    {
+        "id": 1960,
+        "name": "Estadio Jes\u00fas Uribe",
+        "address": "Calle Comercio",
+        "city": "Mor\u00f3n",
+        "country": "Venezuela",
+        "capacity": 2500,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1960.png"
+    },
+    {
+        "id": 1652,
+        "name": "Estadio Ram\u00f3n Gato Hern\u00e1ndez",
+        "address": "Avenida Ram\u00f3n Hern\u00e1ndez",
+        "city": "El Vig\u00eda",
+        "country": "Venezuela",
+        "capacity": 12785,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1652.png"
+    },
+    {
+        "id": 2947,
+        "name": "Estadio Alfredo Simonpietri",
+        "address": "Avenida Octavio Viana",
+        "city": "Calabozo",
+        "country": "Venezuela",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2947.png"
+    },
+    {
+        "id": 2946,
+        "name": "Estadio Los Olivos de Puerto Ordaz",
+        "address": "Calle Verona, Los Olivos",
+        "city": "Puerto Ordaz, Ciudad Guayana",
+        "country": "Venezuela",
+        "capacity": 2000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2946.png"
+    },
+    {
+        "id": 2854,
+        "name": "Estadio Antonio Jos\u00e9 de Sucre",
+        "address": "Calle Circuvalicion \/ Avenida 23 de Enero",
+        "city": "Puerto Ayacucho",
+        "country": "Venezuela",
+        "capacity": 7000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2854.png"
+    },
+    {
+        "id": 1650,
+        "name": "Estadio Ricardo Tulio Maya",
+        "address": "La Paragua",
+        "city": "Ciudad Bol\u00edvar",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1650.png"
+    },
+    {
+        "id": 2853,
+        "name": "Estadio Polideportivo El Gallo",
+        "address": "San F\u00e9lix",
+        "city": "Ciudad Guayana",
+        "country": "Venezuela",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2853.png"
+    },
+    {
+        "id": 2852,
+        "name": "Cocodrilos Sports Park",
+        "address": "Avenida Antonio Guzm\u00e1n Blanco Cota 905, El Para\u00edso",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "capacity": 3500,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2852.png"
+    },
+    {
+        "id": 1961,
+        "name": "Ciudad Deportiva Nueva Esparta",
+        "address": "Avenida J\u00f3vito Villalba, Nueva Esparta",
+        "city": "Pampatar",
+        "country": "Venezuela",
+        "capacity": 4500,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1961.png"
+    },
+    {
+        "id": 2851,
+        "name": "Estadio Nacional Br\u00edgido Iriarte",
+        "address": "Avenida Estadio, Urbanizaci\u00f3n El Para\u00edso",
+        "city": "Caracas",
+        "country": "Venezuela",
+        "capacity": 12500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/2851.png"
+    },
+    {
+        "id": 1870,
+        "name": "Estadio Pedro Ch\u00e1vez",
+        "address": "Sem dados",
+        "city": "San Antonio del T\u00e1chira",
+        "country": "Venezuela",
+        "capacity": 3000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1870.png"
+    },
+    {
+        "id": 1765,
+        "name": "Estadio Ol\u00edmpico Guillermo Soto Rosa",
+        "address": "Avenida Humberto Tejera",
+        "city": "M\u00e9rida",
+        "country": "Venezuela",
+        "capacity": 16500,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1765.png"
+    },
+    {
+        "id": 1932,
+        "name": "Parque Ciudad Vinotinto",
+        "address": "Avenida R-16",
+        "city": "Lecher\u00eda",
+        "country": "Venezuela",
+        "capacity": 1000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/1932.png"
+    },
+    {
+        "id": 7554,
+        "name": "Estadio Metropolitano IDT",
+        "address": "Avenida Universidad Villa Bolivariana La Gran Colombia",
+        "city": "San Crist\u00f3bal",
+        "country": "Venezuela",
+        "capacity": 22000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7554.png"
+    },
+    {
+        "id": 7555,
+        "name": "Polideportivo Venalum",
+        "address": "Avenida Norte Sur 3",
+        "city": "Puerto Ordaz, Ciudad Guayana",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7555.png"
+    },
+    {
+        "id": 7557,
+        "name": "Complejo Deportivo UCAT",
+        "address": "Barrio Obrero",
+        "city": "San Crist\u00f3bal",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "artificial turf",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7557.png"
+    },
+    {
+        "id": 7558,
+        "name": "Estadio Alexander Comanche Bottini",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Venezuela",
+        "capacity": 8000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7558.png"
+    },
+    {
+        "id": 7559,
+        "name": "Estadio F\u00e9lix Lalito Vel\u00e1squez",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Venezuela",
+        "capacity": 15000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7559.png"
+    },
+    {
+        "id": 7560,
+        "name": "Estadio H\u00e9ctor Thomas",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7560.png"
+    },
+    {
+        "id": 7561,
+        "name": "Complejo Deportivo 5 de Julio",
+        "address": "Sem dados",
+        "city": "Sem dados",
+        "country": "Venezuela",
+        "capacity": 5000,
+        "surface": "grass",
+        "image": "https:\/\/media.api-sports.io\/football\/venues\/7561.png"
+    }]
+}
