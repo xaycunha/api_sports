@@ -1,0 +1,981 @@
+{
+    "get": "teams",
+    "parameters":
+    {
+        "search": "ECUADOR"
+    },
+    "errors": [],
+    "results": 46,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "team":
+        {
+            "id": 1148,
+            "name": "Emelec",
+            "country": "Ecuador",
+            "founded": 1929,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1148.png"
+        },
+        "venue":
+        {
+            "id": 469,
+            "name": "Estadio Banco del Pac\u00edfico",
+            "address": "Calle General G\u00f3mez 1312 y Avenida Quito",
+            "city": "Guayaquil",
+            "capacity": 40000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/469.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1149,
+            "name": "Delfin SC",
+            "country": "Ecuador",
+            "founded": 1989,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1149.png"
+        },
+        "venue":
+        {
+            "id": 467,
+            "name": "Estadio Jocay",
+            "address": "Avenida 113",
+            "city": "Manta",
+            "capacity": 17834,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/467.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1150,
+            "name": "El Nacional",
+            "country": "Ecuador",
+            "founded": 1964,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1150.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1151,
+            "name": "Tecnico Universitario",
+            "country": "Ecuador",
+            "founded": 1971,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1151.png"
+        },
+        "venue":
+        {
+            "id": 474,
+            "name": "Estadio Bellavista de Ambato",
+            "address": "Avenida Bolivariana",
+            "city": "Ambato",
+            "capacity": 16467,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/474.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1152,
+            "name": "Barcelona SC",
+            "country": "Ecuador",
+            "founded": 1925,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1152.png"
+        },
+        "venue":
+        {
+            "id": 466,
+            "name": "Estadio Monumental Banco Pichincha",
+            "address": "Avenida Barcelona Sporting Club, Tarqui",
+            "city": "Guayaquil",
+            "capacity": 57267,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/466.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1153,
+            "name": "Independiente del Valle",
+            "country": "Ecuador",
+            "founded": 1958,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1153.png"
+        },
+        "venue":
+        {
+            "id": 470,
+            "name": "Estadio General Rumi\u00f1ahui del Valle de Los Chillos",
+            "address": "Calle Gonz\u00e1lez Su\u00e1rez y Eloy Alfaro",
+            "city": "Sangolqu\u00ed",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/470.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1154,
+            "name": "Deportivo Cuenca",
+            "country": "Ecuador",
+            "founded": 1971,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1154.png"
+        },
+        "venue":
+        {
+            "id": 468,
+            "name": "Estadio Alejandro Serrano Aguilar Banco del Austro",
+            "address": "Avenida del Estadio y Jos\u00e9 Peralta",
+            "city": "Cuenca",
+            "capacity": 22830,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/468.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1155,
+            "name": "Macara",
+            "country": "Ecuador",
+            "founded": 1939,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1155.png"
+        },
+        "venue":
+        {
+            "id": 474,
+            "name": "Estadio Bellavista de Ambato",
+            "address": "Avenida Bolivariana",
+            "city": "Ambato",
+            "capacity": 16467,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/474.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1156,
+            "name": "Aucas",
+            "country": "Ecuador",
+            "founded": 1945,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1156.png"
+        },
+        "venue":
+        {
+            "id": 476,
+            "name": "Estadio Gonzalo Pozo Ripalda",
+            "address": "Avenida Rumichaca y Calle Moromoro, Chillogallo",
+            "city": "Quito",
+            "capacity": 21689,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/476.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1157,
+            "name": "Universidad Catolica",
+            "country": "Ecuador",
+            "founded": 1963,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1157.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1158,
+            "name": "LDU de Quito",
+            "country": "Ecuador",
+            "founded": 1930,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1158.png"
+        },
+        "venue":
+        {
+            "id": 471,
+            "name": "Estadio Rodrigo Paz Delgado",
+            "address": "Avenida John F. Kennedy y Calle Gustavo Lemos, Ponceano, Cotocollao",
+            "city": "Quito",
+            "capacity": 55104,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/471.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1159,
+            "name": "Guayaquil City FC",
+            "country": "Ecuador",
+            "founded": 2007,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1159.png"
+        },
+        "venue":
+        {
+            "id": 1702,
+            "name": "Estadio Christian Ben\u00edtez Betancourt",
+            "address": "Avenida Paseo del Parque",
+            "city": "Guayaquil",
+            "capacity": 10152,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1702.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1160,
+            "name": "Fuerza Amarilla",
+            "country": "Ecuador",
+            "founded": 1998,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1160.png"
+        },
+        "venue":
+        {
+            "id": 1837,
+            "name": "Estadio 9 de Mayo",
+            "address": "Avenida 25 de Junio y Las Palmeras",
+            "city": "Machala",
+            "capacity": 16456,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1837.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1161,
+            "name": "Clan Juvenil",
+            "country": "Ecuador",
+            "founded": 2009,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1161.png"
+        },
+        "venue":
+        {
+            "id": 470,
+            "name": "Estadio General Rumi\u00f1ahui del Valle de Los Chillos",
+            "address": "Calle Gonz\u00e1lez Su\u00e1rez y Eloy Alfaro",
+            "city": "Sangolqu\u00ed",
+            "capacity": 7233,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/470.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1162,
+            "name": "Mushuc Runa SC",
+            "country": "Ecuador",
+            "founded": 2003,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1162.png"
+        },
+        "venue":
+        {
+            "id": 474,
+            "name": "Estadio Bellavista de Ambato",
+            "address": "Avenida Bolivariana",
+            "city": "Ambato",
+            "capacity": 16467,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/474.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1731,
+            "name": "Ecuador W",
+            "country": "Sweden",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1731.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1980,
+            "name": "Manta FC",
+            "country": "Ecuador",
+            "founded": 1998,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1980.png"
+        },
+        "venue":
+        {
+            "id": 467,
+            "name": "Estadio Jocay",
+            "address": "Avenida 113",
+            "city": "Manta",
+            "capacity": 17834,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/467.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1981,
+            "name": "Deportivo Colon",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1981.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1982,
+            "name": "Deportivo Espoli",
+            "country": "Ecuador",
+            "founded": 1986,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1982.png"
+        },
+        "venue":
+        {
+            "id": 2685,
+            "name": "Estadio Ol\u00edmpico Etho Vega Baquero",
+            "address": "Avenida Esmeraldas y Clemencia de Mora",
+            "city": "Santo Domingo de los Colorados",
+            "capacity": 10172,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2685.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1983,
+            "name": "Imbabura",
+            "country": "Ecuador",
+            "founded": 1993,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1983.png"
+        },
+        "venue":
+        {
+            "id": 2683,
+            "name": "Estadio Ol\u00edmpico de Ibarra",
+            "address": "Avenida V\u00edctor Manuel Pe\u00f1aherrera y Jaime Rold\u00f3s",
+            "city": "Ibarra",
+            "capacity": 17260,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2683.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1984,
+            "name": "Deportivo Quito",
+            "country": "Ecuador",
+            "founded": 1955,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1984.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1985,
+            "name": "CD Olmedo",
+            "country": "Ecuador",
+            "founded": 1919,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1985.png"
+        },
+        "venue":
+        {
+            "id": 475,
+            "name": "Estadio Ol\u00edmpico de Riobamba",
+            "address": "Avenida Carlos Zambrano y Unidad Nacional",
+            "city": "Riobamba",
+            "capacity": 18936,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/475.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1986,
+            "name": "Gualaceo SC",
+            "country": "Ecuador",
+            "founded": 2000,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1986.png"
+        },
+        "venue":
+        {
+            "id": 1836,
+            "name": "Estadio Gerardo Le\u00f3n Pozo",
+            "address": "Avenida 3 de Noviembre s\/n y Circunvalaci\u00f3n",
+            "city": "Gualaceo",
+            "capacity": 4550,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1836.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1987,
+            "name": "LDU Loja",
+            "country": "Ecuador",
+            "founded": 1989,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1987.png"
+        },
+        "venue":
+        {
+            "id": 472,
+            "name": "Estadio Federativo Reina del Cisne",
+            "address": "Avenida Emiliano Ortega y Calle Azua",
+            "city": "Loja",
+            "capacity": 15281,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/472.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1988,
+            "name": "LDU Portoviejo",
+            "country": "Ecuador",
+            "founded": 1969,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1988.png"
+        },
+        "venue":
+        {
+            "id": 473,
+            "name": "Estadio Reales Tamarindos",
+            "address": "Avenida Universitaria y C\u00e9sar Ch\u00e1vez Ca\u00f1arte",
+            "city": "Portoviejo",
+            "capacity": 21000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/473.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1990,
+            "name": "America de Quito",
+            "country": "Ecuador",
+            "founded": 1939,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1990.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1991,
+            "name": "Puerto Quito",
+            "country": "Ecuador",
+            "founded": 1998,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1991.png"
+        },
+        "venue":
+        {
+            "id": 2685,
+            "name": "Estadio Ol\u00edmpico Etho Vega Baquero",
+            "address": "Av. R\u00edo Lelia",
+            "city": "Santo Domingo de los Colorados",
+            "capacity": 10172,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2685.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1992,
+            "name": "Orense SC",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1992.png"
+        },
+        "venue":
+        {
+            "id": 1837,
+            "name": "Estadio 9 de Mayo",
+            "address": "Avenida 25 de Junio y Las Palmeras",
+            "city": "Machala",
+            "capacity": 16456,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1837.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2237,
+            "name": "Duros del Balon",
+            "country": "Ecuador",
+            "founded": 2007,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2237.png"
+        },
+        "venue":
+        {
+            "id": 1931,
+            "name": "Estadio Modelo Alberto Spencer Herrera",
+            "address": "Avenida de Las Am\u00e9ricas",
+            "city": "Guayaquil",
+            "capacity": 48780,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1931.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2238,
+            "name": "UT Cotopaxi",
+            "country": "Ecuador",
+            "founded": 2007,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2238.png"
+        },
+        "venue":
+        {
+            "id": 8538,
+            "name": "Estadio Municipal Jaime Zumarraga",
+            "address": "Sem dados",
+            "city": "Pujil\u00ed",
+            "capacity": 10000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8538.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2382,
+            "name": "Ecuador",
+            "country": "Ecuador",
+            "founded": 1925,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2382.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10111,
+            "name": "9 de Octubre",
+            "country": "Ecuador",
+            "founded": 1926,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10111.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10112,
+            "name": "Chacaritas",
+            "country": "Ecuador",
+            "founded": 1961,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10112.png"
+        },
+        "venue":
+        {
+            "id": 7121,
+            "name": "Estadio de Pelileo",
+            "address": "Sem dados",
+            "city": "Pelileo",
+            "capacity": 2500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7121.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10286,
+            "name": "Ecuador U20",
+            "country": "Ecuador",
+            "founded": 1925,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10286.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11055,
+            "name": "Independiente U20",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11055.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11678,
+            "name": "PNH FC",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11678.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11680,
+            "name": "US LaJeune",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11680.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 12506,
+            "name": "Ecuador U17",
+            "country": "Ecuador",
+            "founded": 1925,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/12506.png"
+        },
+        "venue":
+        {
+            "id": 465,
+            "name": "Estadio Ol\u00edmpico Atahualpa",
+            "address": "Avenida 6 de Diciembre y Avenida Naciones Unidas",
+            "city": "Quito",
+            "capacity": 40958,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/465.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13812,
+            "name": "Deportivo Quevedo",
+            "country": "Ecuador",
+            "founded": 1952,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13812.png"
+        },
+        "venue":
+        {
+            "id": 8537,
+            "name": "Estadio 7 de Octubre",
+            "address": "Sem dados",
+            "city": "Quevedo",
+            "capacity": 16000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8537.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13813,
+            "name": "Deportivo Azogues",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13813.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13814,
+            "name": "Ferroviarios",
+            "country": "Ecuador",
+            "founded": 1985,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13814.png"
+        },
+        "venue":
+        {
+            "id": 8539,
+            "name": "Estadio Pablo Sandiford",
+            "address": "Avenida Roberto Borrero Elizalde",
+            "city": "Sem dados",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8539.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13815,
+            "name": "Grecia",
+            "country": "Ecuador",
+            "founded": 1986,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13815.png"
+        },
+        "venue":
+        {
+            "id": 8540,
+            "name": "Estadio Los Chonanas",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8540.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13816,
+            "name": "Rocafuerte",
+            "country": "Ecuador",
+            "founded": 1994,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13816.png"
+        },
+        "venue":
+        {
+            "id": 8541,
+            "name": "Estadio Alejandro Ponce Noboa de Fertisa",
+            "address": "Avenida 25 de Julio, Sector Fertisa",
+            "city": "Guayaquil",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8541.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13817,
+            "name": "Valle del Chota",
+            "country": "Ecuador",
+            "founded": 2001,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13817.png"
+        },
+        "venue":
+        {
+            "id": 8542,
+            "name": "Estadio Ol\u00edmpico de Ibarra",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 17260,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/8542.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16476,
+            "name": "Cumbay\u00e1",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16476.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16477,
+            "name": "Guayaquil",
+            "country": "Ecuador",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16477.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    }]
+}

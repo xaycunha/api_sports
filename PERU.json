@@ -1,0 +1,1338 @@
+{
+    "get": "teams",
+    "parameters":
+    {
+        "search": "PERU"
+    },
+    "errors": [],
+    "results": 63,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "team":
+        {
+            "id": 30,
+            "name": "Peru",
+            "country": "Peru",
+            "founded": 1922,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/30.png"
+        },
+        "venue":
+        {
+            "id": 1228,
+            "name": "Estadio Nacional de Lima",
+            "address": "Paseo de la Republica",
+            "city": "Lima",
+            "capacity": 45574,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1228.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 524,
+            "name": "Perugia",
+            "country": "Italy",
+            "founded": 1905,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/524.png"
+        },
+        "venue":
+        {
+            "id": 922,
+            "name": "Stadio Renato Curi",
+            "address": "Via Pietro Conti",
+            "city": "Perugia",
+            "capacity": 23625,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/922.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2539,
+            "name": "UTC",
+            "country": "Peru",
+            "founded": 1942,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2539.png"
+        },
+        "venue":
+        {
+            "id": 1243,
+            "name": "Estadio H\u00e9roes de San Ram\u00f3n",
+            "address": "Sem dados",
+            "city": "Cajamarca",
+            "capacity": 18000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1243.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2540,
+            "name": "Universitario",
+            "country": "Peru",
+            "founded": 1924,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2540.png"
+        },
+        "venue":
+        {
+            "id": 1242,
+            "name": "Estadio Monumental",
+            "address": "Avenida Javier Prado Este 7596, Ate",
+            "city": "Lima",
+            "capacity": 80093,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1242.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2541,
+            "name": "Cesar Vallejo",
+            "country": "Peru",
+            "founded": 1996,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2541.png"
+        },
+        "venue":
+        {
+            "id": 1232,
+            "name": "Estadio Mansiche",
+            "address": "Avenida Mansiche",
+            "city": "Trujillo",
+            "capacity": 25000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1232.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2542,
+            "name": "Ayacucho FC",
+            "country": "Peru",
+            "founded": 1972,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2542.png"
+        },
+        "venue":
+        {
+            "id": 1236,
+            "name": "Estadio Ciudad de Cuman\u00e1",
+            "address": "Avenida Universitaria",
+            "city": "Ayacucho",
+            "capacity": 17000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1236.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2543,
+            "name": "Academia Cantolao",
+            "country": "Peru",
+            "founded": 1981,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2543.png"
+        },
+        "venue":
+        {
+            "id": 1238,
+            "name": "Estadio Miguel Grau del Callao",
+            "address": "Avenida Oscar R. Benavides y Calle Topacios, Bellavista",
+            "city": "Callao",
+            "capacity": 17000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1238.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2544,
+            "name": "Sport Boys",
+            "country": "Peru",
+            "founded": 1927,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2544.png"
+        },
+        "venue":
+        {
+            "id": 1238,
+            "name": "Estadio Miguel Grau del Callao",
+            "address": "Avenida Oscar R. Benavides y Calle Topacios, Bellavista",
+            "city": "Callao",
+            "capacity": 17000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1238.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2545,
+            "name": "Deportivo Municipal",
+            "country": "Peru",
+            "founded": 1935,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2545.png"
+        },
+        "venue":
+        {
+            "id": 1234,
+            "name": "Estadio Municipal Segundo Aranda Torres",
+            "address": "Avenida Santa Rosa",
+            "city": "Huacho",
+            "capacity": 8500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1234.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2546,
+            "name": "Sporting Cristal",
+            "country": "Peru",
+            "founded": 1955,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2546.png"
+        },
+        "venue":
+        {
+            "id": 1240,
+            "name": "Estadio Alberto Gallardo",
+            "address": "Avenida Zarumilla, La Florida, R\u00edmac",
+            "city": "Lima",
+            "capacity": 20000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1240.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2547,
+            "name": "Real Garcilaso",
+            "country": "Peru",
+            "founded": 2009,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2547.png"
+        },
+        "venue":
+        {
+            "id": 1233,
+            "name": "Estadio Inca Garcilaso de la Vega",
+            "address": "Calle Huayruru Pata y 24 de Junio",
+            "city": "Cusco",
+            "capacity": 42056,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1233.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2548,
+            "name": "Alianza Universidad",
+            "country": "Peru",
+            "founded": 1939,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2548.png"
+        },
+        "venue":
+        {
+            "id": 1231,
+            "name": "Estadio Heraclio Tapia Le\u00f3n",
+            "address": "Sem dados",
+            "city": "Hu\u00e1nuco",
+            "capacity": 20000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1231.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2549,
+            "name": "U. San Martin",
+            "country": "Peru",
+            "founded": 2004,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2549.png"
+        },
+        "venue":
+        {
+            "id": 1240,
+            "name": "Estadio Alberto Gallardo",
+            "address": "Avenida Zarumilla, La Florida, R\u00edmac",
+            "city": "Lima",
+            "capacity": 20000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1240.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2550,
+            "name": "Deportivo Binacional",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2550.png"
+        },
+        "venue":
+        {
+            "id": 1811,
+            "name": "Estadio Guillermo Brice\u00f1o Rosamedina",
+            "address": "Sem dados",
+            "city": "Juliaca",
+            "capacity": 15000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1811.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2551,
+            "name": "Carlos A. Mannucci",
+            "country": "Peru",
+            "founded": 1959,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2551.png"
+        },
+        "venue":
+        {
+            "id": 1232,
+            "name": "Estadio Mansiche",
+            "address": "Avenida Mansiche",
+            "city": "Trujillo",
+            "capacity": 25000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1232.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2552,
+            "name": "Union Comercio",
+            "country": "Peru",
+            "founded": 1994,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2552.png"
+        },
+        "venue":
+        {
+            "id": 1703,
+            "name": "Estadio IPD de Nueva Cajamarca",
+            "address": "Sem dados",
+            "city": "Nueva Cajamarca",
+            "capacity": 12000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1703.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2553,
+            "name": "Alianza Lima",
+            "country": "Peru",
+            "founded": 1901,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2553.png"
+        },
+        "venue":
+        {
+            "id": 1230,
+            "name": "Estadio Alejandro Villanueva",
+            "address": "Calle Jir\u00f3n Abtao con Avenida Isabel La Cat\u00f3lica 821, La Victoria",
+            "city": "Lima",
+            "capacity": 35000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1230.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2554,
+            "name": "FBC Melgar",
+            "country": "Peru",
+            "founded": 1915,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2554.png"
+        },
+        "venue":
+        {
+            "id": 1235,
+            "name": "Estadio de la Universidad Nacional San Agust\u00edn",
+            "address": "Calle 1",
+            "city": "Arequipa",
+            "capacity": 40217,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1235.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2555,
+            "name": "Sport Huancayo",
+            "country": "Peru",
+            "founded": 2007,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2555.png"
+        },
+        "venue":
+        {
+            "id": 1239,
+            "name": "Estadio Huancayo",
+            "address": "Avenida Jacinto Ibarra y Avenida Ocopilla",
+            "city": "Huancayo",
+            "capacity": 24000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1239.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2556,
+            "name": "Molinos El Pirata",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2556.png"
+        },
+        "venue":
+        {
+            "id": 1930,
+            "name": "Estadio Municipal Francisco Mendoza Pizarro",
+            "address": "Sem dados",
+            "city": "Olmos",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1930.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2557,
+            "name": "Sport Rosario",
+            "country": "Peru",
+            "founded": 1965,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2557.png"
+        },
+        "venue":
+        {
+            "id": 1951,
+            "name": "Estadio Rosas Pampa",
+            "address": "Avenida Bolognesi",
+            "city": "Huaraz",
+            "capacity": 18724,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1951.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2558,
+            "name": "Comerciantes Unidos",
+            "country": "Peru",
+            "founded": 2002,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2558.png"
+        },
+        "venue":
+        {
+            "id": 1810,
+            "name": "Estadio Juan Maldonado Gamarra",
+            "address": "Avenida Salomon Vilchez Murga",
+            "city": "Cutervo",
+            "capacity": 10030,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1810.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2559,
+            "name": "Juan Aurich",
+            "country": "Peru",
+            "founded": 1922,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2559.png"
+        },
+        "venue":
+        {
+            "id": 1237,
+            "name": "Estadio El\u00edas Aguirre",
+            "address": "Avenida Paseo del Deporte y Avenida Insurreccion",
+            "city": "Chiclayo",
+            "capacity": 24500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1237.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2560,
+            "name": "Alianza Atletico",
+            "country": "Peru",
+            "founded": 1920,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2560.png"
+        },
+        "venue":
+        {
+            "id": 1229,
+            "name": "Estadio Municipal Melanio Coloma Calder\u00f3n",
+            "address": "Calle Brasil, Bellavista",
+            "city": "Sullana",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1229.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2561,
+            "name": "Defensor LA Bocana",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2561.png"
+        },
+        "venue":
+        {
+            "id": 2806,
+            "name": "Estadio Municipal de Bernal",
+            "address": "Avenida Libertadores",
+            "city": "Humay",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2806.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2562,
+            "name": "Cienciano",
+            "country": "Peru",
+            "founded": 1901,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2562.png"
+        },
+        "venue":
+        {
+            "id": 1233,
+            "name": "Estadio Inca Garcilaso de la Vega",
+            "address": "Calle Huayruru Pata y 24 de Junio",
+            "city": "Cusco",
+            "capacity": 42056,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1233.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2563,
+            "name": "Union Huaral",
+            "country": "Peru",
+            "founded": 1947,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2563.png"
+        },
+        "venue":
+        {
+            "id": 1241,
+            "name": "Estadio R\u00f3mulo Shaw Cisneros",
+            "address": "Avenida Diego L\u00f3pez de Z\u00fa\u00f1iga 142",
+            "city": "Chancay",
+            "capacity": 2520,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1241.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2564,
+            "name": "Atletico Grau",
+            "country": "Peru",
+            "founded": 1919,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2564.png"
+        },
+        "venue":
+        {
+            "id": 1920,
+            "name": "Estadio Campeones del '36",
+            "address": "Calle Jr. Sucre 462, 2\u00ba Piso",
+            "city": "Sullana",
+            "capacity": 10000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1920.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2565,
+            "name": "Deportivo Hualgayoc",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2565.png"
+        },
+        "venue":
+        {
+            "id": 2808,
+            "name": "Estadio Municipal de Hualgayoc",
+            "address": "3N",
+            "city": "Hualgayoc",
+            "capacity": 5000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2808.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2566,
+            "name": "Sport Victoria",
+            "country": "Peru",
+            "founded": 1916,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2566.png"
+        },
+        "venue":
+        {
+            "id": 1785,
+            "name": "Estadio Jos\u00e9 Picasso Peratta",
+            "address": "Avenida Los Maestros",
+            "city": "Ica",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1785.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2567,
+            "name": "Alfredo Salinas",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2567.png"
+        },
+        "venue":
+        {
+            "id": 2807,
+            "name": "Estadio Municipal de Espinar",
+            "address": "Avenida Circunvalaci\u00f3n",
+            "city": "Espinar",
+            "capacity": 16000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2807.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2568,
+            "name": "Deportivo Coopsol",
+            "country": "Peru",
+            "founded": 1964,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2568.png"
+        },
+        "venue":
+        {
+            "id": 1241,
+            "name": "Estadio R\u00f3mulo Shaw Cisneros",
+            "address": "Avenida Diego L\u00f3pez de Z\u00fa\u00f1iga 142",
+            "city": "Chancay",
+            "capacity": 2520,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1241.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2569,
+            "name": "LOS Caimanes",
+            "country": "Peru",
+            "founded": 1957,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2569.png"
+        },
+        "venue":
+        {
+            "id": 1237,
+            "name": "Estadio El\u00edas Aguirre",
+            "address": "Avenida Paseo del Deporte y Avenida Insurreccion",
+            "city": "Chiclayo",
+            "capacity": 24500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1237.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2570,
+            "name": "Serrato Pacasmayo",
+            "country": "Peru",
+            "founded": 2012,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2570.png"
+        },
+        "venue":
+        {
+            "id": 1930,
+            "name": "Estadio Municipal Francisco Mendoza Pizarro",
+            "address": "Sem dados",
+            "city": "Olmos",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1930.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2571,
+            "name": "Sport Loreto",
+            "country": "Peru",
+            "founded": 1935,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2571.png"
+        },
+        "venue":
+        {
+            "id": 1812,
+            "name": "Estadio Aliardo Soria P\u00e9rez",
+            "address": "Avenida Fitzcarrald \/ Avenida Alfonso Ugarte",
+            "city": "Pucallpa",
+            "capacity": 15000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1812.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2572,
+            "name": "Cultural Santa Rosa",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2572.png"
+        },
+        "venue":
+        {
+            "id": 1875,
+            "name": "Estadio Los Chankas",
+            "address": "Sem dados",
+            "city": "Andahuaylas",
+            "capacity": 10000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1875.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2573,
+            "name": "Sport Ancash",
+            "country": "Peru",
+            "founded": 1967,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2573.png"
+        },
+        "venue":
+        {
+            "id": 1951,
+            "name": "Estadio Rosas Pampa",
+            "address": "Avenida Bolognesi",
+            "city": "Huaraz",
+            "capacity": 18724,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1951.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2575,
+            "name": "Union Tarapoto",
+            "country": "Peru",
+            "founded": 1955,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2575.png"
+        },
+        "venue":
+        {
+            "id": 2810,
+            "name": "Estadio Municipal Carlos Vidaurre Garc\u00eda",
+            "address": "Avenida Micaela Bastidas",
+            "city": "Tarapoto",
+            "capacity": 18000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2810.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2576,
+            "name": "Atletico Torino",
+            "country": "Peru",
+            "founded": 1946,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2576.png"
+        },
+        "venue":
+        {
+            "id": 2809,
+            "name": "Estadio Campeon\u00edsimo",
+            "address": "Sem dados",
+            "city": "Talara",
+            "capacity": 8000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2809.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 4226,
+            "name": "Santos",
+            "country": "Peru",
+            "founded": 2010,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/4226.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 5129,
+            "name": "P\u00e1pai Perutz",
+            "country": "Hungary",
+            "founded": 2015,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/5129.png"
+        },
+        "venue":
+        {
+            "id": 3872,
+            "name": "Perutz-stadion",
+            "address": "V\u00e1rkert utca 2.",
+            "city": "P\u00e1pa",
+            "capacity": 4561,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/3872.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 8545,
+            "name": "Perun Kresna",
+            "country": "Bulgaria",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/8545.png"
+        },
+        "venue":
+        {
+            "id": 6100,
+            "name": "Gradski stadion",
+            "address": "Sem dados",
+            "city": "Kresna",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/6100.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10012,
+            "name": "Carlos Stein",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10012.png"
+        },
+        "venue":
+        {
+            "id": 1930,
+            "name": "Estadio Municipal Francisco Mendoza Pizarro",
+            "address": "Sem dados",
+            "city": "Olmos",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1930.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10013,
+            "name": "Cusco",
+            "country": "Peru",
+            "founded": 2009,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10013.png"
+        },
+        "venue":
+        {
+            "id": 7051,
+            "name": "Estadio T\u00fapac Amaru",
+            "address": "Avenida Jes\u00fas Gaona",
+            "city": "Sicuani",
+            "capacity": 15230,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7051.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10014,
+            "name": "Deportivo Llacuabamba",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10014.png"
+        },
+        "venue":
+        {
+            "id": 1243,
+            "name": "Estadio H\u00e9roes de San Ram\u00f3n",
+            "address": "La Torre 499",
+            "city": "Cajamarca",
+            "capacity": 18000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1243.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10089,
+            "name": "Deportivo Llacuaba",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10089.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10090,
+            "name": "Sport Chavelines Juniors",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10090.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10110,
+            "name": "P\u00e9ruwelz",
+            "country": "Belgium",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10110.png"
+        },
+        "venue":
+        {
+            "id": 7120,
+            "name": "Stade de la Verte Chasse",
+            "address": "Verte Chasse 9",
+            "city": "P\u00e9ruwelz",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7120.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10492,
+            "name": "ADT",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10492.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10493,
+            "name": "Alfonso Ugarte Puno",
+            "country": "Peru",
+            "founded": 1928,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10493.png"
+        },
+        "venue":
+        {
+            "id": 7217,
+            "name": "Estadio Enrique Torres Bel\u00f3n",
+            "address": "Avenida Simon Bolivar",
+            "city": "Puno",
+            "capacity": 20000,
+            "surface": "artificial turf",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7217.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10494,
+            "name": "Comerciantes",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10494.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10495,
+            "name": "Credicoop San Crist\u00f3bal",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10495.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10496,
+            "name": "Escuela JTR",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10496.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10497,
+            "name": "Miguel Grau",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10497.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10498,
+            "name": "Municipal de Agomarca",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10498.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10499,
+            "name": "Octavio Espinoza",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10499.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10500,
+            "name": "Sport Estrella",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10500.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10501,
+            "name": "Sport Huanta",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10501.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11061,
+            "name": "Sporting Cristal U20",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11061.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 12258,
+            "name": "Las Palmas",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/12258.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 12982,
+            "name": "Am\u00e9rica RJ U20",
+            "country": "Peru",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/12982.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16203,
+            "name": "Peru U20",
+            "country": "Sem dados",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16203.png"
+        },
+        "venue":
+        {
+            "id": 1228,
+            "name": "Estadio Nacional de Lima",
+            "address": "Paseo de la Republica",
+            "city": "Lima",
+            "capacity": 45574,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1228.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17729,
+            "name": "Perugia U19",
+            "country": "Italy",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17729.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    }]
+}

@@ -1,0 +1,1947 @@
+{
+    "get": "teams",
+    "parameters":
+    {
+        "search": "PARAGUAY"
+    },
+    "errors": [],
+    "results": 92,
+    "paging":
+    {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+    {
+        "team":
+        {
+            "id": 1174,
+            "name": "Club Guarani",
+            "country": "Paraguay",
+            "founded": 1903,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1174.png"
+        },
+        "venue":
+        {
+            "id": 1218,
+            "name": "Estadio Rogelio Lorenzo Livieres",
+            "address": "Avenida Artigas, Barrio Dos Bocas",
+            "city": "Asunci\u00f3n",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1218.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1175,
+            "name": "Nacional Asuncion",
+            "country": "Paraguay",
+            "founded": 1904,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1175.png"
+        },
+        "venue":
+        {
+            "id": 1220,
+            "name": "Estadio Arsenio Erico",
+            "address": "Avenida Pedro Juan Caballero y Batallon 40",
+            "city": "Asunci\u00f3n",
+            "capacity": 7000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1220.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1176,
+            "name": "Cerro Porteno",
+            "country": "Paraguay",
+            "founded": 1912,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1176.png"
+        },
+        "venue":
+        {
+            "id": 1214,
+            "name": "Estadio General Pablo Rojas",
+            "address": "Avenida Cerro Le\u00f3n, Bairro Obrero",
+            "city": "Asunci\u00f3n",
+            "capacity": 45000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1214.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1177,
+            "name": "SOL DE America",
+            "country": "Paraguay",
+            "founded": 1909,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1177.png"
+        },
+        "venue":
+        {
+            "id": 1224,
+            "name": "Estadio Lu\u00eds Alfonso Giagni",
+            "address": "Avenida Enrique Von Poleski, Bairro Villa Elisa",
+            "city": "Asunci\u00f3n",
+            "capacity": 7000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1224.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1178,
+            "name": "General Diaz",
+            "country": "Paraguay",
+            "founded": 1917,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1178.png"
+        },
+        "venue":
+        {
+            "id": 1217,
+            "name": "Estadio General Adri\u00e1n Jara",
+            "address": "Avenida General Elizardo Aquino y General Jara",
+            "city": "Luque",
+            "capacity": 3300,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1217.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1179,
+            "name": "Libertad Asuncion",
+            "country": "Paraguay",
+            "founded": 1905,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1179.png"
+        },
+        "venue":
+        {
+            "id": 1219,
+            "name": "Estadio Dr. Nicol\u00e1s Leoz",
+            "address": "Avenida Artigas N\u00ba 1.030 esq. Cusmanich",
+            "city": "Asunci\u00f3n",
+            "capacity": 12000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1219.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1180,
+            "name": "Deportivo Capiata",
+            "country": "Paraguay",
+            "founded": 2008,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1180.png"
+        },
+        "venue":
+        {
+            "id": 1706,
+            "name": "Estadio Lic. Erico Galeano Segovia",
+            "address": "Calle La Candelaria",
+            "city": "Capiat\u00e1",
+            "capacity": 15000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1706.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1181,
+            "name": "General Caballero",
+            "country": "Paraguay",
+            "founded": 1918,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1181.png"
+        },
+        "venue":
+        {
+            "id": 2799,
+            "name": "Estadio Hugo Bogado Vaceque",
+            "address": "Tte. Claudio Acosta y Calle 26 de Febrero, Barrio Zeballos Cu\u00e9",
+            "city": "Asunci\u00f3n",
+            "capacity": 7000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2799.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1182,
+            "name": "Olimpia",
+            "country": "Paraguay",
+            "founded": 1902,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1182.png"
+        },
+        "venue":
+        {
+            "id": 1221,
+            "name": "Estadio Manuel Ferreira",
+            "address": "Avenida Mariscal L\u00f3pez 1499, Bairro Las Mercedes",
+            "city": "Asunci\u00f3n",
+            "capacity": 22000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1221.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1183,
+            "name": "Sportivo Luqueno",
+            "country": "Paraguay",
+            "founded": 1921,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1183.png"
+        },
+        "venue":
+        {
+            "id": 1226,
+            "name": "Estadio Feliciano C\u00e1ceres",
+            "address": "Avenida Sportivo Luque\u00f1o y Gaspar R. de Francia, Bairro Tercer",
+            "city": "Luque",
+            "capacity": 24000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1226.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1184,
+            "name": "Club River Plate",
+            "country": "Paraguay",
+            "founded": 1911,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1184.png"
+        },
+        "venue":
+        {
+            "id": 1881,
+            "name": "Estadio River Plate",
+            "address": "Avenida Jose Tlsasi y Dominguez, Barrio Mburica\u00f3",
+            "city": "Asunci\u00f3n",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1881.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1185,
+            "name": "Rubio NU",
+            "country": "Paraguay",
+            "founded": 1913,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1185.png"
+        },
+        "venue":
+        {
+            "id": 1222,
+            "name": "Estadio Don Eduardo Acosta Caballero",
+            "address": "Calle Juana P. Carillo, Sant\u00edsima Trinidad",
+            "city": "Asunci\u00f3n",
+            "capacity": 4500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1222.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1186,
+            "name": "Independiente F.b.c.",
+            "country": "Paraguay",
+            "founded": 1925,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1186.png"
+        },
+        "venue":
+        {
+            "id": 1974,
+            "name": "Estadio Ricardo Gregor",
+            "address": "Avenida Sant\u00edsima Trinidad y Salvador del Mundo, Campo Grande",
+            "city": "Luque",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1974.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1187,
+            "name": "Sportivo Trinidense",
+            "country": "Paraguay",
+            "founded": 1935,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1187.png"
+        },
+        "venue":
+        {
+            "id": 1227,
+            "name": "Estadio Mart\u00edn Torres",
+            "address": "Avenida Molas L\u00f3pez, Barrio Sant\u00edsima Trinidad",
+            "city": "Asunci\u00f3n",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1227.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1188,
+            "name": "3 de Febrero",
+            "country": "Paraguay",
+            "founded": 1970,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1188.png"
+        },
+        "venue":
+        {
+            "id": 1213,
+            "name": "Estadio Antonio Aranda",
+            "address": "Avenida General Bernardino Caballero",
+            "city": "Ciudad del Este",
+            "capacity": 28000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1213.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 1189,
+            "name": "Deportivo Santani",
+            "country": "Paraguay",
+            "founded": 2009,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/1189.png"
+        },
+        "venue":
+        {
+            "id": 1747,
+            "name": "Estadio Juan Jos\u00e9 V\u00e1zquez",
+            "address": "Sem dados",
+            "city": "San Estanislao",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1747.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2125,
+            "name": "Club Sp. San Lorenzo",
+            "country": "Paraguay",
+            "founded": 1930,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2125.png"
+        },
+        "venue":
+        {
+            "id": 1223,
+            "name": "Estadio Gunther Vogel",
+            "address": "Rua Artigas, Barrio Fatima",
+            "city": "San Lorenzo",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1223.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2126,
+            "name": "Deportivo Caaguazu",
+            "country": "Paraguay",
+            "founded": 2008,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2126.png"
+        },
+        "venue":
+        {
+            "id": 1215,
+            "name": "Estadio Municipal Federico Llamosas",
+            "address": "Sem dados",
+            "city": "Caaguaz\u00fa",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1215.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2127,
+            "name": "Olimpia De Ita",
+            "country": "Paraguay",
+            "founded": 1921,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2127.png"
+        },
+        "venue":
+        {
+            "id": 2803,
+            "name": "Estadio Presb\u00edtero Manuel Gamarra",
+            "address": "Calle Sgto. Silva \/ Teniente Valdovinos",
+            "city": "It\u00e1",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2803.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2128,
+            "name": "Ovetense FC",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2128.png"
+        },
+        "venue":
+        {
+            "id": 1871,
+            "name": "Estadio Ovetenses Unidos",
+            "address": "Ruta 8 Blas Garay",
+            "city": "Coronel Oviedo",
+            "capacity": 10000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1871.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2129,
+            "name": "Sport Colombia",
+            "country": "Paraguay",
+            "founded": 1924,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2129.png"
+        },
+        "venue":
+        {
+            "id": 2805,
+            "name": "Estadio Alfonso Colm\u00e1n",
+            "address": "Avenida Concepcion",
+            "city": "Fernando de la Mora",
+            "capacity": 7000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2805.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2130,
+            "name": "Fernando De La Mora",
+            "country": "Paraguay",
+            "founded": 1925,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2130.png"
+        },
+        "venue":
+        {
+            "id": 1216,
+            "name": "Estadio Emiliano Ghezzi",
+            "address": "Avenida Bruno Guggiari y Sajonia, Vista Alegre",
+            "city": "Fernando de la Mora",
+            "capacity": 5500,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1216.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2131,
+            "name": "Caacupe FBC",
+            "country": "Paraguay",
+            "founded": 1980,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2131.png"
+        },
+        "venue":
+        {
+            "id": 2802,
+            "name": "Estadio Teniente Fari\u00f1a",
+            "address": "Avenida Miriscal Jose F. Estigarribia, Barrio Yboty",
+            "city": "Caacup\u00e9",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2802.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2132,
+            "name": "Cristobal Colon",
+            "country": "Paraguay",
+            "founded": 1925,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2132.png"
+        },
+        "venue":
+        {
+            "id": 2804,
+            "name": "Estadio Pablo Patricio Bogar\u00edn",
+            "address": "Crist\u00f3bal Col\u00f3n",
+            "city": "\u00d1emby",
+            "capacity": 2000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2804.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2133,
+            "name": "Deportivo Liberacion",
+            "country": "Paraguay",
+            "founded": 2014,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2133.png"
+        },
+        "venue":
+        {
+            "id": 1747,
+            "name": "Estadio Juan Jos\u00e9 V\u00e1zquez",
+            "address": "Sem dados",
+            "city": "San Estanislao",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1747.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2134,
+            "name": "Fulgencio Yegros",
+            "country": "Paraguay",
+            "founded": 1924,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2134.png"
+        },
+        "venue":
+        {
+            "id": 1872,
+            "name": "Estadio Parque Fulgencio Yegros",
+            "address": "Avenida Santa Librada, Pa&apos;i \u00d1u",
+            "city": "\u00d1emby",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1872.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2135,
+            "name": "Resistencia",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2135.png"
+        },
+        "venue":
+        {
+            "id": 1752,
+            "name": "Estadio Tom\u00e1s Beggan Correa",
+            "address": "Ferando de Mompox y Zayas",
+            "city": "Asunci\u00f3n",
+            "capacity": 5700,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1752.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2136,
+            "name": "Sportivo Iteno",
+            "country": "Paraguay",
+            "founded": 1924,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2136.png"
+        },
+        "venue":
+        {
+            "id": 1225,
+            "name": "Estadio Salvador Morga",
+            "address": "Calle Domingo Mart\u00ednez de Irala esq. Calle General D\u00edaz",
+            "city": "It\u00e1",
+            "capacity": 4000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1225.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2137,
+            "name": "22 De Setiembre",
+            "country": "Paraguay",
+            "founded": 1906,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2137.png"
+        },
+        "venue":
+        {
+            "id": 2801,
+            "name": "Estadio Club 22 de Setiembre",
+            "address": "Sem dados",
+            "city": "Encarnaci\u00f3n",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2801.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2138,
+            "name": "Guairena FC",
+            "country": "Paraguay",
+            "founded": 2016,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2138.png"
+        },
+        "venue":
+        {
+            "id": 1900,
+            "name": "Estadio Parque del Guair\u00e1",
+            "address": "Ruta 8 Dr. Blas Garay",
+            "city": "Villarrica",
+            "capacity": 12000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1900.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2139,
+            "name": "Martin Ledesma",
+            "country": "Paraguay",
+            "founded": 1914,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2139.png"
+        },
+        "venue":
+        {
+            "id": 2800,
+            "name": "Estadio Enrique Soler",
+            "address": "Sem dados",
+            "city": "Capiat\u00e1",
+            "capacity": 5000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2800.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2140,
+            "name": "2 de Mayo",
+            "country": "Paraguay",
+            "founded": 1935,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2140.png"
+        },
+        "venue":
+        {
+            "id": 1212,
+            "name": "Estadio Monumental R\u00edo Parapit\u00ed",
+            "address": "Avenida 12 de Junio y Alberdi",
+            "city": "Pedro Juan Caballero",
+            "capacity": 22000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1212.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2141,
+            "name": "Ri 3 Corrales",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2141.png"
+        },
+        "venue":
+        {
+            "id": 1923,
+            "name": "Complejo Deportivo Virgen Mar\u00eda Auxiliadora",
+            "address": "Km 30",
+            "city": "Minga Guaz\u00fa",
+            "capacity": 10000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/1923.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 2380,
+            "name": "Paraguay",
+            "country": "Paraguay",
+            "founded": 1906,
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/2380.png"
+        },
+        "venue":
+        {
+            "id": 11622,
+            "name": "Estadio Defensores del Chaco",
+            "address": "Avenida Martinez y Juan Diaz De Solis, Barrio Sajonia",
+            "city": "Asunci\u00f3n",
+            "capacity": 40760,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11622.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 3832,
+            "name": "12 de Octubre",
+            "country": "Paraguay",
+            "founded": 1914,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/3832.png"
+        },
+        "venue":
+        {
+            "id": 2604,
+            "name": "Estadio Luis Alberto Salinas Tanasio",
+            "address": "Pan American Highway",
+            "city": "Itaugu\u00e1",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2604.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 3833,
+            "name": "Atyr\u00e1",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/3833.png"
+        },
+        "venue":
+        {
+            "id": 2605,
+            "name": "Estadio San Francisco de Asis",
+            "address": "Barrio Las Mercedes",
+            "city": "Atyr\u00e4",
+            "capacity": 15000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/2605.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 8394,
+            "name": "Deportivo Paraguayo",
+            "country": "Argentina",
+            "founded": 1961,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/8394.png"
+        },
+        "venue":
+        {
+            "id": 5976,
+            "name": "Estadio Juan Antonio Arias",
+            "address": "Bermejo y Jos\u00e9 C. Paz, Barrio Justo Villegas, San Justo",
+            "city": "La Matanza, Provincia de Buenos Aires",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/5976.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10462,
+            "name": "1 de Marzo Fernando Mora",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10462.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10463,
+            "name": "1 de Marzo Pilar",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10463.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10464,
+            "name": "12 de Octubre Paso Yobai",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10464.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10465,
+            "name": "12 de Octubre SD",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10465.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10466,
+            "name": "16 de Agosto",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10466.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10467,
+            "name": "19 de Marzo",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10467.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10468,
+            "name": "3 de Febrero FBC",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10468.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10469,
+            "name": "3 de Mayo",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10469.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10470,
+            "name": "Aquidab\u00e1n",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10470.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10471,
+            "name": "Atl\u00e1ntida",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10471.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10472,
+            "name": "Atl\u00e9tico Colegiales",
+            "country": "Paraguay",
+            "founded": 1977,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10472.png"
+        },
+        "venue":
+        {
+            "id": 7214,
+            "name": "Estadio Prof. Luciano Zacar\u00edas",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 8000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7214.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10473,
+            "name": "Atl\u00e9tico Juventud",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10473.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10474,
+            "name": "Atl\u00e9tico Tembetary",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10474.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10475,
+            "name": "Crist\u00f3bal Col\u00f3n JAS",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10475.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10476,
+            "name": "Deportivo Recoleta",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10476.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10477,
+            "name": "General Caballero CG",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10477.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10479,
+            "name": "Independiente Nanawa",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10479.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10480,
+            "name": "Nueva Estrella",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10480.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10481,
+            "name": "Porvenir",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10481.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10482,
+            "name": "Presidente Hayes",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10482.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10483,
+            "name": "Silvio Pettirossi",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10483.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10484,
+            "name": "Sol de Am\u00e9rica Pastoreo",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10484.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10485,
+            "name": "Sport Colonial",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10485.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10486,
+            "name": "Sport Valenzolano",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10486.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10487,
+            "name": "Sportivo Ameliano",
+            "country": "Paraguay",
+            "founded": 1936,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10487.png"
+        },
+        "venue":
+        {
+            "id": 7215,
+            "name": "Estadio Jos\u00e9 Tom\u00e1s Silva",
+            "address": "Virgen del Huerto",
+            "city": "Asunci\u00f3n",
+            "capacity": 800,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7215.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10488,
+            "name": "Sportivo Limpe\u00f1o",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10488.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10489,
+            "name": "Sportivo Puerto Diana",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10489.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10490,
+            "name": "Sportivo San Juan",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10490.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10491,
+            "name": "Tacuary",
+            "country": "Paraguay",
+            "founded": 1923,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10491.png"
+        },
+        "venue":
+        {
+            "id": 7216,
+            "name": "Estadio Toribio Vargas",
+            "address": "Libertad, Barrio Jara",
+            "city": "Asunci\u00f3n",
+            "capacity": 3000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7216.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 10683,
+            "name": "Guaran\u00ed de Trinidad",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/10683.png"
+        },
+        "venue":
+        {
+            "id": 7316,
+            "name": "Estadio Club Guaran\u00ed",
+            "address": "Sem dados",
+            "city": "Trinidad",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/7316.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11051,
+            "name": "Cerro Porte\u00f1o U20",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11051.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 11056,
+            "name": "Libertad U20",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/11056.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 12257,
+            "name": "Athletic Club",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/12257.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 12517,
+            "name": "Paraguay U17",
+            "country": "Northern Ireland",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/12517.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 13166,
+            "name": "Santo Domingo",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/13166.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16202,
+            "name": "Paraguay U20",
+            "country": "Sem dados",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16202.png"
+        },
+        "venue":
+        {
+            "id": 11309,
+            "name": "Estadio Defensores del Chaco",
+            "address": "Avenida Martinez y Juan Diaz De Solis, Barrio Sajonia",
+            "city": "Asunci\u00f3n",
+            "capacity": 40760,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/11309.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 16941,
+            "name": "Paraguay W",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": true,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/16941.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17176,
+            "name": "12 de Octubre VDS",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17176.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17177,
+            "name": "24 de Junio",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17177.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17178,
+            "name": "24 de Setiembre",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17178.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17179,
+            "name": "29 de Setiembre",
+            "country": "Paraguay",
+            "founded": 1942,
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17179.png"
+        },
+        "venue":
+        {
+            "id": 12072,
+            "name": "Estadio Molino",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": 1000,
+            "surface": "grass",
+            "image": "https:\/\/media.api-sports.io\/football\/venues\/12072.png"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17180,
+            "name": "5 de Octubre",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17180.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17181,
+            "name": "Adolfo Rojas",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17181.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17182,
+            "name": "Atl\u00e9tico Tr\u00e9bol",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17182.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17183,
+            "name": "Benjam\u00edn Aceval",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17183.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17184,
+            "name": "Coronel Martinez",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17184.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17185,
+            "name": "Deportivo La Colmena",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17185.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17186,
+            "name": "Deportivo Pinoz\u00e1",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17186.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17187,
+            "name": "Deportivo Primavera",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17187.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17188,
+            "name": "Karai Chiv\u00e9",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17188.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17189,
+            "name": "Mariscal Estigarribia",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17189.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17190,
+            "name": "Mil Palos",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17190.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17191,
+            "name": "Sport Pacob\u00e1",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17191.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17192,
+            "name": "Sport Sastre\u00f1o",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17192.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    },
+    {
+        "team":
+        {
+            "id": 17193,
+            "name": "Ytororo",
+            "country": "Paraguay",
+            "founded": "Sem dados",
+            "national": false,
+            "logo": "https:\/\/media.api-sports.io\/football\/teams\/17193.png"
+        },
+        "venue":
+        {
+            "id": "Sem dados",
+            "name": "Sem dados",
+            "address": "Sem dados",
+            "city": "Sem dados",
+            "capacity": "Sem dados",
+            "surface": "Sem dados",
+            "image": "Sem dados"
+        }
+    }]
+}
