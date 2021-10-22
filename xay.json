@@ -1,0 +1,19 @@
+ "records": [
+    {
+      "uri": "https://www.example.com",
+      "access": {
+        "update": false
+      },
+      "id": 17059,
+      "vid": 37614,
+      "name": "MyLibery",
+      "claim": null,
+      "claimedBy": null,
+      "authorUid": "3",
+      "lifecycle": "L",
+      "companyType": "S",
+      "ugcState": 10,
+      "companyLogo": {
+        "fileName": "mylibery-logo.png",
+        "filePath": "sites/default/files/imagecache/company_logo_70/mylibery-logo.png"
+      }
