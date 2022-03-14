@@ -1,0 +1,1510 @@
+{
+    "id": "pos077",
+    "name": "Mega II HD",
+    "brand": "SKY",
+    "description": "Mais de 190 canais com at\u00e9 3 equipamentos em alta defini\u00e7\u00e3o e grava\u00e7\u00e3o opcional",
+    "longDescription": "O plano SKY P\u00f3s Pago Mega II tem tecnologia HD conta com recursos surpreendentes para que a sua experi\u00eancia em assistir TV seja ainda melhor. Vem 2 equipamentos digitais (1 com grava\u00e7\u00e3o e 1 sem grava\u00e7\u00e3o) e 2 controles pra fam\u00edlia toda se divertir bastante.A an\u00e1lise de viabilidade t\u00e9cnica e a instala\u00e7\u00e3o s\u00e3o realizadas pelo credenciado SKY de forma gratuita. Equipamento e antena cedidos em regime de comodato.Oferta: voc\u00ea paga a assinatura ap\u00f3s o 1\u00b0 m\u00eas de uso. Todos os pacotes p\u00f3s-pagos t\u00eam desconto de R$ 10\/m\u00eas.Pagando com boleto voc\u00ea tem desconto de R$ 10\/m\u00eas durante do 2\u00b0 ao 7\u00b0 m\u00eas. E se escolher a op\u00e7\u00e3o de pagar com cart\u00e3o de cr\u00e9dito ou d\u00e9bito autom\u00e1tico, tem desconto de R$ 10\/m\u00eas do 2\u00b0 ao 13\u00b0 m\u00eas.",
+    "initialPrice": 7.9,
+    "finalPrice": 175.9,
+    "textAux": "a partir do 2\u00b0 m\u00eas*..*Ganhe R$ 10 de desconto na fatura durante 1 ano pagando com cart\u00e3o ou d\u00e9bito autom\u00e1tico e durante 6 meses pagando com boleto.",
+    "numberOfEquipments": "2 equipamentos HD",
+    "benefit1": null,
+    "benefit2": null,
+    "benefit3": null,
+    "benefit4": null,
+    "benefit5": null,
+    "utility1": "1 com grava\u00e7\u00e3o",
+    "utility2": null,
+    "utility3": null,
+    "adult": false,
+    "audio": "82 CANAIS DE \u00c1UDIO",
+    "hd": "sendo 75 canais HD",
+    "channels": "165 canais",
+    "sports": "10 canais de esporte",
+    "kids": "13 canais infantis",
+    "skyPlay": "ASSISTA PELO APP",
+    "targetAddOnProducts": [
+    {
+        "repositoryId": "cp30105",
+        "addOnOptions": [
+        {
+            "nameOpt": "Telecine",
+            "longDescriptionOpt": "D\u00e1 pra acessar o Telecine Play, servi\u00e7o de streaming com mais de 2 mil filmes.",
+            "listPriceOpt": 37.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30106",
+        "addOnOptions": [
+        {
+            "nameOpt": "HBO",
+            "longDescriptionOpt": "Voc\u00ea pode acessar o servi\u00e7o de streaming HBO Go e curtir mais de 2 mil conte\u00fados.\u00a0",
+            "listPriceOpt": 27.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30107",
+        "addOnOptions": [
+        {
+            "nameOpt": "Sex Priv\u00e9",
+            "longDescriptionOpt": "",
+            "listPriceOpt": 19.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30108",
+        "addOnOptions": [
+        {
+            "nameOpt": "Combate",
+            "longDescriptionOpt": "D\u00e1 pra acessar o Combate Play, servi\u00e7o de streaming com conte\u00fados do mundo da luta.\u00a0",
+            "listPriceOpt": 69.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30109",
+        "addOnOptions": [
+        {
+            "nameOpt": "Premiere",
+            "longDescriptionOpt": "Voc\u00ea pode acessar o servi\u00e7o de streaming Premiere Play e curtir conte\u00fados exclusivos.\u00a0*Valor v\u00e1lido para contrata\u00e7\u00e3o mensal deste canal, sem perman\u00eancia m\u00ednima.",
+            "listPriceOpt": 59.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30110",
+        "addOnOptions": [
+        {
+            "nameOpt": "Premiere (com fidelidade)",
+            "longDescriptionOpt": "Voc\u00ea pode acessar o servi\u00e7o de streaming Premiere Play e curtir conte\u00fados exclusivos. *Valor v\u00e1lido para perman\u00eancia m\u00ednima de 12 meses na contrata\u00e7\u00e3o deste canal.",
+            "listPriceOpt": 49.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30111",
+        "addOnOptions": [
+        {
+            "nameOpt": "CONMEBOL",
+            "longDescriptionOpt": "D\u00e1 pra acompanhar os jogos pelo SKY Play, nossa plataforma de streaming.",
+            "listPriceOpt": 19.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30112",
+        "addOnOptions": [
+        {
+            "nameOpt": "ESR Sports",
+            "longDescriptionOpt": "Torneios, programas de audit\u00f3rio e at\u00e9 document\u00e1rios em s\u00e9rie sobre eSports.",
+            "listPriceOpt": 3.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30113",
+        "addOnOptions": [
+        {
+            "nameOpt": "ESPN Extra",
+            "longDescriptionOpt": "Voc\u00ea pode acessar a Watch ESPN, servi\u00e7os de streaming com jogos, entrevistas e mais.",
+            "listPriceOpt": 5.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp30114",
+        "addOnOptions": [
+        {
+            "nameOpt": "Disney+",
+            "longDescriptionOpt": "De Star Wars \u00e0 Frozen, de Dory aos Vingadores, de WandaVision \u00e0 High School Musical, aqui tem divers\u00e3o para todos os gostos!\u00a0",
+            "listPriceOpt": 27.9,
+            "benefit1Opt": "Acesso ao Disney+",
+            "benefit2Opt": "T\u00edtulos em qualidade 4K",
+            "benefit3Opt": "Controle dos pais",
+            "benefit4Opt": "Cria\u00e7\u00e3o de at\u00e9 7 perfis",
+            "benefit5Opt": "Pagamento na sua fatura SKY"
+        }]
+    },
+    {
+        "repositoryId": "cp30115",
+        "addOnOptions": [
+        {
+            "nameOpt": "Star+",
+            "longDescriptionOpt": "S\u00e9ries exclusivas, filmes, com\u00e9dias animadas e os esportes ao vivo da ESPN.",
+            "listPriceOpt": 32.9,
+            "benefit1Opt": "Acesso ao Star+",
+            "benefit2Opt": "T\u00edtulos em qualidade 4K",
+            "benefit3Opt": "Esportes ao vivo da ESPN",
+            "benefit4Opt": "Produ\u00e7\u00f5es originais",
+            "benefit5Opt": "Pagamento na sua fatura SKY"
+        }]
+    },
+    {
+        "repositoryId": "cp30116",
+        "addOnOptions": [
+        {
+            "nameOpt": "Combo+",
+            "longDescriptionOpt": "Com o Combo+ voc\u00ea tem acesso aos conte\u00fados do Star+ e Disney+ por um pre\u00e7o \u00fanico. R$ 0,00 no 1\u00ba m\u00eas, R$ 36,72 do 2\u00ba ao 6\u00ba m\u00eas e R$ 45,90 a partir do 7\u00ba m\u00eas.",
+            "listPriceOpt": 0,
+            "benefit1Opt": "Acesso ao Disney+ e Star+",
+            "benefit2Opt": "T\u00edtulos em qualidade 4K",
+            "benefit3Opt": "Esportes ao vivo da ESPN",
+            "benefit4Opt": "Controle dos pais",
+            "benefit5Opt": "Pagamento na sua fatura SKY"
+        }]
+    },
+    {
+        "repositoryId": "cp40026",
+        "addOnOptions": [
+        {
+            "nameOpt": "Sexy Hot",
+            "longDescriptionOpt": "",
+            "listPriceOpt": 19.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp50006",
+        "addOnOptions": [
+        {
+            "nameOpt": "Temporada Copa Nordeste",
+            "longDescriptionOpt": "A maior cobertura da Copa do Nordeste e um grande espet\u00e1culo de torcidas do Brasil. \u00c9 pra voc\u00ea n\u00e3o perder nenhum lance.",
+            "listPriceOpt": 59.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp70006",
+        "addOnOptions": [
+        {
+            "nameOpt": "Copa do Nordeste",
+            "longDescriptionOpt": "A maior cobertura da Copa do Nordeste e um grande espet\u00e1culo de torcidas do Brasil. \u00c9 pra voc\u00ea n\u00e3o perder nenhum lance. \u00a0",
+            "listPriceOpt": 23.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp70013",
+        "addOnOptions": [
+        {
+            "nameOpt": "Campeonato Carioca",
+            "longDescriptionOpt": "A maior cobertura do Campeonato Carioca e um grande espet\u00e1culo de torcidas do Brasil. \u00c9 pra voc\u00ea n\u00e3o perder nenhum lance.",
+            "listPriceOpt": 49.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    },
+    {
+        "repositoryId": "cp70014",
+        "addOnOptions": [
+        {
+            "nameOpt": "Campeonato Carioca Temporada",
+            "longDescriptionOpt": "A maior cobertura do Campeonato Carioca e um grande espet\u00e1culo de torcidas do Brasil. \u00c9 pra voc\u00ea n\u00e3o perder nenhum lance.",
+            "listPriceOpt": 129.9,
+            "benefit1Opt": null,
+            "benefit2Opt": null,
+            "benefit3Opt": null,
+            "benefit4Opt": null,
+            "benefit5Opt": null
+        }]
+    }],
+    "channelsInformations":
+    {
+        "title": "MEGA PLUS II HD 2022",
+        "totalChannels": 171,
+        "countOfChannelsByCategory ":
+        {
+            "Audio": 32,
+            "Canais Abertos": 17,
+            "Cortesia": 14,
+            "Cultura": 9,
+            "Esportes": 9,
+            "Filmes e S\u00e9ries": 22,
+            "Infantil": 14,
+            "Not\u00edcias": 7,
+            "P\u00fablicos": 6,
+            "R\u00e1dio": 17,
+            "Variedades": 24
+        },
+        "totalChannelsByCategory ": [
+        {
+            "categoryTitle": "Audio",
+            "categoryCount": 32,
+            "channels": [
+            {
+                "title": "\u00c1UDIO ANOS 2000",
+                "number": "706",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/706.png"
+            },
+            {
+                "title": "\u00c1UDIO ANOS 60",
+                "number": "716",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/716.png"
+            },
+            {
+                "title": "\u00c1UDIO ANOS 70",
+                "number": "717",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/717.png"
+            },
+            {
+                "title": "\u00c1UDIO ANOS 80",
+                "number": "712",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/712.png"
+            },
+            {
+                "title": "\u00c1UDIO ANOS 90",
+                "number": "718",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/718.png"
+            },
+            {
+                "title": "\u00c1UDIO BLACK",
+                "number": "721",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/721.png"
+            },
+            {
+                "title": "\u00c1UDIO BLUES",
+                "number": "722",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/722.png"
+            },
+            {
+                "title": "\u00c1UDIO DISCO",
+                "number": "708",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/708.png"
+            },
+            {
+                "title": "\u00c1UDIO ELETR\u00d4NICA",
+                "number": "713",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/713.png"
+            },
+            {
+                "title": "\u00c1UDIO ESPECIAL",
+                "number": "725",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/725.png"
+            },
+            {
+                "title": "\u00c1UDIO FESTA",
+                "number": "714",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/714.png"
+            },
+            {
+                "title": "\u00c1UDIO FORR\u00d3",
+                "number": "704",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/704.png"
+            },
+            {
+                "title": "\u00c1UDIO FUNK E RAP",
+                "number": "728",
+                "logoUrl": null
+            },
+            {
+                "title": "\u00c1UDIO GOSPEL",
+                "number": "726",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/726.png"
+            },
+            {
+                "title": "\u00c1UDIO JAZZ",
+                "number": "729",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/729.png"
+            },
+            {
+                "title": "\u00c1UDIO KIDS",
+                "number": "701",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/701.png"
+            },
+            {
+                "title": "\u00c1UDIO LOUNGE",
+                "number": "710",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/710.png"
+            },
+            {
+                "title": "\u00c1UDIO METAL",
+                "number": "730",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/730.png"
+            },
+            {
+                "title": "\u00c1UDIO MPB",
+                "number": "702",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/702.png"
+            },
+            {
+                "title": "\u00c1UDIO M\u00daSICA CL\u00c1SSICA",
+                "number": "732",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/732.png"
+            },
+            {
+                "title": "\u00c1UDIO POP HITS",
+                "number": "715",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/715.png"
+            },
+            {
+                "title": "\u00c1UDIO REGGAE",
+                "number": "720",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/720.png"
+            },
+            {
+                "title": "\u00c1UDIO ROCK",
+                "number": "711",
+                "logoUrl": null
+            },
+            {
+                "title": "\u00c1UDIO ROCK BRASIL",
+                "number": "731",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/731.png"
+            },
+            {
+                "title": "\u00c1UDIO ROCK CL\u00c1SSICO",
+                "number": "709",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/709.png"
+            },
+            {
+                "title": "\u00c1UDIO ROM\u00c2NTICAS",
+                "number": "723",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/723.png"
+            },
+            {
+                "title": "\u00c1udio Samba e Pagode",
+                "number": "705",
+                "logoUrl": null
+            },
+            {
+                "title": "\u00c1UDIO SERTANEJO",
+                "number": "707",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/707.png"
+            },
+            {
+                "title": "\u00c1UDIO SERTANEJO UNIVERSIT\u00c1RIO",
+                "number": "719",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/719.png"
+            },
+            {
+                "title": "\u00c1udio Soft Hits",
+                "number": "703",
+                "logoUrl": null
+            },
+            {
+                "title": "\u00c1UDIO TELETEMA",
+                "number": "724",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/724.png"
+            },
+            {
+                "title": "\u00c1UDIO TRILHA SONORA",
+                "number": "727",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/727.png"
+            }]
+        },
+        {
+            "categoryTitle": "Canais Abertos",
+            "categoryCount": 17,
+            "channels": [
+            {
+                "title": "BAND",
+                "number": "13",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/13.png"
+            },
+            {
+                "title": "BAND HD",
+                "number": "413",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/413.png"
+            },
+            {
+                "title": "CAN\u00c7\u00c3O NOVA",
+                "number": "8",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/8.png"
+            },
+            {
+                "title": "CNT",
+                "number": "14",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/IMG_SKY_Logo_Canal_CNT_92x92.png"
+            },
+            {
+                "title": "IDEAL TV",
+                "number": "16",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Ideal_TV_logo.png"
+            },
+            {
+                "title": "RBI",
+                "number": "20",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/20.png"
+            },
+            {
+                "title": "RECORD NEWS",
+                "number": "19",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/19.png"
+            },
+            {
+                "title": "RECORD TV",
+                "number": "7",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/7.png"
+            },
+            {
+                "title": "RECORD TV HD",
+                "number": "407",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/7.png"
+            },
+            {
+                "title": "REDE BRASIL",
+                "number": "17",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/17.png"
+            },
+            {
+                "title": "REDE TV",
+                "number": "15",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/15.png"
+            },
+            {
+                "title": "REDE TV HD",
+                "number": "415",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/415.png"
+            },
+            {
+                "title": "REDE VIDA",
+                "number": "6",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/6.png"
+            },
+            {
+                "title": "RIT",
+                "number": "3",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/3.png"
+            },
+            {
+                "title": "SBT",
+                "number": "9",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/9.png"
+            },
+            {
+                "title": "SBT HD",
+                "number": "409",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/409.png"
+            },
+            {
+                "title": "TV APARECIDA",
+                "number": "11",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/11.png"
+            },
+            {
+                "title": "TV COMUNITARIA",
+                "number": "28",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/28.png"
+            },
+            {
+                "title": "TV CULTURA",
+                "number": "2",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/2.png"
+            },
+            {
+                "title": "TV NOVO TEMPO",
+                "number": "31",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/33.png"
+            },
+            {
+                "title": "TV PAI ETERNO",
+                "number": "18",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/18.png"
+            }]
+        },
+        {
+            "categoryTitle": "Cortesia",
+            "categoryCount": 14,
+            "channels": [
+            {
+                "title": "AGRO+",
+                "number": "569",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Agro%2B.png"
+            },
+            {
+                "title": "CANAL RURAL",
+                "number": "164",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/164.png"
+            },
+            {
+                "title": "CGTN",
+                "number": "173",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/CGTN.jpg"
+            },
+            {
+                "title": "FUTURA",
+                "number": "34",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/34.png"
+            },
+            {
+                "title": "FUTURA HD",
+                "number": "434",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/34.png"
+            },
+            {
+                "title": "POLISHOP",
+                "number": "432",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/32.png"
+            },
+            {
+                "title": "POLISHOP",
+                "number": "32",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/32.png"
+            },
+            {
+                "title": "POLISHOP",
+                "number": "32\/432",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/32.png"
+            },
+            {
+                "title": "REDE GOSPEL",
+                "number": "565",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Rede_Gospel_300x300.png"
+            },
+            {
+                "title": "REDE GOSPEL",
+                "number": "165",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Rede_Gospel_300x300.png"
+            },
+            {
+                "title": "REDE GOSPEL",
+                "number": "165\/565",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Rede_Gospel_300x300.png"
+            },
+            {
+                "title": "SHOPTIME",
+                "number": "33",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/31.png"
+            },
+            {
+                "title": "SHOPTIME",
+                "number": "33\/433",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/31.png"
+            },
+            {
+                "title": "SHOPTIME",
+                "number": "433",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/31.png"
+            },
+            {
+                "title": "TERRA VIVA",
+                "number": "163",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/163.png"
+            },
+            {
+                "title": "TV EDUCA\u00c7\u00c3O",
+                "number": "75",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/sky_img_logo_tv_educacao.jpg"
+            }]
+        },
+        {
+            "categoryTitle": "Cultura",
+            "categoryCount": 9,
+            "channels": [
+            {
+                "title": "ANIMAL PLANET",
+                "number": "71",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/71.png"
+            },
+            {
+                "title": "ANIMAL PLANET HD",
+                "number": "471",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/471.png"
+            },
+            {
+                "title": "ARTE 1",
+                "number": "81",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/81.png"
+            },
+            {
+                "title": "D. THEATER HD",
+                "number": "473",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/473.png"
+            },
+            {
+                "title": "DISCOVERY CHANNEL",
+                "number": "70",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/70.png"
+            },
+            {
+                "title": "DISCOVERY CHANNEL HD",
+                "number": "470",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/470.png"
+            },
+            {
+                "title": "DISCOVERY SCIENCE HD",
+                "number": "474",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/474.png"
+            },
+            {
+                "title": "DISCOVERY WORLD HD",
+                "number": "487",
+                "logoUrl": null
+            },
+            {
+                "title": "HISTORY 2",
+                "number": "477",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_IMG_Logo_History2_Novo2022.png"
+            },
+            {
+                "title": "HISTORY CHANNEL",
+                "number": "76",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_IMG_Logo_History1_Novo2022.png"
+            },
+            {
+                "title": "HISTORY CHANNEL HD",
+                "number": "476",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_IMG_Logo_History1_Novo2022.png"
+            },
+            {
+                "title": "NATIONAL GEOGRAPHIC",
+                "number": "78",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/78.png"
+            },
+            {
+                "title": "NATIONAL GEOGRAPHIC HD",
+                "number": "478",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/478.png"
+            },
+            {
+                "title": "TLC HD",
+                "number": "486",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/486.png"
+            }]
+        },
+        {
+            "categoryTitle": "Esportes",
+            "categoryCount": 9,
+            "channels": [
+            {
+                "title": "BANDSPORTS",
+                "number": "210",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/210.png"
+            },
+            {
+                "title": "BANDSPORTS HD",
+                "number": "610",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/610.png"
+            },
+            {
+                "title": "ESPN 2",
+                "number": "197",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_2_92x92.png"
+            },
+            {
+                "title": "ESPN 2",
+                "number": "198",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_2_92x92.png"
+            },
+            {
+                "title": "ESPN 2 HD",
+                "number": "597",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_2_92x92.png"
+            },
+            {
+                "title": "ESPN 3",
+                "number": "199",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_3_92x92.png"
+            },
+            {
+                "title": "ESPN 3 HD",
+                "number": "599",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_3_92x92.png"
+            },
+            {
+                "title": "ESPN 4",
+                "number": "194",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_4_92x92.png"
+            },
+            {
+                "title": "ESPN 4 HD",
+                "number": "594",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_4_92x92.png"
+            },
+            {
+                "title": "ESPN HD",
+                "number": "598",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ESPN_92x92.png"
+            },
+            {
+                "title": "FOX SPORTS 2 HD",
+                "number": "595",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/595.png"
+            },
+            {
+                "title": "GOLF CHANNEL",
+                "number": "606",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/606.png"
+            },
+            {
+                "title": "SPORTV",
+                "number": "39",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv.jpg"
+            },
+            {
+                "title": "SPORTV 2",
+                "number": "38",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv_2.jpg"
+            },
+            {
+                "title": "SPORTV 2 HD",
+                "number": "438",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv_2.jpg"
+            },
+            {
+                "title": "SPORTV 3",
+                "number": "37",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv_3.jpg"
+            },
+            {
+                "title": "SPORTV 3 HD",
+                "number": "437",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv_3.jpg"
+            },
+            {
+                "title": "SPORTV HD",
+                "number": "439",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/0\/Logo_Sportv.jpg"
+            }]
+        },
+        {
+            "categoryTitle": "Filmes e S\u00e9ries",
+            "categoryCount": 22,
+            "channels": [
+            {
+                "title": "AMC",
+                "number": "114",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/114.png"
+            },
+            {
+                "title": "AMC HD",
+                "number": "514",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/514.png"
+            },
+            {
+                "title": "AXN",
+                "number": "136",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/136.png"
+            },
+            {
+                "title": "AXN HD",
+                "number": "536",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/536.png"
+            },
+            {
+                "title": "CANAL BRASIL",
+                "number": "113",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/IMG_Logo_Canal_Brasil_92x92.png"
+            },
+            {
+                "title": "CANAL BRASIL HD",
+                "number": "513",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/IMG_Logo_Canal_Brasil_92x92.png"
+            },
+            {
+                "title": "CINEMAX",
+                "number": "112",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/112.png"
+            },
+            {
+                "title": "CINEMAX",
+                "number": "109",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/112.png"
+            },
+            {
+                "title": "CINEMAX HD",
+                "number": "512",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/512.png"
+            },
+            {
+                "title": "CINEMAX HD",
+                "number": "509",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/512.png"
+            },
+            {
+                "title": "Film & Arts",
+                "number": "116",
+                "logoUrl": "http:\/\/digitalapi.sky.com.br\/logos\/channels\/516.png"
+            },
+            {
+                "title": "Film & Arts HD",
+                "number": "516",
+                "logoUrl": "http:\/\/digitalapi.sky.com.br\/logos\/channels\/516.png"
+            },
+            {
+                "title": "FX",
+                "number": "143",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/143.png"
+            },
+            {
+                "title": "FX HD",
+                "number": "543",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/543.png"
+            },
+            {
+                "title": "MEGAPIX",
+                "number": "107",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/107.png"
+            },
+            {
+                "title": "MEGAPIX HD",
+                "number": "507",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/507.png"
+            },
+            {
+                "title": "MTV HD",
+                "number": "559",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/559.png"
+            },
+            {
+                "title": "PARAMOUNT NETWORK",
+                "number": "117",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/logoparamount.jpg"
+            },
+            {
+                "title": "PARAMOUNT NETWORK HD",
+                "number": "517",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/logoparamount.jpg"
+            },
+            {
+                "title": "PRIME BOX BRAZIL",
+                "number": "157",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/157.png"
+            },
+            {
+                "title": "SONY CHANNEL",
+                "number": "137",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/137.png"
+            },
+            {
+                "title": "SONY CHANNEL HD",
+                "number": "537",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/137.png"
+            },
+            {
+                "title": "SPACE",
+                "number": "110",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/110.png"
+            },
+            {
+                "title": "SPACE HD",
+                "number": "510",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/510.png"
+            },
+            {
+                "title": "STAR CHANNEL",
+                "number": "141",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/541.png"
+            },
+            {
+                "title": "STAR CHANNEL HD",
+                "number": "541",
+                "logoUrl": "http:\/\/digitalapi.sky.com.br\/logos\/channels\/541.png"
+            },
+            {
+                "title": "STUDIO UNIVERSAL",
+                "number": "111",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/111.png"
+            },
+            {
+                "title": "STUDIO UNIVERSAL HD",
+                "number": "511",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/511.png"
+            },
+            {
+                "title": "SYFY",
+                "number": "142",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/142.png"
+            },
+            {
+                "title": "SYFY HD",
+                "number": "542",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/542.png"
+            },
+            {
+                "title": "TBS",
+                "number": "155",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/155.png"
+            },
+            {
+                "title": "TCM",
+                "number": "115",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/115.png"
+            },
+            {
+                "title": "TNT",
+                "number": "108",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/108.png"
+            },
+            {
+                "title": "TNT HD",
+                "number": "508",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/508.png"
+            },
+            {
+                "title": "TNT SERIES",
+                "number": "150",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/150.png"
+            },
+            {
+                "title": "TNT SERIES HD",
+                "number": "550",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/550.png"
+            },
+            {
+                "title": "UNIVERSAL CHANNEL",
+                "number": "140",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/140.png"
+            },
+            {
+                "title": "UNIVERSAL CHANNEL HD",
+                "number": "540",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/540.png"
+            },
+            {
+                "title": "WARNER CHANNEL",
+                "number": "139",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/139.png"
+            },
+            {
+                "title": "Warner Channel HD",
+                "number": "539",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/539.png"
+            }]
+        },
+        {
+            "categoryTitle": "Infantil",
+            "categoryCount": 14,
+            "channels": [
+            {
+                "title": "CARTOON NETWORK",
+                "number": "60",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/60.png"
+            },
+            {
+                "title": "CARTOON NETWORK HD",
+                "number": "460",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/460.png"
+            },
+            {
+                "title": "CARTOONITO",
+                "number": "461",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_Cartoonito_SITE.png"
+            },
+            {
+                "title": "DISCOVERY KIDS",
+                "number": "50",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/50.png"
+            },
+            {
+                "title": "DISCOVERY KIDS HD",
+                "number": "450",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/450.png"
+            },
+            {
+                "title": "DISNEY CHANNEL",
+                "number": "55",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/55.png"
+            },
+            {
+                "title": "DISNEY CHANNEL HD",
+                "number": "455",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/455.png"
+            },
+            {
+                "title": "DISNEY JUNIOR HD",
+                "number": "459",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/459.png"
+            },
+            {
+                "title": "DISNEY XD",
+                "number": "53",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/53.png"
+            },
+            {
+                "title": "GLOOB",
+                "number": "56",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/56.png"
+            },
+            {
+                "title": "GLOOB HD",
+                "number": "456",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/456.png"
+            },
+            {
+                "title": "GLOOBINHO",
+                "number": "51",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/51.png"
+            },
+            {
+                "title": "GLOOBINHO HD",
+                "number": "451",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/451.png"
+            },
+            {
+                "title": "NATGEO KIDS HD",
+                "number": "449",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/449.png"
+            },
+            {
+                "title": "NICK JR",
+                "number": "58",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/58.png"
+            },
+            {
+                "title": "NICK JR HD",
+                "number": "458",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/458.png"
+            },
+            {
+                "title": "NICKELODEON",
+                "number": "57",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Nick.png"
+            },
+            {
+                "title": "NICKELODEON HD",
+                "number": "457",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/457.png"
+            },
+            {
+                "title": "TOONCAST",
+                "number": "62",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/62.png"
+            },
+            {
+                "title": "ZooMoo Kids",
+                "number": "52",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/ZooMoo-Kids_92x92.png"
+            }]
+        },
+        {
+            "categoryTitle": "Not\u00edcias",
+            "categoryCount": 7,
+            "channels": [
+            {
+                "title": "BANDNEWS",
+                "number": "171",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/171.png"
+            },
+            {
+                "title": "BANDNEWS HD",
+                "number": "571",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/571.png"
+            },
+            {
+                "title": "BBC WORLD NEWS HD",
+                "number": "572",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/172.png"
+            },
+            {
+                "title": "Bloomberg Television",
+                "number": "573",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/173.png"
+            },
+            {
+                "title": "CNN BRASIL",
+                "number": "177",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/cnnbrasil-vermelho.jpg"
+            },
+            {
+                "title": "CNN BRASIL HD",
+                "number": "577",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/cnnbrasil-vermelho.jpg"
+            },
+            {
+                "title": "CNN INTERNAT.",
+                "number": "174",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/174.png"
+            },
+            {
+                "title": "GLOBONEWS",
+                "number": "40",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/40.png"
+            },
+            {
+                "title": "GLOBONEWS HD",
+                "number": "440",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/440.png"
+            },
+            {
+                "title": "Jovem Pam News",
+                "number": "576",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/35013491\/Logo_JovemPanNews.png"
+            },
+            {
+                "title": "TV CLIMATEMPO",
+                "number": "170",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/170.png"
+            }]
+        },
+        {
+            "categoryTitle": "P\u00fablicos",
+            "categoryCount": 6,
+            "channels": [
+            {
+                "title": "TV BRASIL",
+                "number": "23",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/23.png"
+            },
+            {
+                "title": "TV BRASIL 2",
+                "number": "25",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/25.png"
+            },
+            {
+                "title": "TV C\u00c2MARA",
+                "number": "22",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/22.png"
+            },
+            {
+                "title": "TV ESCOLA",
+                "number": "21",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/21.png"
+            },
+            {
+                "title": "TV JUSTI\u00c7A",
+                "number": "24",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/24.png"
+            },
+            {
+                "title": "TV SENADO",
+                "number": "26",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/26.png"
+            }]
+        },
+        {
+            "categoryTitle": "R\u00e1dio",
+            "categoryCount": 17,
+            "channels": [
+            {
+                "title": "R\u00c1DIO BAND FM",
+                "number": "794",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/radio.png"
+            },
+            {
+                "title": "R\u00c1DIO BANDEIRANTES",
+                "number": "795",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/radio.png"
+            },
+            {
+                "title": "R\u00c1DIO BANDNEWS",
+                "number": "793",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/793.png"
+            },
+            {
+                "title": "R\u00c1DIO BH FM",
+                "number": "782",
+                "logoUrl": "https:\/\/sky-digitaladmin.s3.amazonaws.com\/radio.png"
+            },
+            {
+                "title": "R\u00c1DIO CBN",
+                "number": "776",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693542\/99x38_LOGO_SKY_CBNFM.png"
+            },
+            {
+                "title": "R\u00c1DIO CBN BH",
+                "number": "779",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/779.png"
+            },
+            {
+                "title": "R\u00c1DIO CBN BSB",
+                "number": "778",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/778.png"
+            },
+            {
+                "title": "R\u00c1DIO CBN RJ",
+                "number": "777",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/777.png"
+            },
+            {
+                "title": "R\u00c1DIO CLUBE FM",
+                "number": "792",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/792.png"
+            },
+            {
+                "title": "R\u00c1DIO GA\u00daCHA",
+                "number": "785",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/785.png"
+            },
+            {
+                "title": "R\u00c1DIO GLOBO RJ",
+                "number": "787",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/787.png"
+            },
+            {
+                "title": "R\u00c1DIO ITATIAIA AM\/FM",
+                "number": "789",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/789.png"
+            },
+            {
+                "title": "R\u00c1DIO JOVEM PAN FM",
+                "number": "784",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/784.png"
+            },
+            {
+                "title": "R\u00c1DIO JOVEM PAN NEWS",
+                "number": "783",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/783.png"
+            },
+            {
+                "title": "R\u00c1DIO NATIVA",
+                "number": "796",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/796.png"
+            },
+            {
+                "title": "R\u00c1DIO RFI",
+                "number": "786",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/786.png"
+            },
+            {
+                "title": "R\u00c1DIO VERDES MARES",
+                "number": "790",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/790.png"
+            }]
+        },
+        {
+            "categoryTitle": "Variedades",
+            "categoryCount": 24,
+            "channels": [
+            {
+                "title": "A&E",
+                "number": "138",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/138.png"
+            },
+            {
+                "title": "A&E HD",
+                "number": "538",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/538.png"
+            },
+            {
+                "title": "BIS",
+                "number": "160",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/560.png"
+            },
+            {
+                "title": "BIS HD",
+                "number": "560",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/560.png"
+            },
+            {
+                "title": "CANAL DO CRIADOR",
+                "number": "166",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Logo_96x96.jpg"
+            },
+            {
+                "title": "COMEDY CENTRAL",
+                "number": "158",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/158.png"
+            },
+            {
+                "title": "COMEDY CENTRAL HD",
+                "number": "558",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/558.png"
+            },
+            {
+                "title": "D.HOME&HEALTH",
+                "number": "85",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/85.png"
+            },
+            {
+                "title": "D.HOME&HEALTH HD",
+                "number": "485",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/485.png"
+            },
+            {
+                "title": "DISC TURBO HD",
+                "number": "472",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/472.png"
+            },
+            {
+                "title": "Discovery ID",
+                "number": "149",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/34232075\/SKY_Logo_Discovery_ID_HeroBlack_300x300.png"
+            },
+            {
+                "title": "DISCOVERY ID HD",
+                "number": "549",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/34232075\/SKY_Logo_Discovery_ID_HeroBlack_300x300.png"
+            },
+            {
+                "title": "E!",
+                "number": "91",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/91.png"
+            },
+            {
+                "title": "E! HD",
+                "number": "491",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/491.png"
+            },
+            {
+                "title": "FASHION TV",
+                "number": "84",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/48.png"
+            },
+            {
+                "title": "FISH TV",
+                "number": "162",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_LOGO_FishTV_180x165.jpg"
+            },
+            {
+                "title": "FOOD NETWORK HD",
+                "number": "492",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/492.png"
+            },
+            {
+                "title": "GNT",
+                "number": "41",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/41.png"
+            },
+            {
+                "title": "GNT HD",
+                "number": "441",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/441.png"
+            },
+            {
+                "title": "LIFETIME",
+                "number": "90",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Logo_LifetimeMovies_black.png"
+            },
+            {
+                "title": "LIFETIME HD",
+                "number": "490",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/37907079\/Logo_LifetimeMovies_black.png"
+            },
+            {
+                "title": "MODO VIAGEM",
+                "number": "44",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ModoViagem_2022.jpg"
+            },
+            {
+                "title": "MODO VIAGEM HD",
+                "number": "444",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/Logo_ModoViagem_2022.jpg"
+            },
+            {
+                "title": "MTV",
+                "number": "159",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/159.png"
+            },
+            {
+                "title": "MULTISHOW",
+                "number": "42",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/42.png"
+            },
+            {
+                "title": "MULTISHOW HD",
+                "number": "442",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/442.png"
+            },
+            {
+                "title": "NATIONAL GEOGRAPHIC WILD HD",
+                "number": "479",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/479.png"
+            },
+            {
+                "title": "OFF",
+                "number": "35",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/35.png"
+            },
+            {
+                "title": "OFF HD",
+                "number": "435",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/435.png"
+            },
+            {
+                "title": "STAR LIFE",
+                "number": "148",
+                "logoUrl": "http:\/\/digitalapi.sky.com.br\/logos\/channels\/148.png"
+            },
+            {
+                "title": "STAR LIFE HD",
+                "number": "548",
+                "logoUrl": "https:\/\/digitalapi.sky.com.br\/logos\/channels\/148.png"
+            },
+            {
+                "title": "TLC",
+                "number": "86",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/86.png"
+            },
+            {
+                "title": "Travel Box",
+                "number": "83",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_IMG_LOGO_TRAVELBOXBRAZIL.png"
+            },
+            {
+                "title": "Travel Box HD",
+                "number": "483",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/42693528\/SKY_IMG_LOGO_TRAVELBOXBRAZIL.png"
+            },
+            {
+                "title": "TRUTV HD",
+                "number": "551",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/551.png"
+            },
+            {
+                "title": "TV WA",
+                "number": "161",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/161.png"
+            },
+            {
+                "title": "VIVA",
+                "number": "43",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/43.png"
+            },
+            {
+                "title": "VIVA HD",
+                "number": "443",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/443.png"
+            },
+            {
+                "title": "WOOHOO",
+                "number": "191",
+                "logoUrl": "https:\/\/skycms.s3.amazonaws.com\/images\/45373714\/191.png"
+            }]
+        }]
+    }
+}
