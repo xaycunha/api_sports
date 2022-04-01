@@ -1,0 +1,830 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "API to support ASSINE module",
+    "version": "0.2",
+    "title": "Sumicity API Assine"
+  },
+  "host": "hml-gateway-int.sumicity.net.br",
+  "basePath": "/selectra/sumicity-api-assine",
+  "tags": [
+    {
+      "name": "Location",
+      "description": "Location Controller"
+    },
+    {
+      "name": "Product",
+      "description": "Product Controller"
+    }
+  ],
+  "produces": [
+    "application/json"
+  ],
+  "paths": {
+    "/location": {
+      "get": {
+        "tags": [
+          "Location"
+        ],
+        "summary": "Get All locations",
+        "operationId": "getLocationsUsingGET",
+        "parameters": [
+          {
+            "name": "apikey",
+            "in": "header",
+            "description": "Gateway Token",
+            "required": true,
+            "type": "string",
+            "default": "HzAyvWlatOs6VhqyLTOQqVN4TrpycTSGDQ7M94ZXsqPOmArT4A8HzS5CzOxTqza"
+          },
+          {
+            "name": "state",
+            "in": "query",
+            "description": "Location State",
+            "required": true,
+            "type": "string",
+            "x-example": "RJ",
+            "enum": [
+              "AC",
+              "AL",
+              "AP",
+              "AM",
+              "BA",
+              "CE",
+              "DF",
+              "ES",
+              "GO",
+              "MA",
+              "MT",
+              "MS",
+              "MG",
+              "PA",
+              "PB",
+              "PR",
+              "PE",
+              "PI",
+              "RJ",
+              "RN",
+              "RS",
+              "RO",
+              "RR",
+              "SC",
+              "SP",
+              "SE",
+              "TO"
+            ]
+          },
+          {
+            "name": "useAssine",
+            "in": "query",
+            "description": "Attribute to filter only locations permitted of sale in Assine",
+            "required": true,
+            "type": "boolean",
+            "x-example": true
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/LocationResponseDto"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    },
+    "/product/list/plans": {
+      "get": {
+        "tags": [
+          "Product"
+        ],
+        "summary": "findAllPlansByLocationAndUserTypeAndValidityStartAndValidityEnd",
+        "operationId": "findAllPlansByLocationAndUserTypeAndValidityStartAndValidityEndUsingGET",
+        "parameters": [
+          {
+            "name": "apikey",
+            "in": "header",
+            "description": "Gateway Token",
+            "required": true,
+            "type": "string",
+            "default": "HzAyvWlatOs6VhqyLTOQqVN4TrpycTSGDQ7M94ZXsqPOmArT4A8HzS5CzOxTqza"
+          },
+          {
+            "name": "channelType",
+            "in": "query",
+            "required": false,
+            "type": "string",
+            "x-example": "SITE",
+            "enum": [
+              "CHATBOT",
+              "SITE"
+            ]
+          },
+          {
+            "name": "localityCode",
+            "in": "query",
+            "required": true,
+            "type": "integer",
+            "format": "int64",
+            "x-example": 1
+          },
+          {
+            "name": "planType",
+            "in": "query",
+            "required": false,
+            "type": "string",
+            "x-example": "STANDARD",
+            "enum": [
+              "STANDARD",
+              "OFFER"
+            ]
+          },
+          {
+            "name": "userType",
+            "in": "query",
+            "required": true,
+            "type": "string",
+            "x-example": "PF",
+            "enum": [
+              "PF",
+              "PJ_PME",
+              "PJ_CORP"
+            ]
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/ProductPlanResponseDto"
+              }
+            }
+          },
+          "401": {
+            "description": "Unauthorized"
+          },
+          "403": {
+            "description": "Forbidden"
+          },
+          "404": {
+            "description": "Not Found"
+          }
+        },
+        "deprecated": false
+      }
+    }
+  },
+  "definitions": {
+    "AdditionalInternetSiteResponseDto": {
+      "type": "object",
+      "properties": {
+        "descriptionFrom": {
+          "type": "string"
+        },
+        "descriptionTo": {
+          "type": "string"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "price": {
+          "type": "number"
+        },
+        "speedText": {
+          "type": "string"
+        }
+      },
+      "title": "AdditionalInternetSiteResponseDto"
+    },
+    "AdditionalPlanDto": {
+      "type": "object",
+      "properties": {
+        "airId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 12,
+          "description": "Additional air id"
+        },
+        "commissionPercentage": {
+          "type": "number",
+          "example": 10.05,
+          "description": "Additional Product commission percentage"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64",
+          "example": 12,
+          "description": "Additional id"
+        },
+        "maximumQuantity": {
+          "type": "integer",
+          "format": "int32",
+          "example": 2,
+          "description": "Additional Product max quantity permitted"
+        },
+        "planCode": {
+          "type": "string",
+          "example": "PRO00696",
+          "description": "Additional Product code"
+        },
+        "planValue": {
+          "type": "number",
+          "example": 24.9,
+          "description": "Additional Product value"
+        },
+        "productAirId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 12,
+          "description": "Additional Product air id"
+        },
+        "productGroup": {
+          "type": "string",
+          "example": 107,
+          "description": "Additional Product group"
+        },
+        "productName": {
+          "type": "string",
+          "example": "WATCH ESPN",
+          "description": "Additional Product name"
+        }
+      },
+      "title": "AdditionalPlanDto"
+    },
+    "Channel": {
+      "type": "object",
+      "required": [
+        "category",
+        "contentType",
+        "description",
+        "fileName",
+        "hasBronze",
+        "hasDisplayOnMobile",
+        "hasFree",
+        "hasGold",
+        "hasHd",
+        "hasSilver",
+        "height",
+        "name",
+        "size",
+        "url",
+        "width"
+      ],
+      "properties": {
+        "category": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 250
+        },
+        "contentType": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 250
+        },
+        "contentfulId": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 100
+        },
+        "description": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 2000
+        },
+        "fileName": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 250
+        },
+        "hasBronze": {
+          "type": "boolean"
+        },
+        "hasDisplayOnMobile": {
+          "type": "boolean"
+        },
+        "hasFree": {
+          "type": "boolean"
+        },
+        "hasGold": {
+          "type": "boolean"
+        },
+        "hasHd": {
+          "type": "boolean"
+        },
+        "hasSilver": {
+          "type": "boolean"
+        },
+        "height": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "name": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 250
+        },
+        "size": {
+          "type": "integer",
+          "format": "int64"
+        },
+        "title": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 250
+        },
+        "url": {
+          "type": "string",
+          "minLength": 0,
+          "maxLength": 2000
+        },
+        "width": {
+          "type": "integer",
+          "format": "int64"
+        }
+      },
+      "title": "Channel"
+    },
+    "GoogleAddressComponents": {
+      "type": "object",
+      "properties": {
+        "long_name": {
+          "type": "string"
+        },
+        "short_name": {
+          "type": "string"
+        },
+        "types": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "title": "GoogleAddressComponents"
+    },
+    "LocationResponseDto": {
+      "type": "object",
+      "properties": {
+        "airId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 1,
+          "description": "Location air id"
+        },
+        "cityId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 1,
+          "description": "Location id"
+        },
+        "ibgeCode": {
+          "type": "integer",
+          "format": "int64",
+          "example": 3300159,
+          "description": "Location IBGE code"
+        },
+        "name": {
+          "type": "string",
+          "example": "Carmo",
+          "description": "Location name"
+        },
+        "state": {
+          "type": "string",
+          "example": "RJ",
+          "description": "Location state",
+          "enum": [
+            "AC",
+            "AL",
+            "AP",
+            "AM",
+            "BA",
+            "CE",
+            "DF",
+            "ES",
+            "GO",
+            "MA",
+            "MT",
+            "MS",
+            "MG",
+            "PA",
+            "PB",
+            "PR",
+            "PE",
+            "PI",
+            "RJ",
+            "RN",
+            "RS",
+            "RO",
+            "RR",
+            "SC",
+            "SP",
+            "SE",
+            "TO"
+          ]
+        },
+        "stateName": {
+          "type": "string",
+          "example": "Rio de Janeiro",
+          "description": "Location state name"
+        },
+        "storeAddress": {
+          "type": "string",
+          "example": "Rua teste,  nº 9999",
+          "description": "Location store address"
+        },
+        "storeAttendance": {
+          "type": "string",
+          "example": "Segunda a sexta de 8:30 às 17:30 (almoço de 12:00 às 13:00) - Sábado de 8:30 às 12:30",
+          "description": "Location store Attendance"
+        },
+        "storeLatitude": {
+          "type": "string",
+          "example": -21.623448,
+          "description": "Location Sumicity store latitude"
+        },
+        "storeLongitude": {
+          "type": "string",
+          "example": -42.111884,
+          "description": "Location Sumicity store longitude"
+        },
+        "urlPrefix": {
+          "type": "string",
+          "example": "carmo",
+          "description": "Location url prefix"
+        },
+        "useAssine": {
+          "type": "boolean",
+          "example": true,
+          "description": "Location conditional to sale in Assine"
+        }
+      },
+      "title": "LocationResponseDto"
+    },
+    "ProductPlanResponseDto": {
+      "type": "object",
+      "properties": {
+        "additionalInternets": {
+          "type": "array",
+          "description": "Additional internet site plans",
+          "items": {
+            "$ref": "#/definitions/AdditionalInternetSiteResponseDto"
+          }
+        },
+        "additionalTvPlans": {
+          "type": "array",
+          "description": "Product additional plans",
+          "items": {
+            "$ref": "#/definitions/AdditionalPlanDto"
+          }
+        },
+        "campaignAirId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 340,
+          "description": "Campaign air id "
+        },
+        "campaignCode": {
+          "type": "string",
+          "example": "CAM0338",
+          "description": "Product campaign code"
+        },
+        "campaignProductAirId": {
+          "type": "integer",
+          "format": "int64",
+          "example": 2483,
+          "description": "Product Campaign air id "
+        },
+        "effectiveDateOffer": {
+          "type": "boolean"
+        },
+        "hasAdditionalLandLine": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has additional land line"
+        },
+        "hasBitTrainer": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has bit trainer"
+        },
+        "hasHero": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has hero"
+        },
+        "hasLandLine": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has land line"
+        },
+        "hasLastDaysWarn": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has last days warn"
+        },
+        "hasLivroh": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has livroh"
+        },
+        "hasMagazine": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has magazine"
+        },
+        "hasMumo": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has mumo"
+        },
+        "hasNoggin": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has noggin"
+        },
+        "hasParamount": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has paramount"
+        },
+        "hasPowerWifi": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has power wifi"
+        },
+        "hasQualify": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has qualify"
+        },
+        "hasSumicityPlay": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has Sumicity play"
+        },
+        "hasTopMovies": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has top tv movies"
+        },
+        "hasTv": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product has tv"
+        },
+        "id": {
+          "type": "integer",
+          "format": "int64",
+          "example": 12,
+          "description": "Additional id"
+        },
+        "imageUrl": {
+          "type": "string",
+          "example": "https://gateway-int.sumicity.net.br/sumicity-statics/assine/product/1/product.png",
+          "description": "Product image url based on channel"
+        },
+        "internetDescription": {
+          "type": "string",
+          "example": "Internet - Fibra ótica, franquia liberada Wifi incluso",
+          "description": "Product internet description"
+        },
+        "internetSpeed": {
+          "type": "string",
+          "example": "120Mbps",
+          "description": "Product internet speed"
+        },
+        "internetTitle": {
+          "type": "string",
+          "example": "120Mbps de internet!",
+          "description": "Product internet title"
+        },
+        "isRecommendedForLocality": {
+          "type": "boolean",
+          "example": true,
+          "description": "Product is recommended for locality"
+        },
+        "landLineDescription": {
+          "type": "string",
+          "example": "Ilimitado fixo nacional, identificador de chamadas",
+          "description": "Product land line description"
+        },
+        "landLineTitle": {
+          "type": "string",
+          "example": "Telefone fixo",
+          "description": "Product land line title"
+        },
+        "name": {
+          "type": "string",
+          "example": "WATCH ESPN",
+          "description": "Additional Product name"
+        },
+        "offerEnd": {
+          "type": "string",
+          "format": "date",
+          "example": "2021-02-21",
+          "description": "Offer date end"
+        },
+        "offerPeriod": {
+          "type": "string",
+          "example": "12 MESES",
+          "description": "Product offer period"
+        },
+        "offerPrice": {
+          "type": "number",
+          "example": 99.9,
+          "description": "Product offer price"
+        },
+        "offerStart": {
+          "type": "string",
+          "format": "date",
+          "example": "2021-02-20",
+          "description": "Offer date start"
+        },
+        "planType": {
+          "type": "string",
+          "example": "STANDARD",
+          "description": "Product type",
+          "enum": [
+            "STANDARD",
+            "OFFER"
+          ]
+        },
+        "postOfferPrice": {
+          "type": "number",
+          "example": 105.9,
+          "description": "Product post offer price"
+        },
+        "price": {
+          "type": "number",
+          "example": 109.9,
+          "description": "Product price"
+        },
+        "priceDA": {
+          "type": "number",
+          "example": 99.9,
+          "description": "Product price"
+        },
+        "productCode": {
+          "type": "string",
+          "example": "PAC01317",
+          "description": "Product code"
+        },
+        "tvDescription": {
+          "type": "string",
+          "example": "Tv - Espn",
+          "description": "Product tv description"
+        },
+        "tvPlanType": {
+          "type": "string",
+          "example": "OURO HD",
+          "description": "Product tv plan type",
+          "enum": [
+            "OURO HD",
+            "PRATA HD",
+            "BRONZE HD"
+          ]
+        },
+        "tvTitle": {
+          "type": "string",
+          "example": "Espn",
+          "description": "Product tv title"
+        },
+        "userType": {
+          "type": "string",
+          "example": "PF",
+          "description": "Product user type",
+          "enum": [
+            "PF",
+            "PJ_PME"
+          ]
+        }
+      },
+      "title": "ProductPlanResponseDto"
+    },
+    "Result": {
+      "type": "object",
+      "properties": {
+        "address_components": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/GoogleAddressComponents"
+          }
+        },
+        "formatted_address": {
+          "type": "string"
+        },
+        "partial_match": {
+          "type": "boolean"
+        }
+      },
+      "title": "Result"
+    },
+    "ReturnedAddressFromLocationPickerResponseDto": {
+      "type": "object",
+      "properties": {
+        "httpStatus": {
+          "type": "string",
+          "enum": [
+            "100 CONTINUE",
+            "101 SWITCHING_PROTOCOLS",
+            "102 PROCESSING",
+            "103 CHECKPOINT",
+            "200 OK",
+            "201 CREATED",
+            "202 ACCEPTED",
+            "203 NON_AUTHORITATIVE_INFORMATION",
+            "204 NO_CONTENT",
+            "205 RESET_CONTENT",
+            "206 PARTIAL_CONTENT",
+            "207 MULTI_STATUS",
+            "208 ALREADY_REPORTED",
+            "226 IM_USED",
+            "300 MULTIPLE_CHOICES",
+            "301 MOVED_PERMANENTLY",
+            "302 FOUND",
+            "302 MOVED_TEMPORARILY",
+            "303 SEE_OTHER",
+            "304 NOT_MODIFIED",
+            "305 USE_PROXY",
+            "307 TEMPORARY_REDIRECT",
+            "308 PERMANENT_REDIRECT",
+            "400 BAD_REQUEST",
+            "401 UNAUTHORIZED",
+            "402 PAYMENT_REQUIRED",
+            "403 FORBIDDEN",
+            "404 NOT_FOUND",
+            "405 METHOD_NOT_ALLOWED",
+            "406 NOT_ACCEPTABLE",
+            "407 PROXY_AUTHENTICATION_REQUIRED",
+            "408 REQUEST_TIMEOUT",
+            "409 CONFLICT",
+            "410 GONE",
+            "411 LENGTH_REQUIRED",
+            "412 PRECONDITION_FAILED",
+            "413 PAYLOAD_TOO_LARGE",
+            "413 REQUEST_ENTITY_TOO_LARGE",
+            "414 URI_TOO_LONG",
+            "414 REQUEST_URI_TOO_LONG",
+            "415 UNSUPPORTED_MEDIA_TYPE",
+            "416 REQUESTED_RANGE_NOT_SATISFIABLE",
+            "417 EXPECTATION_FAILED",
+            "418 I_AM_A_TEAPOT",
+            "419 INSUFFICIENT_SPACE_ON_RESOURCE",
+            "420 METHOD_FAILURE",
+            "421 DESTINATION_LOCKED",
+            "422 UNPROCESSABLE_ENTITY",
+            "423 LOCKED",
+            "424 FAILED_DEPENDENCY",
+            "425 TOO_EARLY",
+            "426 UPGRADE_REQUIRED",
+            "428 PRECONDITION_REQUIRED",
+            "429 TOO_MANY_REQUESTS",
+            "431 REQUEST_HEADER_FIELDS_TOO_LARGE",
+            "451 UNAVAILABLE_FOR_LEGAL_REASONS",
+            "500 INTERNAL_SERVER_ERROR",
+            "501 NOT_IMPLEMENTED",
+            "502 BAD_GATEWAY",
+            "503 SERVICE_UNAVAILABLE",
+            "504 GATEWAY_TIMEOUT",
+            "505 HTTP_VERSION_NOT_SUPPORTED",
+            "506 VARIANT_ALSO_NEGOTIATES",
+            "507 INSUFFICIENT_STORAGE",
+            "508 LOOP_DETECTED",
+            "509 BANDWIDTH_LIMIT_EXCEEDED",
+            "510 NOT_EXTENDED",
+            "511 NETWORK_AUTHENTICATION_REQUIRED"
+          ]
+        },
+        "results": {
+          "type": "array",
+          "description": "Google search response results",
+          "items": {
+            "$ref": "#/definitions/Result"
+          }
+        },
+        "status": {
+          "type": "string",
+          "example": "OK",
+          "description": "Google search response status"
+        }
+      },
+      "title": "ReturnedAddressFromLocationPickerResponseDto"
+    }
+  }
+}
