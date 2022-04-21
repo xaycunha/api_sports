@@ -1,0 +1,2957 @@
+{
+  "sys": {
+    "type": "Array"
+  },
+  "total": 1,
+  "skip": 0,
+  "limit": 100,
+  "items": [
+    {
+      "metadata": {
+        "tags": []
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "i3zqzllciu90"
+          }
+        },
+        "id": "362B3hQ0MyvNyRIHSiT7lz",
+        "type": "Entry",
+        "createdAt": "2019-04-05T20:04:59.166Z",
+        "updatedAt": "2022-04-16T00:18:43.598Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "revision": 928,
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "internetPage"
+          }
+        },
+        "locale": "en-US"
+      },
+      "fields": {
+        "title": "Internet",
+        "subtitle": "ULTRA Banda Larga via Fibra Ótica Até Dentro da Sua Casa.",
+        "image": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "6C83hnZDIMn9gZwoS6WdX6"
+          }
+        },
+        "titleSecond": "Conheça nossos planos de Internet ULTRA Banda Larga. Contrate já o seu!",
+        "textSecond": "Planos de acessos residenciais da Sumicity para você se conectar à internet com muito mais velocidade e estabilidade.",
+        "benefitTitle": "Vantagens de ser um cliente Sumicity",
+        "benefitImage": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Asset",
+            "id": "4OHNZDpTuOnb0iXuYYVIrM"
+          }
+        },
+        "items": [
+          {
+            "sva": [
+              "Bit Trainers",
+              "Qualifica",
+              "Paramount +",
+              "Mumo"
+            ],
+            "plano": "150 MEGA",
+            "valor": 99.99,
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "99.99",
+                "cidade": "brasilia",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 201,
+                "idCidadeAssine": 65
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Bit Trainers",
+              "Qualifica",
+              "Revistas Ja",
+              "Livroh"
+            ],
+            "plano": "450 MEGA",
+            "valor": 109.99,
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "109.99",
+                "cidade": "brasilia",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 211,
+                "idCidadeAssine": 65
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Bit Trainers",
+              "Qualifica",
+              "Livroh",
+              "Minuto Carreira",
+              "Revistas Ja"
+            ],
+            "plano": "600 MEGA",
+            "valor": 159.99,
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "159.99",
+                "cidade": "brasilia",
+                "valorPromocional": "149.99",
+                "promocao": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 212,
+                "idCidadeAssine": 65
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Livroh",
+              "Revistas Ja",
+              "Qualifica"
+            ],
+            "plano": "150 MEGA",
+            "valor": 99.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "99.99",
+                "cidade": "macae",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 29
+              },
+              {
+                "valor": "99.99",
+                "cidade": "magepiabeta",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 186,
+                "idCidadeAssine": 31
+              },
+              {
+                "valor": "99.99",
+                "cidade": "magesantoaleixo",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 186,
+                "idCidadeAssine": 32
+              },
+              {
+                "valor": "99.99",
+                "cidade": "riodasostras",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 186,
+                "idCidadeAssine": 41
+              },
+              {
+                "valor": "99.99",
+                "cidade": "tresrios",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 186,
+                "idCidadeAssine": 50
+              },
+              {
+                "valor": "99.99",
+                "cidade": "alemparaiba",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 4
+              },
+              {
+                "valor": "99.99",
+                "cidade": "anchieta",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 1
+              },
+              {
+                "valor": "99.99",
+                "cidade": "aperibe",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 7
+              },
+              {
+                "valor": "99.99",
+                "cidade": "araruama",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 53
+              },
+              {
+                "valor": "99.99",
+                "cidade": "araruamapraiaseca",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 59
+              },
+              {
+                "valor": "99.99",
+                "cidade": "arraialdocabo",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 9
+              },
+              {
+                "valor": "99.99",
+                "cidade": "barradopirai",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 61
+              },
+              {
+                "valor": "99.99",
+                "cidade": "bomjardim",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 10
+              },
+              {
+                "valor": "99.99",
+                "cidade": "cabofrio",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 11
+              },
+              {
+                "valor": "89.99",
+                "cidade": "cachoeirasdemacacu",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 12
+              },
+              {
+                "valor": "99.99",
+                "cidade": "cachoeirodeitapemirim",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 60
+              },
+              {
+                "valor": "99.99",
+                "cidade": "cambuci",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 13
+              },
+              {
+                "valor": "99.99",
+                "cidade": "cariacica",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 54
+              },
+              {
+                "valor": "99.99",
+                "cidade": "carmo",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 16
+              },
+              {
+                "valor": "99.99",
+                "cidade": "casimirodeabreu",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 17
+              },
+              {
+                "valor": "99.99",
+                "cidade": "comendadorlevygasparian",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 19
+              },
+              {
+                "valor": "99.99",
+                "cidade": "cordeiro",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 20
+              },
+              {
+                "valor": "99.99",
+                "cidade": "duasbarras",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 21
+              },
+              {
+                "valor": "99.99",
+                "cidade": "guarapari",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 64
+              },
+              {
+                "valor": "99.99",
+                "cidade": "guapimirim",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 22
+              },
+              {
+                "valor": "99.99",
+                "cidade": "iguabagrande",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 23
+              },
+              {
+                "valor": "99.99",
+                "cidade": "itaocara",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 24
+              },
+              {
+                "valor": "99.99",
+                "cidade": "itapemirim",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 58
+              },
+              {
+                "valor": "99.99",
+                "cidade": "itaperuna",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 25
+              },
+              {
+                "valor": "99.99",
+                "cidade": "itatiaia",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 26
+              },
+              {
+                "valor": "99.99",
+                "cidade": "penedo",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 27
+              },
+              {
+                "valor": "99.99",
+                "cidade": "lajedomuriae",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 28
+              },
+              {
+                "valor": "99.99",
+                "cidade": "macuco",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 30
+              },
+              {
+                "valor": "99.99",
+                "cidade": "marataizes",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 2
+              },
+              {
+                "valor": "99.99",
+                "cidade": "miguelpereira",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 33
+              },
+              {
+                "valor": "99.99",
+                "cidade": "miracema",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 34
+              },
+              {
+                "valor": "99.99",
+                "cidade": "paraibadosul",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 36
+              },
+              {
+                "valor": "99.99",
+                "cidade": "patydoalferes",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 37
+              },
+              {
+                "valor": "99.99",
+                "cidade": "piuma",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 3
+              },
+              {
+                "valor": "99.99",
+                "cidade": "portoreal",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 39
+              },
+              {
+                "valor": "99.99",
+                "cidade": "resende",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 40
+              },
+              {
+                "valor": "99.99",
+                "cidade": "santoantoniodepadua",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 42
+              },
+              {
+                "valor": "99.99",
+                "cidade": "saojosedeuba",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 44
+              },
+              {
+                "valor": "99.99",
+                "cidade": "saopedrodaaldeia",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 45
+              },
+              {
+                "valor": "99.99",
+                "cidade": "sapucaia",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 46
+              },
+              {
+                "valor": "99.99",
+                "cidade": "saquarema",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 62
+              },
+              {
+                "valor": "99.99",
+                "cidade": "serra",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 55
+              },
+              {
+                "valor": "99.99",
+                "cidade": "silvajardim",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 47
+              },
+              {
+                "valor": "99.99",
+                "cidade": "sumidouro",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 48
+              },
+              {
+                "valor": "99.99",
+                "cidade": "teresopolis",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 49
+              },
+              {
+                "valor": "99.99",
+                "cidade": "valencabaraodejuparana",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 52
+              },
+              {
+                "valor": "99.99",
+                "cidade": "vassouras",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 182,
+                "idCidadeAssine": 51
+              },
+              {
+                "valor": "99.99",
+                "cidade": "vilavelha",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 56
+              },
+              {
+                "valor": "99.99",
+                "cidade": "vitoria",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 57
+              },
+              {
+                "valor": "99.99",
+                "cidade": "pinheiral",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 67
+              },
+              {
+                "valor": "99.99",
+                "cidade": "voltaredonda",
+                "valorPromocional": "89.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 185,
+                "idCidadeAssine": 63
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Livroh",
+              "Revistas Ja",
+              "Qualifica"
+            ],
+            "plano": "150 MEGA",
+            "valor": 89.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "89.99",
+                "cidade": "armacaodosbuzios",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 8
+              },
+              {
+                "valor": "89.99",
+                "cidade": "cantagalo",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 15
+              },
+              {
+                "valor": "89.99",
+                "cidade": "cataguases",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 5
+              },
+              {
+                "valor": "89.99",
+                "cidade": "camposdosgoytacazes",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 14
+              },
+              {
+                "valor": "89.99",
+                "cidade": "muriae",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 6
+              },
+              {
+                "valor": "89.99",
+                "cidade": "saofidelis",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 210,
+                "idCidadeAssine": 43
+              },
+              {
+                "valor": "89.99",
+                "cidade": "petropolis",
+                "valorPromocional": "79.99",
+                "promocao": false,
+                "sumicityPlay": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 38
+              },
+              {
+                "valor": "89.99",
+                "cidade": "novafriburgo",
+                "valorPromocional": "79.99",
+                "promocao": true,
+                "sumicityPlay": true,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 177,
+                "idCidadeAssine": 35
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Livroh",
+              "Revistas Ja",
+              "Qualifica",
+              "Mumo"
+            ],
+            "plano": "450 MEGA",
+            "valor": 109.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "109.99",
+                "cidade": "alemparaiba",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 4
+              },
+              {
+                "valor": "109.99",
+                "cidade": "anchieta",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 1
+              },
+              {
+                "valor": "109.99",
+                "cidade": "aperibe",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 7
+              },
+              {
+                "valor": "109.99",
+                "cidade": "araruama",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 53
+              },
+              {
+                "valor": "109.99",
+                "cidade": "araruamapraiaseca",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 59
+              },
+              {
+                "valor": "109.99",
+                "cidade": "armacaodosbuzios",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 8
+              },
+              {
+                "valor": "109.99",
+                "cidade": "arraialdocabo",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 9
+              },
+              {
+                "valor": "109.99",
+                "cidade": "barradopirai",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 61
+              },
+              {
+                "valor": "109.99",
+                "cidade": "bomjardim",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 10
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cabofrio",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 11
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cachoeirasdemacacu",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 12
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cachoeirodeitapemirim",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 60
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cambuci",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 13
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cantagalo",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 15
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cariacica",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 54
+              },
+              {
+                "valor": "109.99",
+                "cidade": "carmo",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 16
+              },
+              {
+                "valor": "109.99",
+                "cidade": "casimirodeabreu",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 17
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cataguases",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 5
+              },
+              {
+                "valor": "109.99",
+                "cidade": "camposdosgoytacazes",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 14
+              },
+              {
+                "valor": "109.99",
+                "cidade": "comendadorlevygasparian",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 19
+              },
+              {
+                "valor": "109.99",
+                "cidade": "cordeiro",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 20
+              },
+              {
+                "valor": "109.99",
+                "cidade": "duasbarras",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 21
+              },
+              {
+                "valor": "109.99",
+                "cidade": "guapimirim",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 22
+              },
+              {
+                "valor": "109.99",
+                "cidade": "iguabagrande",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 23
+              },
+              {
+                "valor": "109.99",
+                "cidade": "itaocara",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 24
+              },
+              {
+                "valor": "109.99",
+                "cidade": "itapemirim",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 58
+              },
+              {
+                "valor": "109.99",
+                "cidade": "itaperuna",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 25
+              },
+              {
+                "valor": "109.99",
+                "cidade": "itatiaia",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 26
+              },
+              {
+                "valor": "109.99",
+                "cidade": "penedo",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 27
+              },
+              {
+                "valor": "109.99",
+                "cidade": "lajedomuriae",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 28
+              },
+              {
+                "valor": "109.99",
+                "cidade": "macuco",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 30
+              },
+              {
+                "valor": "109.99",
+                "cidade": "marataizes",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 2
+              },
+              {
+                "valor": "109.99",
+                "cidade": "miguelpereira",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 33
+              },
+              {
+                "valor": "109.99",
+                "cidade": "miracema",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 34
+              },
+              {
+                "valor": "109.99",
+                "cidade": "muriae",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 6
+              },
+              {
+                "valor": "109.99",
+                "cidade": "novafriburgo",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 35
+              },
+              {
+                "valor": "109.99",
+                "cidade": "paraibadosul",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 36
+              },
+              {
+                "valor": "109.99",
+                "cidade": "patydoalferes",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 37
+              },
+              {
+                "valor": "109.99",
+                "cidade": "petropolis",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 38
+              },
+              {
+                "valor": "109.99",
+                "cidade": "piuma",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 3
+              },
+              {
+                "valor": "109.99",
+                "cidade": "portoreal",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 39
+              },
+              {
+                "valor": "109.99",
+                "cidade": "resende",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 40
+              },
+              {
+                "valor": "109.99",
+                "cidade": "santoantoniodepadua",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 42
+              },
+              {
+                "valor": "109.99",
+                "cidade": "saofidelis",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 43
+              },
+              {
+                "valor": "109.99",
+                "cidade": "saojosedeuba",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 44
+              },
+              {
+                "valor": "109.99",
+                "cidade": "saopedrodaaldeia",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 45
+              },
+              {
+                "valor": "109.99",
+                "cidade": "sapucaia",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 46
+              },
+              {
+                "valor": "109.99",
+                "cidade": "saquarema",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 62
+              },
+              {
+                "valor": "109.99",
+                "cidade": "serra",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 55
+              },
+              {
+                "valor": "109.99",
+                "cidade": "silvajardim",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 47
+              },
+              {
+                "valor": "109.99",
+                "cidade": "sumidouro",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 48
+              },
+              {
+                "valor": "109.99",
+                "cidade": "teresopolis",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 49
+              },
+              {
+                "valor": "109.99",
+                "cidade": "valencabaraodejuparana",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 52
+              },
+              {
+                "valor": "109.99",
+                "cidade": "vassouras",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "idPlanoAssine": 190,
+                "idCidadeAssine": 51
+              },
+              {
+                "valor": "109.99",
+                "cidade": "vilavelha",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 56
+              },
+              {
+                "valor": "109.99",
+                "cidade": "vitoria",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 57
+              },
+              {
+                "valor": "109.99",
+                "cidade": "voltaredonda",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 63
+              },
+              {
+                "valor": "109.99",
+                "cidade": "pinheiral",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 67
+              },
+              {
+                "valor": "109.99",
+                "cidade": "macae",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 183,
+                "idCidadeAssine": 29
+              },
+              {
+                "valor": "109.99",
+                "cidade": "magepiabeta",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 183,
+                "idCidadeAssine": 31
+              },
+              {
+                "valor": "109.99",
+                "cidade": "magesantoaleixo",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 183,
+                "idCidadeAssine": 32
+              },
+              {
+                "valor": "109.99",
+                "cidade": "riodasostras",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 183,
+                "idCidadeAssine": 41
+              },
+              {
+                "valor": "109.99",
+                "cidade": "guarapari",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 192,
+                "idCidadeAssine": 64
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Livroh",
+              "Revistas Ja",
+              "Qualifica",
+              "Mumo"
+            ],
+            "plano": "450 MEGA",
+            "valor": 109.99,
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "109.99",
+                "cidade": "tresrios",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 183,
+                "idCidadeAssine": 50
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Revistas Ja",
+              "Qualifica",
+              "Livroh",
+              "Mumo"
+            ],
+            "plano": "600 MEGA",
+            "valor": 129.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "129.99",
+                "cidade": "alemparaiba",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 4
+              },
+              {
+                "valor": "129.99",
+                "cidade": "anchieta",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 1
+              },
+              {
+                "valor": "129.99",
+                "cidade": "aperibe",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 7
+              },
+              {
+                "valor": "129.99",
+                "cidade": "araruama",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 53
+              },
+              {
+                "valor": "129.99",
+                "cidade": "araruamapraiaseca",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 59
+              },
+              {
+                "valor": "129.99",
+                "cidade": "arraialdocabo",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 9
+              },
+              {
+                "valor": "129.99",
+                "cidade": "barradopirai",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 61
+              },
+              {
+                "valor": "129.99",
+                "cidade": "bomjardim",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 10
+              },
+              {
+                "valor": "129.999",
+                "cidade": "cabofrio",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 11
+              },
+              {
+                "valor": "129.99",
+                "cidade": "cachoeirasdemacacu",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 12
+              },
+              {
+                "valor": "129.99",
+                "cidade": "cachoeirodeitapemirim",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 60
+              },
+              {
+                "valor": "129.99",
+                "cidade": "cambuci",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 13
+              },
+              {
+                "valor": "129.99",
+                "cidade": "cariacica",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 54
+              },
+              {
+                "valor": "109.99",
+                "cidade": "carmo",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 16
+              },
+              {
+                "valor": "129.99",
+                "cidade": "casimirodeabreu",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 17
+              },
+              {
+                "valor": "129.99",
+                "cidade": "comendadorlevygasparian",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 19
+              },
+              {
+                "valor": "129.99",
+                "cidade": "cordeiro",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 20
+              },
+              {
+                "valor": "129.99",
+                "cidade": "duasbarras",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 21
+              },
+              {
+                "valor": "129.99",
+                "cidade": "guapimirim",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 22
+              },
+              {
+                "valor": "129.99",
+                "cidade": "iguabagrande",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 23
+              },
+              {
+                "valor": "129.99",
+                "cidade": "itaocara",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 24
+              },
+              {
+                "valor": "129.99",
+                "cidade": "itapemirim",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 58
+              },
+              {
+                "valor": "129.99",
+                "cidade": "itaperuna",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 25
+              },
+              {
+                "valor": "129.99",
+                "cidade": "itatiaia",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 26
+              },
+              {
+                "valor": "129.99",
+                "cidade": "penedo",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 27
+              },
+              {
+                "valor": "129.99",
+                "cidade": "lajedomuriae",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 28
+              },
+              {
+                "valor": "129.99",
+                "cidade": "macae",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 29
+              },
+              {
+                "valor": "129.99",
+                "cidade": "macuco",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 30
+              },
+              {
+                "valor": "129.99",
+                "cidade": "magepiabeta",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 31
+              },
+              {
+                "valor": "129.99",
+                "cidade": "magesantoaleixo",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 32
+              },
+              {
+                "valor": "129.99",
+                "cidade": "marataizes",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 2
+              },
+              {
+                "valor": "129.99",
+                "cidade": "miguelpereira",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 33
+              },
+              {
+                "valor": "129.99",
+                "cidade": "miracema",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 34
+              },
+              {
+                "valor": "129.99",
+                "cidade": "patydoalferes",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 37
+              },
+              {
+                "valor": "129.99",
+                "cidade": "piuma",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 3
+              },
+              {
+                "valor": "129.99",
+                "cidade": "portoreal",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 39
+              },
+              {
+                "valor": "129.99",
+                "cidade": "pinheiral",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 67
+              },
+              {
+                "valor": "129.99",
+                "cidade": "riodasostras",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 41
+              },
+              {
+                "valor": "129.99",
+                "cidade": "santoantoniodepadua",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 42
+              },
+              {
+                "valor": "129.99",
+                "cidade": "saojosedeuba",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 44
+              },
+              {
+                "valor": "129.99",
+                "cidade": "saopedrodaaldeia",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 45
+              },
+              {
+                "valor": "129.99",
+                "cidade": "sapucaia",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 46
+              },
+              {
+                "valor": "129.99",
+                "cidade": "saquarema",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 62
+              },
+              {
+                "valor": "129.99",
+                "cidade": "silvajardim",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 47
+              },
+              {
+                "valor": "129.99",
+                "cidade": "sumidouro",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 48
+              },
+              {
+                "valor": "129.99",
+                "cidade": "valencabaraodejuparana",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 52
+              },
+              {
+                "valor": "129.99",
+                "cidade": "vassouras",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 191,
+                "idCidadeAssine": 51
+              },
+              {
+                "valor": "129.99",
+                "cidade": "vilavelha",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 56
+              },
+              {
+                "valor": "129.99",
+                "cidade": "vitoria",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 57
+              },
+              {
+                "valor": "129.99",
+                "cidade": "voltaredonda",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 63
+              },
+              {
+                "valor": "129.99",
+                "cidade": "guarapari",
+                "valorPromocional": "119.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 204,
+                "idCidadeAssine": 64
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Revistas Ja",
+              "Qualifica",
+              "Livroh",
+              "Mumo"
+            ],
+            "plano": "600 MEGA",
+            "valor": 119.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "119.99",
+                "cidade": "armacaodosbuzios",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 8
+              },
+              {
+                "valor": "119.99",
+                "cidade": "camposdosgoytacazes",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 14
+              },
+              {
+                "valor": "119.99",
+                "cidade": "cantagalo",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 15
+              },
+              {
+                "valor": "119.99",
+                "cidade": "cataguases",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 5
+              },
+              {
+                "valor": "119.99",
+                "cidade": "novafriburgo",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 35
+              },
+              {
+                "valor": "119.99",
+                "cidade": "muriae",
+                "valorPromocional": "99.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 6
+              },
+              {
+                "valor": "119.99",
+                "cidade": "resende",
+                "valorPromocional": "49.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 6,
+                "idPlanoAssine": 193,
+                "idCidadeAssine": 40
+              },
+              {
+                "valor": "119.99",
+                "cidade": "serra",
+                "valorPromocional": "49.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 6,
+                "idPlanoAssine": 194,
+                "idCidadeAssine": 55
+              },
+              {
+                "valor": "119.99",
+                "cidade": "saofidelis",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 203,
+                "idCidadeAssine": 43
+              },
+              {
+                "valor": "119.99",
+                "cidade": "teresopolis",
+                "valorPromocional": "49.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 6,
+                "idPlanoAssine": 193,
+                "idCidadeAssine": 49
+              },
+              {
+                "valor": "119.99",
+                "cidade": "tresrios",
+                "valorPromocional": "49.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 6,
+                "idPlanoAssine": 193,
+                "idCidadeAssine": 50
+              },
+              {
+                "valor": "119.99",
+                "cidade": "paraibadosul",
+                "valorPromocional": "49.99",
+                "promocao": true,
+                "melhorOferta": true,
+                "vigencia": 6,
+                "idPlanoAssine": 193,
+                "idCidadeAssine": 36
+              },
+              {
+                "valor": "119.99",
+                "cidade": "petropolis",
+                "valorPromocional": "99.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 195,
+                "idCidadeAssine": 38
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Bit Trainers",
+              "Revistas Ja",
+              "Qualifica",
+              "Paramount +",
+              "Livroh"
+            ],
+            "plano": "GIGA CONEXÃO",
+            "valor": 149.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "149.99",
+                "cidade": "armacaodosbuzios",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 8
+              },
+              {
+                "valor": "149.99",
+                "cidade": "camposdosgoytacazes",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 14
+              },
+              {
+                "valor": "149.99",
+                "cidade": "cataguases",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 5
+              },
+              {
+                "valor": "149.99",
+                "cidade": "cantagalo",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 15
+              },
+              {
+                "valor": "149.99",
+                "cidade": "muriae",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 6
+              },
+              {
+                "valor": "149.99",
+                "cidade": "novafriburgo",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 35
+              },
+              {
+                "valor": "149.99",
+                "cidade": "saofidelis",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 202,
+                "idCidadeAssine": 43
+              },
+              {
+                "valor": "149.99",
+                "cidade": "petropolis",
+                "valorPromocional": "129.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 200,
+                "idCidadeAssine": 38
+              }
+            ]
+          },
+          {
+            "sva": [
+              "Bit Trainers",
+              "Revistas Ja",
+              "Qualifica",
+              "Paramount +",
+              "Livroh"
+            ],
+            "plano": "GIGA CONEXÃO",
+            "valor": 159.99,
+            "franquia": "liberada",
+            "informacoes": "Navegue na internet com mais velocidade, assista filmes online, publique fotos e videos em alta resolução no Facebook, baixe músicas e arquivos com mais agilidade e muito mais.",
+            "cidadesdisponiveis": [
+              {
+                "valor": "159.99",
+                "cidade": "alemparaiba",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 4
+              },
+              {
+                "valor": "159.99",
+                "cidade": "anchieta",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 1
+              },
+              {
+                "valor": "159.99",
+                "cidade": "aperibe",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 7
+              },
+              {
+                "valor": "159.99",
+                "cidade": "araruama",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 53
+              },
+              {
+                "valor": "159.99",
+                "cidade": "araruamapraiaseca",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 59
+              },
+              {
+                "valor": "159.99",
+                "cidade": "arraialdocabo",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 9
+              },
+              {
+                "valor": "159.99",
+                "cidade": "barradopirai",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 61
+              },
+              {
+                "valor": "159.99",
+                "cidade": "bomjardim",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 10
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cabofrio",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 11
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cachoeirasdemacacu",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 12
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cachoeirodeitapemirim",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 60
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cambuci",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 13
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cariacica",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 54
+              },
+              {
+                "valor": "159.99",
+                "cidade": "carmo",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 16
+              },
+              {
+                "valor": "159.99",
+                "cidade": "casimirodeabreu",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 17
+              },
+              {
+                "valor": "159.99",
+                "cidade": "comendadorlevygasparian",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 19
+              },
+              {
+                "valor": "159.99",
+                "cidade": "cordeiro",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 20
+              },
+              {
+                "valor": "159.99",
+                "cidade": "duasbarras",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 21
+              },
+              {
+                "valor": "159.99",
+                "cidade": "guapimirim",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 22
+              },
+              {
+                "valor": "159.99",
+                "cidade": "iguabagrande",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 23
+              },
+              {
+                "valor": "159.99",
+                "cidade": "itaocara",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 24
+              },
+              {
+                "valor": "159.99",
+                "cidade": "itapemirim",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 58
+              },
+              {
+                "valor": "159.99",
+                "cidade": "itaperuna",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 25
+              },
+              {
+                "valor": "159.99",
+                "cidade": "itatiaia",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 26
+              },
+              {
+                "valor": "159.99",
+                "cidade": "penedo",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 27
+              },
+              {
+                "valor": "159.99",
+                "cidade": "lajedomuriae",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 28
+              },
+              {
+                "valor": "159.99",
+                "cidade": "macae",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": true,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 29
+              },
+              {
+                "valor": "159.99",
+                "cidade": "macuco",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 30
+              },
+              {
+                "valor": "159.99",
+                "cidade": "magepiabeta",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 31
+              },
+              {
+                "valor": "159.99",
+                "cidade": "magesantoaleixo",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 32
+              },
+              {
+                "valor": "159.99",
+                "cidade": "marataizes",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 2
+              },
+              {
+                "valor": "159.99",
+                "cidade": "miguelpereira",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 33
+              },
+              {
+                "valor": "159.99",
+                "cidade": "miracema",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 34
+              },
+              {
+                "valor": "159.99",
+                "cidade": "paraibadosul",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 36
+              },
+              {
+                "valor": "159.99",
+                "cidade": "patydoalferes",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 37
+              },
+              {
+                "valor": "159.99",
+                "cidade": "pinheiral",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 67
+              },
+              {
+                "valor": "159.99",
+                "cidade": "piuma",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 3
+              },
+              {
+                "valor": "159.99",
+                "cidade": "portoreal",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 39
+              },
+              {
+                "valor": "159.99",
+                "cidade": "resende",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 40
+              },
+              {
+                "valor": "159.99",
+                "cidade": "riodasostras",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 41
+              },
+              {
+                "valor": "159.99",
+                "cidade": "santoantoniodepadua",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 42
+              },
+              {
+                "valor": "159.99",
+                "cidade": "saojosedeuba",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 44
+              },
+              {
+                "valor": "159.99",
+                "cidade": "saopedrodaaldeia",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 45
+              },
+              {
+                "valor": "159.99",
+                "cidade": "sapucaia",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 46
+              },
+              {
+                "valor": "159.99",
+                "cidade": "saquarema",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 62
+              },
+              {
+                "valor": "159.99",
+                "cidade": "serra",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 55
+              },
+              {
+                "valor": "159.99",
+                "cidade": "silvajardim",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 47
+              },
+              {
+                "valor": "159.99",
+                "cidade": "sumidouro",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 48
+              },
+              {
+                "valor": "159.99",
+                "cidade": "teresopolis",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 49
+              },
+              {
+                "valor": "159.99",
+                "cidade": "tresrios",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 50
+              },
+              {
+                "valor": "159.99",
+                "cidade": "valencabaraodejuparana",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 52
+              },
+              {
+                "valor": "159.99",
+                "cidade": "vassouras",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 205,
+                "idCidadeAssine": 51
+              },
+              {
+                "valor": "159.99",
+                "cidade": "vilavelha",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 56
+              },
+              {
+                "valor": "159.99",
+                "cidade": "vitoria",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 57
+              },
+              {
+                "valor": "159.99",
+                "cidade": "voltaredonda",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 63
+              },
+              {
+                "valor": "159.99",
+                "cidade": "guarapari",
+                "valorPromocional": "149.99",
+                "promocao": false,
+                "melhorOferta": false,
+                "vigencia": 12,
+                "idPlanoAssine": 196,
+                "idCidadeAssine": 64
+              }
+            ]
+          }
+        ],
+        "details": "Consulte sobre viabilidade, tarifa de ligações e custos de instalação da sua área no telefone <a href=\"tel:10353\" class=\"__link\">103 53</a>.\n\n<br/><br/>\n<small>1 Para visualizar o Regulamento da Oferta Ilimitado Fixo Nacional, clique aqui. 2 Velocidade anunciada de acesso e trafego da internet é a nominal máxima, podendo sofrer variações decorrentes de fatores externos. Taxa de upload mínima garantida em 10% da velocidade do plano. 3 A condição da franquia liberada poderá ser alterada posteriormente, mediante notificação prévia ao cliente. 4 A funcionalidade wifi, quando disponível no equipamento, tem alcance restrito a 15 (quinze) metros ao redor do local em que ele estiver instalado, desde que livre de anteparos e interferências. Para visualizar a tabela de tarifas referente ao plano Ostara Sem Mensalidade clique aqui. Valor cobrado pelo plano Livre HD é referente a locação do equipamento. O Serviço de Telefone Fixo Comutado - STFC é prestado diretamente e sob responsabilidade da operadora Ostara - Ostara Telecomunicações Ltda. Plano disponíveis apenas para instalação via Fibra. Imagens meramente ilustrativas.</small>",
+        "benefitText": "Conexão via Fibra Óptica até a sua residência.\n<br/>\nMuito mais estabilidade. A Fibra não sofre interferência eletromagnética.\n<br/>\nPlanos com valores que cabem no seu bolso.\n<br/>\nSem sustos no final do mês, a mensalidade é FIXA.\n<br/>\nSuporte Técnico Local com atendimento na sua residência.\n<br/>\nSuporte Telefônico 24hs através do 103 53 (Ligação Gratuita).\n<br/>\nAtendimento Online via chat."
+      }
+    }
+  ],
+  "includes": {
+    "Asset": [
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "i3zqzllciu90"
+            }
+          },
+          "id": "4OHNZDpTuOnb0iXuYYVIrM",
+          "type": "Asset",
+          "createdAt": "2019-04-05T20:09:39.541Z",
+          "updatedAt": "2019-04-05T20:09:39.541Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 1,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "digital-nomad-home-office-keyboard-6249",
+          "file": {
+            "url": "//images.ctfassets.net/i3zqzllciu90/4OHNZDpTuOnb0iXuYYVIrM/2eed97e1ac7aff83e5f699ec449b231a/digital-nomad-home-office-keyboard-6249.jpg",
+            "details": {
+              "size": 2521996,
+              "image": {
+                "width": 3648,
+                "height": 5472
+              }
+            },
+            "fileName": "digital-nomad-home-office-keyboard-6249.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      },
+      {
+        "metadata": {
+          "tags": []
+        },
+        "sys": {
+          "space": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Space",
+              "id": "i3zqzllciu90"
+            }
+          },
+          "id": "6C83hnZDIMn9gZwoS6WdX6",
+          "type": "Asset",
+          "createdAt": "2019-04-05T20:04:11.037Z",
+          "updatedAt": "2020-01-30T14:27:53.067Z",
+          "environment": {
+            "sys": {
+              "id": "master",
+              "type": "Link",
+              "linkType": "Environment"
+            }
+          },
+          "revision": 2,
+          "locale": "en-US"
+        },
+        "fields": {
+          "title": "beautiful-beauty-computer-1467277",
+          "file": {
+            "url": "//images.ctfassets.net/i3zqzllciu90/6C83hnZDIMn9gZwoS6WdX6/a8b10cfd96ab1bf10a555c7115bb1f28/capa_internet__1_.png",
+            "details": {
+              "size": 10172529,
+              "image": {
+                "width": 4896,
+                "height": 3264
+              }
+            },
+            "fileName": "capa internet (1).png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    ]
+  }
+}
